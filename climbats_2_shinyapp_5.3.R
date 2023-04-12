@@ -157,9 +157,9 @@ ui <- fluidPage(title="COST - ClimBats data browser",
 
 server <- function(input, output, session) {
   
-  # hide sidebar when completeness or information
+  # hide sidebar when completeness or information or contribute
   observeEvent(input[["tabset"]], {
-    if(input[["tabset"]] %in% c("Completeness of dataset","About")){
+    if(input[["tabset"]] %in% c("Completeness of dataset","About","Contribute","Download")){
       hideElement(selector = "#sidebar")
       removeCssClass("main", "col-sm-8")
       addCssClass("main", "col-sm-12")

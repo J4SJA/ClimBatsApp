@@ -1,0 +1,190 @@
+,verbatimScientificName,verbatimTraitName,verbatimTraitValue,verbatimTraitValueSD,verbatimTraitValueCV,verbatimTraitValueType,verbatimTraitMethod,verbatimTraitUnit,verbatimN1,verbatimN1Unit,verbatimN2,verbatimN2Unit,Area,ShortReference,FullReference,AdditionalInfo1,AdditionalInfo2,AdditionalInfo3
+1,Rousettus_aegyptiacus,AltitudinalMigration,possible,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,experts,experts,NA,NA,NA
+2,Rhinolophus_hipposideros,AltitudinalMigration,yes,NA,NA,NA,NA,NA,NA,NA,NA,NA,Austria,Hutterer et al. (2005),"Hutterer, R., Ivanova, T., Meyer Cords, C. & Rodrigues, L. (2005). Bat migrations in Europe: a review of banding data and literature. Naturschutz und Biologische Vielfalt, 28, pp 161.",NA,NA,NA
+3,Eptesicus_nilssonii,AltitudinalMigration,yes,NA,NA,NA,NA,NA,NA,NA,NA,NA,Germany,Holzhaider & Zahn (2001),"Holzhaider, J., & Zahn, A. (2001). Bats in the Bavarian Alps: species composition and utilization of higher altitudes in summer. Mammalian Biology, 66(3), 144-154.",NA,NA,NA
+4,Eptesicus_serotinus,AltitudinalMigration,yes,NA,NA,NA,NA,NA,NA,NA,NA,NA,Slovakia,Kaňuch &  Krištín (2006),"Kaňuch, P., & Krištín, A. (2006). Altitudinal distribution of bats in the Pol’ana Mts area (Central Slovakia). Biologia, 61(5), 605-610.",NA,NA,NA
+5,Myotis_brandtii,AltitudinalMigration,yes,NA,NA,NA,NA,NA,NA,NA,NA,NA,Germany,Holzhaider & Zahn (2001),"Holzhaider, J., & Zahn, A. (2001). Bats in the Bavarian Alps: species composition and utilization of higher altitudes in summer. Mammalian Biology, 66(3), 144-154.",NA,NA,NA
+6,Myotis_daubentonii,AltitudinalMigration,yes,NA,NA,NA,NA,NA,NA,NA,NA,NA,Switzerland,Leuzinger & Brossard (1994),"Leuzinger, Y. & Brossard, C. (1994) Répartition de M. daubentonii en fonction du sexe et de la periode de l’année dans le Jura bernois. Résultats preliminaries. Mitteilungen der Naturforschenden Gesellschaft Schaffhausen 39, 135–143",NA,NA,NA
+7,Myotis_daubentonii,AltitudinalMigration,yes,NA,NA,NA,NA,NA,NA,NA,NA,NA,Italy,Russo (2002),"Russo, D. (2002) Elevation affects the distribution of the two sexes in Daubenton’s bats Myotis daubentonii (Chiroptera: Vespertilionidae) from Italy. Mammalia, 66, 543-551.",NA,NA,NA
+8,Myotis_daubentonii,AltitudinalMigration,yes,NA,NA,NA,NA,NA,NA,NA,NA,NA,UnitedKingdom,Senior et al. (2005),"Senior, P., Butlin, R.K. & Altringham, J.D. (2005) Sex and segregation in temperate bats. Proceedings of the Royal Society B: Biological Sciences, 272, 2467-2473.",NA,NA,NA
+9,Myotis_daubentonii,AltitudinalMigration,yes,NA,NA,NA,NA,NA,NA,NA,NA,NA,Germany,Encarnação et al. (2005),"Encarnação, J. A., Kierdorf, U., Holweg, D., Jasnoch, U., & Wolters, V. (2005). Sex‐related differences in roost‐site selection by Daubenton's bats Myotis daubentonii during the nursery period. Mammal Review, 35(3‐4), 285-294.",NA,NA,NA
+10,Myotis_daubentonii,AltitudinalMigration,yes,NA,NA,NA,NA,NA,NA,NA,NA,NA,Slovakia,Kaňuch &  Krištín (2006),"Kaňuch, P., & Krištín, A. (2006). Altitudinal distribution of bats in the Pol’ana Mts area (Central Slovakia). Biologia, 61(5), 605-610.",NA,NA,NA
+11,Myotis_emarginatus,AltitudinalMigration,yes,NA,NA,NA,NA,NA,NA,NA,NA,NA,Germany,Holzhaider & Zahn (2001),"Holzhaider, J., & Zahn, A. (2001). Bats in the Bavarian Alps: species composition and utilization of higher altitudes in summer. Mammalian Biology, 66(3), 144-154.",NA,NA,NA
+12,Myotis_myotis,AltitudinalMigration,yes,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Switzerland, Germany",Holzhaider & Zahn (2001),"Holzhaider, J., & Zahn, A. (2001). Bats in the Bavarian Alps: species composition and utilization of higher altitudes in summer. Mammalian Biology, 66(3), 144-154.",NA,NA,NA
+13,Myotis_mystacinus,AltitudinalMigration,yes,NA,NA,NA,NA,NA,NA,NA,NA,NA,Germany,Holzhaider & Zahn (2001),"Holzhaider, J., & Zahn, A. (2001). Bats in the Bavarian Alps: species composition and utilization of higher altitudes in summer. Mammalian Biology, 66(3), 144-154.",NA,NA,NA
+14,Nyctalus_leisleri,AltitudinalMigration,yes,NA,NA,NA,NA,NA,NA,NA,NA,NA,Slovakia,Kaňuch &  Krištín (2006),"Kaňuch, P., & Krištín, A. (2006). Altitudinal distribution of bats in the Pol’ana Mts area (Central Slovakia). Biologia, 61(5), 605-610.",NA,NA,NA
+15,Pipistrellus_nathusii,AltitudinalMigration,yes,NA,NA,NA,NA,NA,NA,NA,NA,NA,Germany,Holzhaider & Zahn (2001),"Holzhaider, J., & Zahn, A. (2001). Bats in the Bavarian Alps: species composition and utilization of higher altitudes in summer. Mammalian Biology, 66(3), 144-154.",NA,NA,NA
+16,Pipistrellus_pipistrellus,AltitudinalMigration,yes,NA,NA,NA,NA,NA,NA,NA,NA,NA,Germany,Holzhaider & Zahn (2001),"Holzhaider, J., & Zahn, A. (2001). Bats in the Bavarian Alps: species composition and utilization of higher altitudes in summer. Mammalian Biology, 66(3), 144-154.",NA,NA,NA
+17,Pipistrellus_pipistrellus,AltitudinalMigration,yes,NA,NA,NA,NA,NA,NA,NA,NA,NA,Slovakia,Kaňuch &  Krištín (2006),"Kaňuch, P., & Krištín, A. (2006). Altitudinal distribution of bats in the Pol’ana Mts area (Central Slovakia). Biologia, 61(5), 605-610.",NA,NA,NA
+18,Plecotus_auritus,AltitudinalMigration,yes,NA,NA,NA,NA,NA,NA,NA,NA,NA,Germany,Holzhaider & Zahn (2001),"Holzhaider, J., & Zahn, A. (2001). Bats in the Bavarian Alps: species composition and utilization of higher altitudes in summer. Mammalian Biology, 66(3), 144-154.",NA,NA,NA
+19,Vespertilio_murinus,AltitudinalMigration,yes,NA,NA,NA,NA,NA,NA,NA,NA,NA,Germany,Holzhaider & Zahn (2001),"Holzhaider, J., & Zahn, A. (2001). Bats in the Bavarian Alps: species composition and utilization of higher altitudes in summer. Mammalian Biology, 66(3), 144-154.",NA,NA,NA
+20,Barbastella_barbastellus,EstExtentOccurrence,12455378,NA,NA,NA,estimation,km2,NA,NA,NA,NA,full_range,IUCN,IUCN,NA,NA,NA
+21,Eptesicus_isabellinus,EstExtentOccurrence,2082026,NA,NA,NA,estimation,km2,NA,NA,NA,NA,full_range,IUCN,IUCN,NA,NA,NA
+22,Eptesicus_nilssonii,EstExtentOccurrence,24890556,NA,NA,NA,estimation,km2,NA,NA,NA,NA,full_range,IUCN,IUCN,NA,NA,NA
+23,Hypsugo_savii,EstExtentOccurrence,15658670,NA,NA,NA,estimation,km2,NA,NA,NA,NA,full_range,IUCN,IUCN,NA,NA,NA
+24,Miniopterus_schreibersii,EstExtentOccurrence,19946710,NA,NA,NA,estimation,km2,NA,NA,NA,NA,full_range,IUCN,IUCN,NA,NA,NA
+25,Myotis_alcathoe,EstExtentOccurrence,2860473,NA,NA,NA,estimation,km2,NA,NA,NA,NA,full_range,IUCN,IUCN,NA,NA,NA
+26,Myotis_bechsteinii,EstExtentOccurrence,6640673,NA,NA,NA,estimation,km2,NA,NA,NA,NA,full_range,IUCN,IUCN,NA,NA,NA
+27,Myotis_blythii,EstExtentOccurrence,23471950,NA,NA,NA,estimation,km2,NA,NA,NA,NA,full_range,IUCN,IUCN,NA,NA,NA
+28,Myotis_brandtii,EstExtentOccurrence,22872330,NA,NA,NA,estimation,km2,NA,NA,NA,NA,full_range,IUCN,IUCN,NA,NA,NA
+29,Myotis_capaccinii,EstExtentOccurrence,5387022,NA,NA,NA,estimation,km2,NA,NA,NA,NA,full_range,IUCN,IUCN,NA,NA,NA
+30,Myotis_dasycneme,EstExtentOccurrence,9315566,NA,NA,NA,estimation,km2,NA,NA,NA,NA,full_range,IUCN,IUCN,NA,NA,NA
+31,Myotis_emarginatus,EstExtentOccurrence,15654608,NA,NA,NA,estimation,km2,NA,NA,NA,NA,full_range,IUCN,IUCN,NA,NA,NA
+32,Myotis_myotis,EstExtentOccurrence,7071111,NA,NA,NA,estimation,km2,NA,NA,NA,NA,full_range,IUCN,IUCN,NA,NA,NA
+33,Myotis_mystacinus,EstExtentOccurrence,13823224,NA,NA,NA,estimation,km2,NA,NA,NA,NA,full_range,IUCN,IUCN,NA,NA,NA
+34,Myotis_nattereri,EstExtentOccurrence,16030693,NA,NA,NA,estimation,km2,NA,NA,NA,NA,full_range,IUCN,IUCN,NA,NA,NA
+35,Myotis_punicus,EstExtentOccurrence,1848074,NA,NA,NA,estimation,km2,NA,NA,NA,NA,full_range,IUCN,IUCN,NA,NA,NA
+36,Nyctalus_azoreum,EstExtentOccurrence,31023,NA,NA,NA,estimation,km2,NA,NA,NA,NA,full_range,IUCN,IUCN,NA,NA,NA
+37,Nyctalus_lasiopterus,EstExtentOccurrence,8955906,NA,NA,NA,estimation,km2,NA,NA,NA,NA,full_range,IUCN,IUCN,NA,NA,NA
+38,Nyctalus_leisleri,EstExtentOccurrence,20171114,NA,NA,NA,estimation,km2,NA,NA,NA,NA,full_range,IUCN,IUCN,NA,NA,NA
+39,Nyctalus_noctula,EstExtentOccurrence,24101079,NA,NA,NA,estimation,km2,NA,NA,NA,NA,full_range,IUCN,IUCN,NA,NA,NA
+40,Pipistrellus_kuhlii,EstExtentOccurrence,51385949,NA,NA,NA,estimation,km2,NA,NA,NA,NA,full_range,IUCN,IUCN,NA,NA,NA
+41,Pipistrellus_maderensis,EstExtentOccurrence,629747,NA,NA,NA,estimation,km2,NA,NA,NA,NA,full_range,IUCN,IUCN,NA,NA,NA
+42,Pipistrellus_nathusii,EstExtentOccurrence,11175990,NA,NA,NA,estimation,km2,NA,NA,NA,NA,full_range,IUCN,IUCN,NA,NA,NA
+43,Pipistrellus_pygmaeus,EstExtentOccurrence,10673041,NA,NA,NA,estimation,km2,NA,NA,NA,NA,full_range,IUCN,IUCN,NA,NA,NA
+44,Plecotus_auritus,EstExtentOccurrence,12039091,NA,NA,NA,estimation,km2,NA,NA,NA,NA,full_range,IUCN,IUCN,NA,NA,NA
+45,Plecotus_austriacus,EstExtentOccurrence,6047987,NA,NA,NA,estimation,km2,NA,NA,NA,NA,full_range,IUCN,IUCN,NA,NA,NA
+46,Plecotus_macrobullaris,EstExtentOccurrence,4767971,NA,NA,NA,estimation,km2,NA,NA,NA,NA,full_range,IUCN,IUCN,NA,NA,NA
+47,Plecotus_teneriffae,EstExtentOccurrence,17395,NA,NA,NA,estimation,km2,NA,NA,NA,NA,full_range,IUCN,IUCN,NA,NA,NA
+48,Rhinolophus_blasii,EstExtentOccurrence,8849478,NA,NA,NA,estimation,km2,NA,NA,NA,NA,full_range,IUCN,IUCN,NA,NA,NA
+49,Rhinolophus_euryale,EstExtentOccurrence,10858126,NA,NA,NA,estimation,km2,NA,NA,NA,NA,full_range,IUCN,IUCN,NA,NA,NA
+50,Rhinolophus_ferrumequinum,EstExtentOccurrence,31424082,NA,NA,NA,estimation,km2,NA,NA,NA,NA,full_range,IUCN,IUCN,NA,NA,NA
+51,Rhinolophus_hipposideros,EstExtentOccurrence,22157273,NA,NA,NA,estimation,km2,NA,NA,NA,NA,full_range,IUCN,IUCN,NA,NA,NA
+52,Rhinolophus_mehelyi,EstExtentOccurrence,18885688,NA,NA,NA,estimation,km2,NA,NA,NA,NA,full_range,IUCN,IUCN,NA,NA,NA
+53,Vespertilio_murinus,EstExtentOccurrence,25697109,NA,NA,NA,estimation,km2,NA,NA,NA,NA,full_range,IUCN,IUCN,NA,NA,NA
+54,Barbastella_barbastellus,UpperElevationLimit,2260,NA,NA,NA,NA,m,NA,NA,NA,NA,full_range,IUCN,IUCN,NA,NA,NA
+55,Eptesicus_bottae,UpperElevationLimit,2250,NA,NA,NA,NA,m,NA,NA,NA,NA,full_range,IUCN,IUCN,NA,NA,NA
+56,Eptesicus_isabellinus,UpperElevationLimit,1800,NA,NA,NA,NA,m,NA,NA,NA,NA,full_range,IUCN,IUCN,NA,NA,NA
+57,Eptesicus_nilssonii,UpperElevationLimit,2300,NA,NA,NA,NA,m,NA,NA,NA,NA,full_range,IUCN,IUCN,NA,NA,NA
+58,Eptesicus_serotinus,UpperElevationLimit,2593,NA,NA,NA,NA,m,NA,NA,NA,NA,full_range,IUCN,IUCN,NA,NA,NA
+59,Hypsugo_savii,UpperElevationLimit,3000,NA,NA,NA,NA,m,NA,NA,NA,NA,full_range,IUCN,IUCN,NA,NA,NA
+60,Miniopterus_schreibersii,UpperElevationLimit,2600,NA,NA,NA,NA,m,NA,NA,NA,NA,full_range,IUCN,IUCN,NA,NA,NA
+61,Myotis_bechsteinii,UpperElevationLimit,1500,NA,NA,NA,NA,m,NA,NA,NA,NA,full_range,IUCN,IUCN,NA,NA,NA
+62,Myotis_blythii,UpperElevationLimit,2100,NA,NA,NA,NA,m,NA,NA,NA,NA,full_range,IUCN,IUCN,NA,NA,NA
+63,Myotis_brandtii,UpperElevationLimit,2300,NA,NA,NA,NA,m,NA,NA,NA,NA,full_range,IUCN,IUCN,NA,NA,NA
+64,Myotis_capaccinii,UpperElevationLimit,900,NA,NA,NA,NA,m,NA,NA,NA,NA,full_range,IUCN,IUCN,NA,NA,NA
+65,Myotis_dasycneme,UpperElevationLimit,1500,NA,NA,NA,NA,m,NA,NA,NA,NA,full_range,IUCN,IUCN,NA,NA,NA
+66,Myotis_daubentonii,UpperElevationLimit,1400,NA,NA,NA,NA,m,NA,NA,NA,NA,full_range,IUCN,IUCN,NA,NA,NA
+67,Myotis_emarginatus,UpperElevationLimit,1800,NA,NA,NA,NA,m,NA,NA,NA,NA,full_range,IUCN,IUCN,NA,NA,NA
+68,Myotis_escalerai,UpperElevationLimit,2100,NA,NA,NA,NA,m,NA,NA,NA,NA,full_range,IUCN,IUCN,NA,NA,NA
+69,Myotis_mystacinus,UpperElevationLimit,1920,NA,NA,NA,NA,m,NA,NA,NA,NA,full_range,IUCN,IUCN,NA,NA,NA
+70,Myotis_nattereri,UpperElevationLimit,2000,NA,NA,NA,NA,m,NA,NA,NA,NA,full_range,IUCN,IUCN,NA,NA,NA
+71,Nyctalus_azoreum,UpperElevationLimit,600,NA,NA,NA,NA,m,NA,NA,NA,NA,full_range,IUCN,IUCN,NA,NA,NA
+72,Nyctalus_lasiopterus,UpperElevationLimit,1900,NA,NA,NA,NA,m,NA,NA,NA,NA,full_range,IUCN,IUCN,NA,NA,NA
+73,Nyctalus_leisleri,UpperElevationLimit,2400,NA,NA,NA,NA,m,NA,NA,NA,NA,full_range,IUCN,IUCN,NA,NA,NA
+74,Nyctalus_noctula,UpperElevationLimit,1900,NA,NA,NA,NA,m,NA,NA,NA,NA,full_range,IUCN,IUCN,NA,NA,NA
+75,Pipistrellus_kuhlii,UpperElevationLimit,2000,NA,NA,NA,NA,m,NA,NA,NA,NA,full_range,IUCN,IUCN,NA,NA,NA
+76,Pipistrellus_maderensis,UpperElevationLimit,2150,NA,NA,NA,NA,m,NA,NA,NA,NA,full_range,IUCN,IUCN,NA,NA,NA
+77,Pipistrellus_nathusii,UpperElevationLimit,2200,NA,NA,NA,NA,m,NA,NA,NA,NA,full_range,IUCN,IUCN,NA,NA,NA
+78,Pipistrellus_pipistrellus,UpperElevationLimit,2000,NA,NA,NA,NA,m,NA,NA,NA,NA,full_range,IUCN,IUCN,NA,NA,NA
+79,Plecotus_auritus,UpperElevationLimit,2350,NA,NA,NA,NA,m,NA,NA,NA,NA,full_range,IUCN,IUCN,NA,NA,NA
+80,Plecotus_austriacus,UpperElevationLimit,3000,NA,NA,NA,NA,m,NA,NA,NA,NA,full_range,IUCN,IUCN,NA,NA,NA
+81,Plecotus_kolombatovici,UpperElevationLimit,3000,NA,NA,NA,NA,m,NA,NA,NA,NA,full_range,IUCN,IUCN,NA,NA,NA
+82,Plecotus_macrobullaris,UpperElevationLimit,2800,NA,NA,NA,NA,m,NA,NA,NA,NA,full_range,IUCN,IUCN,NA,NA,NA
+83,Plecotus_teneriffae,UpperElevationLimit,2300,NA,NA,NA,NA,m,NA,NA,NA,NA,full_range,IUCN,IUCN,NA,NA,NA
+84,Rhinolophus_blasii,UpperElevationLimit,2215,NA,NA,NA,NA,m,NA,NA,NA,NA,full_range,IUCN,IUCN,NA,NA,NA
+85,Rhinolophus_euryale,UpperElevationLimit,1360,NA,NA,NA,NA,m,NA,NA,NA,NA,full_range,IUCN,IUCN,NA,NA,NA
+86,Rhinolophus_ferrumequinum,UpperElevationLimit,3000,NA,NA,NA,NA,m,NA,NA,NA,NA,full_range,IUCN,IUCN,NA,NA,NA
+87,Rhinolophus_hipposideros,UpperElevationLimit,2000,NA,NA,NA,NA,m,NA,NA,NA,NA,full_range,IUCN,IUCN,NA,NA,NA
+88,Rhinolophus_mehelyi,UpperElevationLimit,2000,NA,NA,NA,NA,m,NA,NA,NA,NA,full_range,IUCN,IUCN,NA,NA,NA
+89,Rousettus_aegyptiacus,UpperElevationLimit,4000,NA,NA,NA,NA,m,NA,NA,NA,NA,full_range,IUCN,IUCN,NA,NA,NA
+90,Tadarida_teniotis,UpperElevationLimit,3100,NA,NA,NA,NA,m,NA,NA,NA,NA,full_range,IUCN,IUCN,NA,NA,NA
+91,Vespertilio_murinus,UpperElevationLimit,3000,NA,NA,NA,NA,m,NA,NA,NA,NA,full_range,IUCN,IUCN,NA,NA,NA
+92,Barbastella_barbastellus,IslandEndemic,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,full_range,experts,experts,NA,NA,NA
+93,Eptesicus_anatolicus,IslandEndemic,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,full_range,experts,experts,NA,NA,NA
+94,Eptesicus_bottae,IslandEndemic,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,full_range,experts,experts,NA,NA,NA
+95,Eptesicus_isabellinus,IslandEndemic,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,full_range,experts,experts,NA,NA,NA
+96,Eptesicus_nilssonii,IslandEndemic,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,full_range,experts,experts,NA,NA,NA
+97,Eptesicus_serotinus,IslandEndemic,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,full_range,experts,experts,NA,NA,NA
+98,Hypsugo_savii,IslandEndemic,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,full_range,experts,experts,NA,NA,NA
+99,Miniopterus_schreibersii,IslandEndemic,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,full_range,experts,experts,NA,NA,NA
+100,Myotis_alcathoe,IslandEndemic,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,full_range,experts,experts,NA,NA,NA
+101,Myotis_bechsteinii,IslandEndemic,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,full_range,experts,experts,NA,NA,NA
+102,Myotis_blythii,IslandEndemic,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,full_range,experts,experts,NA,NA,NA
+103,Myotis_brandtii,IslandEndemic,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,full_range,experts,experts,NA,NA,NA
+104,Myotis_capaccinii,IslandEndemic,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,full_range,experts,experts,NA,NA,NA
+105,Myotis_crypticus,IslandEndemic,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,full_range,experts,experts,NA,NA,NA
+106,Myotis_dasycneme,IslandEndemic,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,full_range,experts,experts,NA,NA,NA
+107,Myotis_daubentonii,IslandEndemic,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,full_range,experts,experts,NA,NA,NA
+108,Myotis_davidii,IslandEndemic,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,full_range,experts,experts,NA,NA,NA
+109,Myotis_emarginatus,IslandEndemic,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,full_range,experts,experts,NA,NA,NA
+110,Myotis_escalerai,IslandEndemic,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,full_range,experts,experts,NA,NA,NA
+111,Myotis_myotis,IslandEndemic,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,full_range,experts,experts,NA,NA,NA
+112,Myotis_mystacinus,IslandEndemic,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,full_range,experts,experts,NA,NA,NA
+113,Myotis_nattereri,IslandEndemic,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,full_range,experts,experts,NA,NA,NA
+114,Myotis_punicus,IslandEndemic,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,full_range,experts,experts,NA,NA,NA
+115,Nyctalus_azoreum,IslandEndemic,yes,NA,NA,NA,NA,NA,NA,NA,NA,NA,full_range,experts,experts,NA,NA,NA
+116,Nyctalus_lasiopterus,IslandEndemic,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,full_range,experts,experts,NA,NA,NA
+117,Nyctalus_leisleri,IslandEndemic,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,full_range,experts,experts,NA,NA,NA
+118,Nyctalus_noctula,IslandEndemic,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,full_range,experts,experts,NA,NA,NA
+119,Pipistrellus_kuhlii,IslandEndemic,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,full_range,experts,experts,NA,NA,NA
+120,Pipistrellus_maderensis,IslandEndemic,yes,NA,NA,NA,NA,NA,NA,NA,NA,NA,full_range,experts,experts,NA,NA,NA
+121,Pipistrellus_nathusii,IslandEndemic,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,full_range,experts,experts,NA,NA,NA
+122,Pipistrellus_pipistrellus,IslandEndemic,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,full_range,experts,experts,NA,NA,NA
+123,Pipistrellus_pygmaeus,IslandEndemic,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,full_range,experts,experts,NA,NA,NA
+124,Plecotus_auritus,IslandEndemic,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,full_range,experts,experts,NA,NA,NA
+125,Plecotus_austriacus,IslandEndemic,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,full_range,experts,experts,NA,NA,NA
+126,Plecotus_gaisleri,IslandEndemic,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,full_range,experts,experts,NA,NA,NA
+127,Plecotus_kolombatovici,IslandEndemic,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,full_range,experts,experts,NA,NA,NA
+128,Plecotus_macrobullaris,IslandEndemic,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,full_range,experts,experts,NA,NA,NA
+129,Plecotus_sardus,IslandEndemic,yes,NA,NA,NA,NA,NA,NA,NA,NA,NA,full_range,experts,experts,NA,NA,NA
+130,Plecotus_teneriffae,IslandEndemic,yes,NA,NA,NA,NA,NA,NA,NA,NA,NA,full_range,experts,experts,NA,NA,NA
+131,Rhinolophus_blasii,IslandEndemic,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,full_range,experts,experts,NA,NA,NA
+132,Rhinolophus_euryale,IslandEndemic,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,full_range,experts,experts,NA,NA,NA
+133,Rhinolophus_ferrumequinum,IslandEndemic,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,full_range,experts,experts,NA,NA,NA
+134,Rhinolophus_hipposideros,IslandEndemic,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,full_range,experts,experts,NA,NA,NA
+135,Rhinolophus_mehelyi,IslandEndemic,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,full_range,experts,experts,NA,NA,NA
+136,Rousettus_aegyptiacus,IslandEndemic,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,full_range,experts,experts,NA,NA,NA
+137,Tadarida_teniotis,IslandEndemic,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,full_range,experts,experts,NA,NA,NA
+138,Vespertilio_murinus,IslandEndemic,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,full_range,experts,experts,NA,NA,NA
+139,Eptesicus_nilssonii,UpperElevationLimit,3106,NA,NA,NA,acoustic,m,NA,NA,NA,NA,Austria,Widerin & Reiter (2017),"Widerin, K., & Reiter, G. (2017). Bat activity at high altitudes in the Central Alps, Europe. Acta Chiropterologica, 19(2), 379-387.",NA,NA,NA
+140,Hypsugo_savii,UpperElevationLimit,3300,NA,NA,NA,capture,m,NA,NA,NA,NA,NA,Garrido-Garcia (1999),"Garrido-Garcia, J. A. (1999). New altitude record for Chiroptera in Europe. Myotis, 37, 103.",NA,NA,NA
+141,Nyctalus_noctula,UpperElevationLimit,2518,NA,NA,NA,acoustic,m,NA,NA,NA,NA,Austria,Widerin & Reiter (2017),"Widerin, K., & Reiter, G. (2017). Bat activity at high altitudes in the Central Alps, Europe. Acta Chiropterologica, 19(2), 379-387.",NA,NA,NA
+142,Miniopterus_schreibersii,UpperElevationLimit,2260,NA,NA,NA,capture,m,NA,NA,NA,NA,France,Berirano (1992),"Berirano, A. (1992). Données préliminaires sur les chauves-souris de la haute chaîne pyrénéenne (Pyrénées ariégeoises). Mammalia, 56, 290-292.",NA,NA,NA
+143,Miniopterus_schreibersii,GeographicRange,1979126.67,NA,NA,NA,NA,km2,NA,NA,NA,NA,full_range,IUCN,IUCN,NA,NA,NA
+144,Tadarida_teniotis,GeographicRange,3897576.874,NA,NA,NA,NA,km2,NA,NA,NA,NA,full_range,IUCN,IUCN,NA,NA,NA
+145,Rousettus_aegyptiacus,GeographicRange,4071434.385,NA,NA,NA,NA,km2,NA,NA,NA,NA,full_range,IUCN,IUCN,NA,NA,NA
+146,Rhinolophus_blasii,GeographicRange,3410523.508,NA,NA,NA,NA,km2,NA,NA,NA,NA,full_range,IUCN,IUCN,NA,NA,NA
+147,Rhinolophus_euryale,GeographicRange,2992802.015,NA,NA,NA,NA,km2,NA,NA,NA,NA,full_range,IUCN,IUCN,NA,NA,NA
+148,Rhinolophus_ferrumequinum,GeographicRange,9746921.308,NA,NA,NA,NA,km2,NA,NA,NA,NA,full_range,IUCN,IUCN,NA,NA,NA
+149,Rhinolophus_hipposideros,GeographicRange,6258797.907,NA,NA,NA,NA,km2,NA,NA,NA,NA,full_range,IUCN,IUCN,NA,NA,NA
+150,Rhinolophus_mehelyi,GeographicRange,1977521.672,NA,NA,NA,NA,km2,NA,NA,NA,NA,full_range,IUCN,IUCN,NA,NA,NA
+151,Barbastella_barbastellus,GeographicRange,3807519.926,NA,NA,NA,NA,km2,NA,NA,NA,NA,full_range,IUCN,IUCN,NA,NA,NA
+152,Eptesicus_anatolicus,GeographicRange,503891.3206,NA,NA,NA,NA,km2,NA,NA,NA,NA,full_range,IUCN,IUCN,NA,NA,NA
+153,Eptesicus_bottae,GeographicRange,1067294.089,NA,NA,NA,NA,km2,NA,NA,NA,NA,full_range,IUCN,IUCN,NA,NA,NA
+154,Eptesicus_isabellinus,GeographicRange,852637.9049,NA,NA,NA,NA,km2,NA,NA,NA,NA,full_range,IUCN,IUCN,NA,NA,NA
+155,Eptesicus_nilssonii,GeographicRange,10472430.55,NA,NA,NA,NA,km2,NA,NA,NA,NA,full_range,IUCN,IUCN,NA,NA,NA
+156,Eptesicus_serotinus,GeographicRange,10167258.52,NA,NA,NA,NA,km2,NA,NA,NA,NA,full_range,IUCN,IUCN,NA,NA,NA
+157,Hypsugo_savii,GeographicRange,4336164.744,NA,NA,NA,NA,km2,NA,NA,NA,NA,full_range,IUCN,IUCN,NA,NA,NA
+158,Myotis_alcathoe,GeographicRange,513357.714,NA,NA,NA,NA,km2,NA,NA,NA,NA,full_range,IUCN,IUCN,NA,NA,NA
+159,Myotis_bechsteinii,GeographicRange,2676425.053,NA,NA,NA,NA,km2,NA,NA,NA,NA,full_range,IUCN,IUCN,NA,NA,NA
+160,Myotis_blythii,GeographicRange,6194786.623,NA,NA,NA,NA,km2,NA,NA,NA,NA,full_range,IUCN,IUCN,NA,NA,NA
+161,Myotis_brandtii,GeographicRange,5453702.998,NA,NA,NA,NA,km2,NA,NA,NA,NA,full_range,IUCN,IUCN,NA,NA,NA
+162,Myotis_capaccinii,GeographicRange,1228990.114,NA,NA,NA,NA,km2,NA,NA,NA,NA,full_range,IUCN,IUCN,NA,NA,NA
+163,Myotis_crypticus,GeographicRange,1757842.801,NA,NA,NA,NA,km2,NA,NA,NA,NA,full_range,IUCN,IUCN,NA,NA,NA
+164,Myotis_dasycneme,GeographicRange,5448299.655,NA,NA,NA,NA,km2,NA,NA,NA,NA,full_range,IUCN,IUCN,NA,NA,NA
+165,Myotis_daubentonii,GeographicRange,7013024.795,NA,NA,NA,NA,km2,NA,NA,NA,NA,full_range,IUCN,IUCN,NA,NA,NA
+166,Myotis_davidii,GeographicRange,4113992.871,NA,NA,NA,NA,km2,NA,NA,NA,NA,full_range,IUCN,IUCN,NA,NA,NA
+167,Myotis_emarginatus,GeographicRange,4646845.345,NA,NA,NA,NA,km2,NA,NA,NA,NA,full_range,IUCN,IUCN,NA,NA,NA
+168,Myotis_escalerai,GeographicRange,438889.953,NA,NA,NA,NA,km2,NA,NA,NA,NA,full_range,IUCN,IUCN,NA,NA,NA
+169,Myotis_myotis,GeographicRange,3874506.93,NA,NA,NA,NA,km2,NA,NA,NA,NA,full_range,IUCN,IUCN,NA,NA,NA
+170,Myotis_mystacinus,GeographicRange,4975172.086,NA,NA,NA,NA,km2,NA,NA,NA,NA,full_range,IUCN,IUCN,NA,NA,NA
+171,Myotis_nattereri,GeographicRange,3817842.894,NA,NA,NA,NA,km2,NA,NA,NA,NA,full_range,IUCN,IUCN,NA,NA,NA
+172,Myotis_punicus,GeographicRange,654271.5784,NA,NA,NA,NA,km2,NA,NA,NA,NA,full_range,IUCN,IUCN,NA,NA,NA
+173,Nyctalus_azoreum,GeographicRange,2237.338133,NA,NA,NA,NA,km2,NA,NA,NA,NA,full_range,IUCN,IUCN,NA,NA,NA
+174,Nyctalus_lasiopterus,GeographicRange,2917441.23,NA,NA,NA,NA,km2,NA,NA,NA,NA,full_range,IUCN,IUCN,NA,NA,NA
+175,Nyctalus_leisleri,GeographicRange,5171189.18,NA,NA,NA,NA,km2,NA,NA,NA,NA,full_range,IUCN,IUCN,NA,NA,NA
+176,Nyctalus_noctula,GeographicRange,7209839.98,NA,NA,NA,NA,km2,NA,NA,NA,NA,full_range,IUCN,IUCN,NA,NA,NA
+177,Pipistrellus_kuhlii,GeographicRange,10905960.28,NA,NA,NA,NA,km2,NA,NA,NA,NA,full_range,IUCN,IUCN,NA,NA,NA
+178,Pipistrellus_maderensis,GeographicRange,4798.140282,NA,NA,NA,NA,km2,NA,NA,NA,NA,full_range,IUCN,IUCN,NA,NA,NA
+179,Pipistrellus_nathusii,GeographicRange,5890284.358,NA,NA,NA,NA,km2,NA,NA,NA,NA,full_range,IUCN,IUCN,NA,NA,NA
+180,Pipistrellus_pipistrellus,GeographicRange,7533396.428,NA,NA,NA,NA,km2,NA,NA,NA,NA,full_range,IUCN,IUCN,NA,NA,NA
+181,Pipistrellus_pygmaeus,GeographicRange,1960618.783,NA,NA,NA,NA,km2,NA,NA,NA,NA,full_range,IUCN,IUCN,NA,NA,NA
+182,Plecotus_auritus,GeographicRange,5717005.422,NA,NA,NA,NA,km2,NA,NA,NA,NA,full_range,IUCN,IUCN,NA,NA,NA
+183,Plecotus_austriacus,GeographicRange,2318974.701,NA,NA,NA,NA,km2,NA,NA,NA,NA,full_range,IUCN,IUCN,NA,NA,NA
+184,Plecotus_gaisleri,GeographicRange,1757842.801,NA,NA,NA,NA,km2,NA,NA,NA,NA,full_range,IUCN,IUCN,NA,NA,NA
+185,Plecotus_kolombatovici,GeographicRange,978139.7655,NA,NA,NA,NA,km2,NA,NA,NA,NA,full_range,IUCN,IUCN,NA,NA,NA
+186,Plecotus_macrobullaris,GeographicRange,1010911.544,NA,NA,NA,NA,km2,NA,NA,NA,NA,full_range,IUCN,IUCN,NA,NA,NA
+187,Plecotus_sardus,GeographicRange,23980.58767,NA,NA,NA,NA,km2,NA,NA,NA,NA,full_range,IUCN,IUCN,NA,NA,NA
+188,Plecotus_teneriffae,GeographicRange,3405.064512,NA,NA,NA,NA,km2,NA,NA,NA,NA,full_range,IUCN,IUCN,NA,NA,NA
+189,Vespertilio_murinus,GeographicRange,15712047.46,NA,NA,NA,NA,km2,NA,NA,NA,NA,full_range,IUCN,IUCN,NA,NA,NA

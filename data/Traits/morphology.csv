@@ -1,0 +1,1147 @@
+﻿verbatimScientificName,verbatimTraitName,verbatimTraitValue,verbatimTraitValueSD,verbatimTraitValueCV,verbatimTraitValueType,verbatimTraitMethod,verbatimTraitUnit,verbatimN1,verbatimN1Unit,Area,ShortReference,FullReference,AdditionalInfo1,AdditionalInfo2,AdditionalInfo3
+Barbastella_barbastellus,ForearmLength,38.86,1.69,4.35,mean,capture,mm,3260,individual,France,CACCHI,Unpublished data from the CACCHI program,Data_provider:_Julie_Marmet,Adult,spurious_values_&_outliers_removed
+Barbastella_barbastellus,ThirdDigitLength,70.6,2.4,3.4,mean,capture,mm,120,individual,France,CACCHI,Unpublished data from the CACCHI program,Data_provider:_Julie_Marmet,Adult,spurious_values_&_outliers_removed
+Barbastella_barbastellus,FifthDigitLength,53.95,1.89,3.5,mean,capture,mm,164,individual,France,CACCHI,Unpublished data from the CACCHI program,Data_provider:_Julie_Marmet,Adult,spurious_values_&_outliers_removed
+Barbastella_barbastellus,BodyMass,8.39,0.89,10.61,mean,capture,g,334,individual,France,CACCHI,Unpublished data from the CACCHI program,Data_provider:_Julie_Marmet,Adult,spurious_values_&_outliers_removed
+Eptesicus_nilssonii,ForearmLength,39.46,1.02,2.58,mean,capture,mm,65,individual,France,CACCHI,Unpublished data from the CACCHI program,Data_provider:_Julie_Marmet,Adult,spurious_values_&_outliers_removed
+Eptesicus_nilssonii,ThirdDigitLength,71,NA,NA,mean,capture,mm,1,individual,France,CACCHI,Unpublished data from the CACCHI program,Data_provider:_Julie_Marmet,Adult,spurious_values_&_outliers_removed
+Eptesicus_nilssonii,FifthDigitLength,55,NA,NA,mean,capture,mm,1,individual,France,CACCHI,Unpublished data from the CACCHI program,Data_provider:_Julie_Marmet,Adult,spurious_values_&_outliers_removed
+Eptesicus_nilssonii,BodyMass,10.71,1.5,14.01,mean,capture,g,7,individual,France,CACCHI,Unpublished data from the CACCHI program,Data_provider:_Julie_Marmet,Adult,spurious_values_&_outliers_removed
+Eptesicus_serotinus,ForearmLength,51.84,1.73,3.34,mean,capture,mm,2381,individual,France,CACCHI,Unpublished data from the CACCHI program,Data_provider:_Julie_Marmet,Adult,spurious_values_&_outliers_removed
+Eptesicus_serotinus,ThirdDigitLength,91.34,3.35,3.67,mean,capture,mm,35,individual,France,CACCHI,Unpublished data from the CACCHI program,Data_provider:_Julie_Marmet,Adult,spurious_values_&_outliers_removed
+Eptesicus_serotinus,FifthDigitLength,66.26,2.33,3.52,mean,capture,mm,45,individual,France,CACCHI,Unpublished data from the CACCHI program,Data_provider:_Julie_Marmet,Adult,spurious_values_&_outliers_removed
+Eptesicus_serotinus,BodyMass,22.08,3.05,13.81,mean,capture,g,307,individual,France,CACCHI,Unpublished data from the CACCHI program,Data_provider:_Julie_Marmet,Adult,spurious_values_&_outliers_removed
+Hypsugo_savii,ForearmLength,33.15,1.33,4.01,mean,capture,mm,2425,individual,France,CACCHI,Unpublished data from the CACCHI program,Data_provider:_Julie_Marmet,Adult,spurious_values_&_outliers_removed
+Hypsugo_savii,ThirdDigitLength,58.62,2.09,3.57,mean,capture,mm,39,individual,France,CACCHI,Unpublished data from the CACCHI program,Data_provider:_Julie_Marmet,Adult,spurious_values_&_outliers_removed
+Hypsugo_savii,FifthDigitLength,43.82,1.73,3.95,mean,capture,mm,55,individual,France,CACCHI,Unpublished data from the CACCHI program,Data_provider:_Julie_Marmet,Adult,spurious_values_&_outliers_removed
+Hypsugo_savii,BodyMass,7.12,1.39,19.52,mean,capture,g,203,individual,France,CACCHI,Unpublished data from the CACCHI program,Data_provider:_Julie_Marmet,Adult,spurious_values_&_outliers_removed
+Miniopterus_schreibersii,ForearmLength,45.05,0.84,1.86,mean,capture,mm,2837,individual,France,CACCHI,Unpublished data from the CACCHI program,Data_provider:_Julie_Marmet,Adult,spurious_values_&_outliers_removed
+Miniopterus_schreibersii,ThirdDigitLength,88.87,1.73,1.95,mean,capture,mm,152,individual,France,CACCHI,Unpublished data from the CACCHI program,Data_provider:_Julie_Marmet,Adult,spurious_values_&_outliers_removed
+Miniopterus_schreibersii,FifthDigitLength,54.58,0.89,1.63,mean,capture,mm,137,individual,France,CACCHI,Unpublished data from the CACCHI program,Data_provider:_Julie_Marmet,Adult,spurious_values_&_outliers_removed
+Miniopterus_schreibersii,BodyMass,11.89,1.47,12.36,mean,capture,g,267,individual,France,CACCHI,Unpublished data from the CACCHI program,Data_provider:_Julie_Marmet,Adult,spurious_values_&_outliers_removed
+Myotis_alcathoe,ForearmLength,31.61,0.8,2.53,mean,capture,mm,779,individual,France,CACCHI,Unpublished data from the CACCHI program,Data_provider:_Julie_Marmet,Adult,spurious_values_&_outliers_removed
+Myotis_alcathoe,ThirdDigitLength,53.39,1.99,3.73,mean,capture,mm,41,individual,France,CACCHI,Unpublished data from the CACCHI program,Data_provider:_Julie_Marmet,Adult,spurious_values_&_outliers_removed
+Myotis_alcathoe,FifthDigitLength,42.15,1.29,3.06,mean,capture,mm,48,individual,France,CACCHI,Unpublished data from the CACCHI program,Data_provider:_Julie_Marmet,Adult,spurious_values_&_outliers_removed
+Myotis_alcathoe,BodyMass,4.64,0.74,15.95,mean,capture,g,64,individual,France,CACCHI,Unpublished data from the CACCHI program,Data_provider:_Julie_Marmet,Adult,spurious_values_&_outliers_removed
+Myotis_bechsteinii,ForearmLength,41.38,1.08,2.61,mean,capture,mm,3551,individual,France,CACCHI,Unpublished data from the CACCHI program,Data_provider:_Julie_Marmet,Adult,spurious_values_&_outliers_removed
+Myotis_bechsteinii,ThirdDigitLength,66.27,2.33,3.52,mean,capture,mm,116,individual,France,CACCHI,Unpublished data from the CACCHI program,Data_provider:_Julie_Marmet,Adult,spurious_values_&_outliers_removed
+Myotis_bechsteinii,FifthDigitLength,54.94,1.72,3.13,mean,capture,mm,127,individual,France,CACCHI,Unpublished data from the CACCHI program,Data_provider:_Julie_Marmet,Adult,spurious_values_&_outliers_removed
+Myotis_bechsteinii,BodyMass,9.01,1.2,13.32,mean,capture,g,383,individual,France,CACCHI,Unpublished data from the CACCHI program,Data_provider:_Julie_Marmet,Adult,spurious_values_&_outliers_removed
+Myotis_blythii,ForearmLength,56.85,1.88,3.31,mean,capture,mm,344,individual,France,CACCHI,Unpublished data from the CACCHI program,Data_provider:_Julie_Marmet,Adult,spurious_values_&_outliers_removed
+Myotis_blythii,ThirdDigitLength,99,2.91,2.94,mean,capture,mm,5,individual,France,CACCHI,Unpublished data from the CACCHI program,Data_provider:_Julie_Marmet,Adult,spurious_values_&_outliers_removed
+Myotis_blythii,FifthDigitLength,79.75,1.71,2.14,mean,capture,mm,4,individual,France,CACCHI,Unpublished data from the CACCHI program,Data_provider:_Julie_Marmet,Adult,spurious_values_&_outliers_removed
+Myotis_blythii,BodyMass,23.72,2.63,11.09,mean,capture,g,18,individual,France,CACCHI,Unpublished data from the CACCHI program,Data_provider:_Julie_Marmet,Adult,spurious_values_&_outliers_removed
+Myotis_brandtii,ForearmLength,35.03,1.16,3.31,mean,capture,mm,359,individual,France,CACCHI,Unpublished data from the CACCHI program,Data_provider:_Julie_Marmet,Adult,spurious_values_&_outliers_removed
+Myotis_brandtii,ThirdDigitLength,55.78,1.2,2.15,mean,capture,mm,9,individual,France,CACCHI,Unpublished data from the CACCHI program,Data_provider:_Julie_Marmet,Adult,spurious_values_&_outliers_removed
+Myotis_brandtii,FifthDigitLength,44.35,2.12,4.78,mean,capture,mm,17,individual,France,CACCHI,Unpublished data from the CACCHI program,Data_provider:_Julie_Marmet,Adult,spurious_values_&_outliers_removed
+Myotis_brandtii,BodyMass,6.41,0.9,14.04,mean,capture,g,37,individual,France,CACCHI,Unpublished data from the CACCHI program,Data_provider:_Julie_Marmet,Adult,spurious_values_&_outliers_removed
+Myotis_capaccinii,ForearmLength,40.45,0.98,2.42,mean,capture,mm,620,individual,France,CACCHI,Unpublished data from the CACCHI program,Data_provider:_Julie_Marmet,Adult,spurious_values_&_outliers_removed
+Myotis_capaccinii,ThirdDigitLength,67.2,2.28,3.39,mean,capture,mm,5,individual,France,CACCHI,Unpublished data from the CACCHI program,Data_provider:_Julie_Marmet,Adult,spurious_values_&_outliers_removed
+Myotis_capaccinii,FifthDigitLength,53,2.14,4.04,mean,capture,mm,8,individual,France,CACCHI,Unpublished data from the CACCHI program,Data_provider:_Julie_Marmet,Adult,spurious_values_&_outliers_removed
+Myotis_capaccinii,BodyMass,9.11,1.08,11.86,mean,capture,g,46,individual,France,CACCHI,Unpublished data from the CACCHI program,Data_provider:_Julie_Marmet,Adult,spurious_values_&_outliers_removed
+Myotis_dasycneme,ForearmLength,45.9,1.16,2.53,mean,capture,mm,12,individual,France,CACCHI,Unpublished data from the CACCHI program,Data_provider:_Julie_Marmet,Adult,spurious_values_&_outliers_removed
+Myotis_dasycneme,BodyMass,14,0,0,mean,capture,g,4,individual,France,CACCHI,Unpublished data from the CACCHI program,Data_provider:_Julie_Marmet,Adult,spurious_values_&_outliers_removed
+Myotis_daubentonii,ForearmLength,36.85,1.21,3.28,mean,capture,mm,7665,individual,France,CACCHI,Unpublished data from the CACCHI program,Data_provider:_Julie_Marmet,Adult,spurious_values_&_outliers_removed
+Myotis_daubentonii,ThirdDigitLength,61.87,2.02,3.26,mean,capture,mm,167,individual,France,CACCHI,Unpublished data from the CACCHI program,Data_provider:_Julie_Marmet,Adult,spurious_values_&_outliers_removed
+Myotis_daubentonii,FifthDigitLength,50.15,1.79,3.57,mean,capture,mm,227,individual,France,CACCHI,Unpublished data from the CACCHI program,Data_provider:_Julie_Marmet,Adult,spurious_values_&_outliers_removed
+Myotis_daubentonii,BodyMass,7.85,1.33,16.94,mean,capture,g,908,individual,France,CACCHI,Unpublished data from the CACCHI program,Data_provider:_Julie_Marmet,Adult,spurious_values_&_outliers_removed
+Myotis_emarginatus,ForearmLength,38.55,1.39,3.61,mean,capture,mm,3004,individual,France,CACCHI,Unpublished data from the CACCHI program,Data_provider:_Julie_Marmet,Adult,spurious_values_&_outliers_removed
+Myotis_emarginatus,ThirdDigitLength,66.66,3.12,4.68,mean,capture,mm,144,individual,France,CACCHI,Unpublished data from the CACCHI program,Data_provider:_Julie_Marmet,Adult,spurious_values_&_outliers_removed
+Myotis_emarginatus,FifthDigitLength,55.18,1.9,3.44,mean,capture,mm,141,individual,France,CACCHI,Unpublished data from the CACCHI program,Data_provider:_Julie_Marmet,Adult,spurious_values_&_outliers_removed
+Myotis_emarginatus,BodyMass,7.61,0.84,11.04,mean,capture,g,337,individual,France,CACCHI,Unpublished data from the CACCHI program,Data_provider:_Julie_Marmet,Adult,spurious_values_&_outliers_removed
+Myotis_escalerai,ForearmLength,38.85,1.04,2.68,mean,capture,mm,20,individual,France,CACCHI,Unpublished data from the CACCHI program,Data_provider:_Julie_Marmet,Adult,spurious_values_&_outliers_removed
+Myotis_escalerai,ThirdDigitLength,67,NA,NA,mean,capture,mm,1,individual,France,CACCHI,Unpublished data from the CACCHI program,Data_provider:_Julie_Marmet,Adult,spurious_values_&_outliers_removed
+Myotis_escalerai,FifthDigitLength,51,NA,NA,mean,capture,mm,1,individual,France,CACCHI,Unpublished data from the CACCHI program,Data_provider:_Julie_Marmet,Adult,spurious_values_&_outliers_removed
+Myotis_escalerai,BodyMass,5,NA,NA,mean,capture,g,1,individual,France,CACCHI,Unpublished data from the CACCHI program,Data_provider:_Julie_Marmet,Adult,spurious_values_&_outliers_removed
+Myotis_myotis,ForearmLength,60.5,2.19,3.62,mean,capture,mm,2856,individual,France,CACCHI,Unpublished data from the CACCHI program,Data_provider:_Julie_Marmet,Adult,spurious_values_&_outliers_removed
+Myotis_myotis,ThirdDigitLength,102.53,4.11,4.01,mean,capture,mm,121,individual,France,CACCHI,Unpublished data from the CACCHI program,Data_provider:_Julie_Marmet,Adult,spurious_values_&_outliers_removed
+Myotis_myotis,FifthDigitLength,80.99,3.2,3.95,mean,capture,mm,136,individual,France,CACCHI,Unpublished data from the CACCHI program,Data_provider:_Julie_Marmet,Adult,spurious_values_&_outliers_removed
+Myotis_myotis,BodyMass,27.2,2.91,10.7,mean,capture,g,295,individual,France,CACCHI,Unpublished data from the CACCHI program,Data_provider:_Julie_Marmet,Adult,spurious_values_&_outliers_removed
+Myotis_mystacinus,ForearmLength,33.91,1.17,3.45,mean,capture,mm,2353,individual,France,CACCHI,Unpublished data from the CACCHI program,Data_provider:_Julie_Marmet,Adult,spurious_values_&_outliers_removed
+Myotis_mystacinus,ThirdDigitLength,55.64,2.23,4.01,mean,capture,mm,112,individual,France,CACCHI,Unpublished data from the CACCHI program,Data_provider:_Julie_Marmet,Adult,spurious_values_&_outliers_removed
+Myotis_mystacinus,FifthDigitLength,44.75,1.7,3.8,mean,capture,mm,121,individual,France,CACCHI,Unpublished data from the CACCHI program,Data_provider:_Julie_Marmet,Adult,spurious_values_&_outliers_removed
+Myotis_mystacinus,BodyMass,4.91,0.7,14.26,mean,capture,g,223,individual,France,CACCHI,Unpublished data from the CACCHI program,Data_provider:_Julie_Marmet,Adult,spurious_values_&_outliers_removed
+Myotis_punicus,ForearmLength,58.63,1.69,2.88,mean,capture,mm,214,individual,France,CACCHI,Unpublished data from the CACCHI program,Data_provider:_Julie_Marmet,Adult,spurious_values_&_outliers_removed
+Myotis_punicus,ThirdDigitLength,92,1,1.09,mean,capture,mm,3,individual,France,CACCHI,Unpublished data from the CACCHI program,Data_provider:_Julie_Marmet,Adult,spurious_values_&_outliers_removed
+Myotis_punicus,FifthDigitLength,74,NA,NA,mean,capture,mm,1,individual,France,CACCHI,Unpublished data from the CACCHI program,Data_provider:_Julie_Marmet,Adult,spurious_values_&_outliers_removed
+Myotis_punicus,BodyMass,23.9,3.18,13.31,mean,capture,g,29,individual,France,CACCHI,Unpublished data from the CACCHI program,Data_provider:_Julie_Marmet,Adult,spurious_values_&_outliers_removed
+Nyctalus_lasiopterus,ForearmLength,64.98,1.51,2.32,mean,capture,mm,83,individual,France,CACCHI,Unpublished data from the CACCHI program,Data_provider:_Julie_Marmet,Adult,spurious_values_&_outliers_removed
+Nyctalus_lasiopterus,ThirdDigitLength,114.33,1.15,1.01,mean,capture,mm,3,individual,France,CACCHI,Unpublished data from the CACCHI program,Data_provider:_Julie_Marmet,Adult,spurious_values_&_outliers_removed
+Nyctalus_lasiopterus,FifthDigitLength,75.33,2.89,3.84,mean,capture,mm,3,individual,France,CACCHI,Unpublished data from the CACCHI program,Data_provider:_Julie_Marmet,Adult,spurious_values_&_outliers_removed
+Nyctalus_lasiopterus,BodyMass,48.77,7.44,15.26,mean,capture,g,13,individual,France,CACCHI,Unpublished data from the CACCHI program,Data_provider:_Julie_Marmet,Adult,spurious_values_&_outliers_removed
+Nyctalus_leisleri,ForearmLength,42.77,1.23,2.88,mean,capture,mm,1829,individual,France,CACCHI,Unpublished data from the CACCHI program,Data_provider:_Julie_Marmet,Adult,spurious_values_&_outliers_removed
+Nyctalus_leisleri,ThirdDigitLength,76.36,1.89,2.48,mean,capture,mm,22,individual,France,CACCHI,Unpublished data from the CACCHI program,Data_provider:_Julie_Marmet,Adult,spurious_values_&_outliers_removed
+Nyctalus_leisleri,FifthDigitLength,49.64,1.5,3.02,mean,capture,mm,22,individual,France,CACCHI,Unpublished data from the CACCHI program,Data_provider:_Julie_Marmet,Adult,spurious_values_&_outliers_removed
+Nyctalus_leisleri,BodyMass,15.18,1.98,13.04,mean,capture,g,285,individual,France,CACCHI,Unpublished data from the CACCHI program,Data_provider:_Julie_Marmet,Adult,spurious_values_&_outliers_removed
+Nyctalus_noctula,ForearmLength,52.83,1.47,2.78,mean,capture,mm,235,individual,France,CACCHI,Unpublished data from the CACCHI program,Data_provider:_Julie_Marmet,Adult,spurious_values_&_outliers_removed
+Nyctalus_noctula,ThirdDigitLength,94,0,0,mean,capture,mm,2,individual,France,CACCHI,Unpublished data from the CACCHI program,Data_provider:_Julie_Marmet,Adult,spurious_values_&_outliers_removed
+Nyctalus_noctula,FifthDigitLength,61,NA,NA,mean,capture,mm,1,individual,France,CACCHI,Unpublished data from the CACCHI program,Data_provider:_Julie_Marmet,Adult,spurious_values_&_outliers_removed
+Nyctalus_noctula,BodyMass,30.97,3.89,12.56,mean,capture,g,31,individual,France,CACCHI,Unpublished data from the CACCHI program,Data_provider:_Julie_Marmet,Adult,spurious_values_&_outliers_removed
+Pipistrellus_kuhlii,ForearmLength,33.56,1.42,4.23,mean,capture,mm,1254,individual,France,CACCHI,Unpublished data from the CACCHI program,Data_provider:_Julie_Marmet,Adult,spurious_values_&_outliers_removed
+Pipistrellus_kuhlii,ThirdDigitLength,59.9,4.39,7.33,mean,capture,mm,39,individual,France,CACCHI,Unpublished data from the CACCHI program,Data_provider:_Julie_Marmet,Adult,spurious_values_&_outliers_removed
+Pipistrellus_kuhlii,FifthDigitLength,45.1,2.75,6.1,mean,capture,mm,54,individual,France,CACCHI,Unpublished data from the CACCHI program,Data_provider:_Julie_Marmet,Adult,spurious_values_&_outliers_removed
+Pipistrellus_kuhlii,BodyMass,6.09,1.07,17.57,mean,capture,g,140,individual,France,CACCHI,Unpublished data from the CACCHI program,Data_provider:_Julie_Marmet,Adult,spurious_values_&_outliers_removed
+Pipistrellus_nathusii,ForearmLength,33.72,0.91,2.7,mean,capture,mm,396,individual,France,CACCHI,Unpublished data from the CACCHI program,Data_provider:_Julie_Marmet,Adult,spurious_values_&_outliers_removed
+Pipistrellus_nathusii,ThirdDigitLength,62.47,2.27,3.63,mean,capture,mm,36,individual,France,CACCHI,Unpublished data from the CACCHI program,Data_provider:_Julie_Marmet,Adult,spurious_values_&_outliers_removed
+Pipistrellus_nathusii,FifthDigitLength,45.91,2.11,4.6,mean,capture,mm,45,individual,France,CACCHI,Unpublished data from the CACCHI program,Data_provider:_Julie_Marmet,Adult,spurious_values_&_outliers_removed
+Pipistrellus_nathusii,BodyMass,7.26,0.81,11.16,mean,capture,g,54,individual,France,CACCHI,Unpublished data from the CACCHI program,Data_provider:_Julie_Marmet,Adult,spurious_values_&_outliers_removed
+Pipistrellus_pipistrellus,ForearmLength,30.93,1.04,3.36,mean,capture,mm,10549,individual,France,CACCHI,Unpublished data from the CACCHI program,Data_provider:_Julie_Marmet,Adult,spurious_values_&_outliers_removed
+Pipistrellus_pipistrellus,ThirdDigitLength,54.7,2.06,3.77,mean,capture,mm,544,individual,France,CACCHI,Unpublished data from the CACCHI program,Data_provider:_Julie_Marmet,Adult,spurious_values_&_outliers_removed
+Pipistrellus_pipistrellus,FifthDigitLength,40.46,1.72,4.25,mean,capture,mm,725,individual,France,CACCHI,Unpublished data from the CACCHI program,Data_provider:_Julie_Marmet,Adult,spurious_values_&_outliers_removed
+Pipistrellus_pipistrellus,BodyMass,4.59,0.71,15.47,mean,capture,g,1071,individual,France,CACCHI,Unpublished data from the CACCHI program,Data_provider:_Julie_Marmet,Adult,spurious_values_&_outliers_removed
+Pipistrellus_pygmaeus,ForearmLength,30,1.12,3.73,mean,capture,mm,358,individual,France,CACCHI,Unpublished data from the CACCHI program,Data_provider:_Julie_Marmet,Adult,spurious_values_&_outliers_removed
+Pipistrellus_pygmaeus,ThirdDigitLength,52.78,1.2,2.27,mean,capture,mm,9,individual,France,CACCHI,Unpublished data from the CACCHI program,Data_provider:_Julie_Marmet,Adult,spurious_values_&_outliers_removed
+Pipistrellus_pygmaeus,FifthDigitLength,39.67,0.8,2.02,mean,capture,mm,21,individual,France,CACCHI,Unpublished data from the CACCHI program,Data_provider:_Julie_Marmet,Adult,spurious_values_&_outliers_removed
+Pipistrellus_pygmaeus,BodyMass,4.25,1.05,24.71,mean,capture,g,36,individual,France,CACCHI,Unpublished data from the CACCHI program,Data_provider:_Julie_Marmet,Adult,spurious_values_&_outliers_removed
+Plecotus_auritus,ForearmLength,38.44,0.98,2.55,mean,capture,mm,4062,individual,France,CACCHI,Unpublished data from the CACCHI program,Data_provider:_Julie_Marmet,Adult,spurious_values_&_outliers_removed
+Plecotus_auritus,ThirdDigitLength,65.39,2.45,3.75,mean,capture,mm,127,individual,France,CACCHI,Unpublished data from the CACCHI program,Data_provider:_Julie_Marmet,Adult,spurious_values_&_outliers_removed
+Plecotus_auritus,FifthDigitLength,51.87,1.76,3.39,mean,capture,mm,157,individual,France,CACCHI,Unpublished data from the CACCHI program,Data_provider:_Julie_Marmet,Adult,spurious_values_&_outliers_removed
+Plecotus_auritus,BodyMass,7.39,0.8,10.83,mean,capture,g,465,individual,France,CACCHI,Unpublished data from the CACCHI program,Data_provider:_Julie_Marmet,Adult,spurious_values_&_outliers_removed
+Plecotus_austriacus,ForearmLength,39.62,0.95,2.4,mean,capture,mm,1759,individual,France,CACCHI,Unpublished data from the CACCHI program,Data_provider:_Julie_Marmet,Adult,spurious_values_&_outliers_removed
+Plecotus_austriacus,ThirdDigitLength,69.6,2.6,3.74,mean,capture,mm,63,individual,France,CACCHI,Unpublished data from the CACCHI program,Data_provider:_Julie_Marmet,Adult,spurious_values_&_outliers_removed
+Plecotus_austriacus,FifthDigitLength,54.74,2.01,3.67,mean,capture,mm,81,individual,France,CACCHI,Unpublished data from the CACCHI program,Data_provider:_Julie_Marmet,Adult,spurious_values_&_outliers_removed
+Plecotus_austriacus,BodyMass,8.07,0.82,10.16,mean,capture,g,150,individual,France,CACCHI,Unpublished data from the CACCHI program,Data_provider:_Julie_Marmet,Adult,spurious_values_&_outliers_removed
+Plecotus_macrobullaris,ForearmLength,40.89,1.24,3.03,mean,capture,mm,201,individual,France,CACCHI,Unpublished data from the CACCHI program,Data_provider:_Julie_Marmet,Adult,spurious_values_&_outliers_removed
+Plecotus_macrobullaris,ThirdDigitLength,69.45,2.22,3.2,mean,capture,mm,22,individual,France,CACCHI,Unpublished data from the CACCHI program,Data_provider:_Julie_Marmet,Adult,spurious_values_&_outliers_removed
+Plecotus_macrobullaris,FifthDigitLength,54.32,2.16,3.98,mean,capture,mm,19,individual,France,CACCHI,Unpublished data from the CACCHI program,Data_provider:_Julie_Marmet,Adult,spurious_values_&_outliers_removed
+Plecotus_macrobullaris,BodyMass,7.33,0.61,8.32,mean,capture,g,15,individual,France,CACCHI,Unpublished data from the CACCHI program,Data_provider:_Julie_Marmet,Adult,spurious_values_&_outliers_removed
+Rhinolophus_euryale,ForearmLength,46.98,0.93,1.98,mean,capture,mm,137,individual,France,CACCHI,Unpublished data from the CACCHI program,Data_provider:_Julie_Marmet,Adult,spurious_values_&_outliers_removed
+Rhinolophus_euryale,ThirdDigitLength,75,0.63,0.84,mean,capture,mm,6,individual,France,CACCHI,Unpublished data from the CACCHI program,Data_provider:_Julie_Marmet,Adult,spurious_values_&_outliers_removed
+Rhinolophus_euryale,FifthDigitLength,60.5,0.84,1.39,mean,capture,mm,6,individual,France,CACCHI,Unpublished data from the CACCHI program,Data_provider:_Julie_Marmet,Adult,spurious_values_&_outliers_removed
+Rhinolophus_euryale,BodyMass,10.78,0.67,6.22,mean,capture,g,9,individual,France,CACCHI,Unpublished data from the CACCHI program,Data_provider:_Julie_Marmet,Adult,spurious_values_&_outliers_removed
+Rhinolophus_ferrumequinum,ForearmLength,55.32,1.49,2.69,mean,capture,mm,2220,individual,France,CACCHI,Unpublished data from the CACCHI program,Data_provider:_Julie_Marmet,Adult,spurious_values_&_outliers_removed
+Rhinolophus_ferrumequinum,ThirdDigitLength,88.21,2.66,3.02,mean,capture,mm,169,individual,France,CACCHI,Unpublished data from the CACCHI program,Data_provider:_Julie_Marmet,Adult,spurious_values_&_outliers_removed
+Rhinolophus_ferrumequinum,FifthDigitLength,72.35,2.23,3.08,mean,capture,mm,165,individual,France,CACCHI,Unpublished data from the CACCHI program,Data_provider:_Julie_Marmet,Adult,spurious_values_&_outliers_removed
+Rhinolophus_ferrumequinum,BodyMass,19.9,2.85,14.32,mean,capture,g,275,individual,France,CACCHI,Unpublished data from the CACCHI program,Data_provider:_Julie_Marmet,Adult,spurious_values_&_outliers_removed
+Rhinolophus_hipposideros,ForearmLength,37.19,1.15,3.09,mean,capture,mm,878,individual,France,CACCHI,Unpublished data from the CACCHI program,Data_provider:_Julie_Marmet,Adult,spurious_values_&_outliers_removed
+Rhinolophus_hipposideros,ThirdDigitLength,55.22,2.01,3.64,mean,capture,mm,18,individual,France,CACCHI,Unpublished data from the CACCHI program,Data_provider:_Julie_Marmet,Adult,spurious_values_&_outliers_removed
+Rhinolophus_hipposideros,FifthDigitLength,51.33,2.5,4.87,mean,capture,mm,18,individual,France,CACCHI,Unpublished data from the CACCHI program,Data_provider:_Julie_Marmet,Adult,spurious_values_&_outliers_removed
+Rhinolophus_hipposideros,BodyMass,5,0,0,mean,capture,g,34,individual,France,CACCHI,Unpublished data from the CACCHI program,Data_provider:_Julie_Marmet,Adult,spurious_values_&_outliers_removed
+Tadarida_teniotis,ForearmLength,59.57,1.37,2.3,mean,capture,mm,49,individual,France,CACCHI,Unpublished data from the CACCHI program,Data_provider:_Julie_Marmet,Adult,spurious_values_&_outliers_removed
+Tadarida_teniotis,ThirdDigitLength,107.5,2.12,1.97,mean,capture,mm,2,individual,France,CACCHI,Unpublished data from the CACCHI program,Data_provider:_Julie_Marmet,Adult,spurious_values_&_outliers_removed
+Tadarida_teniotis,FifthDigitLength,60,0,0,mean,capture,mm,2,individual,France,CACCHI,Unpublished data from the CACCHI program,Data_provider:_Julie_Marmet,Adult,spurious_values_&_outliers_removed
+Tadarida_teniotis,BodyMass,26.67,3.14,11.77,mean,capture,g,6,individual,France,CACCHI,Unpublished data from the CACCHI program,Data_provider:_Julie_Marmet,Adult,spurious_values_&_outliers_removed
+Vespertilio_murinus,ForearmLength,44.18,1.38,3.12,mean,capture,mm,67,individual,France,CACCHI,Unpublished data from the CACCHI program,Data_provider:_Julie_Marmet,Adult,spurious_values_&_outliers_removed
+Vespertilio_murinus,ThirdDigitLength,75,NA,NA,mean,capture,mm,1,individual,France,CACCHI,Unpublished data from the CACCHI program,Data_provider:_Julie_Marmet,Adult,spurious_values_&_outliers_removed
+Vespertilio_murinus,FifthDigitLength,55,NA,NA,mean,capture,mm,1,individual,France,CACCHI,Unpublished data from the CACCHI program,Data_provider:_Julie_Marmet,Adult,spurious_values_&_outliers_removed
+Vespertilio_murinus,BodyMass,11.6,1.82,15.69,mean,capture,g,5,individual,France,CACCHI,Unpublished data from the CACCHI program,Data_provider:_Julie_Marmet,Adult,spurious_values_&_outliers_removed
+Myotis_nattereri,ForearmLength,38.55,0.99,2.57,mean,capture,mm,1721,individual,France,CACCHI,Unpublished data from the CACCHI program,Data_provider:_Julie_Marmet,Adult,spurious_values_&_outliers_removed
+Myotis_nattereri,ThirdDigitLength,69.5,2.76,3.97,mean,capture,mm,109,individual,France,CACCHI,Unpublished data from the CACCHI program,Data_provider:_Julie_Marmet,Adult,spurious_values_&_outliers_removed
+Myotis_nattereri,FifthDigitLength,54.11,1.9,3.51,mean,capture,mm,150,individual,France,CACCHI,Unpublished data from the CACCHI program,Data_provider:_Julie_Marmet,Adult,spurious_values_&_outliers_removed
+Myotis_nattereri,BodyMass,7.16,0.74,10.34,mean,capture,g,243,individual,France,CACCHI,Unpublished data from the CACCHI program,Data_provider:_Julie_Marmet,Adult,spurious_values_&_outliers_removed
+Myotis_crypticus,ForearmLength,38.5,0.93,2.42,mean,capture,mm,1927,individual,France,CACCHI,Unpublished data from the CACCHI program,Data_provider:_Julie_Marmet,Adult,spurious_values_&_outliers_removed
+Myotis_crypticus,ThirdDigitLength,68.5,2.2,3.21,mean,capture,mm,64,individual,France,CACCHI,Unpublished data from the CACCHI program,Data_provider:_Julie_Marmet,Adult,spurious_values_&_outliers_removed
+Myotis_crypticus,FifthDigitLength,53.52,2.16,4.04,mean,capture,mm,61,individual,France,CACCHI,Unpublished data from the CACCHI program,Data_provider:_Julie_Marmet,Adult,spurious_values_&_outliers_removed
+Myotis_crypticus,BodyMass,6.69,0.69,10.31,mean,capture,g,124,individual,France,CACCHI,Unpublished data from the CACCHI program,Data_provider:_Julie_Marmet,Adult,spurious_values_&_outliers_removed
+Barbastella_barbastellus,ForearmLength,39.41,1.5,3.81,mean of means,capture,mm,244,individual,Italy,Unpublished data,Unpublished data,Data_provider:_Leonardo_Anchillotto-Danilo_Russo-Luciano_Bosso,Adult,NA
+Hypsugo_savii,ForearmLength,33.13,1.25,3.78,mean of means,capture,mm,212,individual,Italy,Unpublished data,Unpublished data,Data_provider:_Leonardo_Anchillotto-Danilo_Russo-Luciano_Bosso,Adult,NA
+Miniopterus_schreibersii,ForearmLength,45.43,0.68,1.49,mean of means,capture,mm,89,individual,Italy,Unpublished data,Unpublished data,Data_provider:_Leonardo_Anchillotto-Danilo_Russo-Luciano_Bosso,Adult,NA
+Myotis_bechsteinii,ForearmLength,41.73,0.69,1.65,mean of means,capture,mm,12,individual,Italy,Unpublished data,Unpublished data,Data_provider:_Leonardo_Anchillotto-Danilo_Russo-Luciano_Bosso,Adult,NA
+Myotis_blythii,ForearmLength,61.46,1.13,1.84,mean of means,capture,mm,29,individual,Italy,Unpublished data,Unpublished data,Data_provider:_Leonardo_Anchillotto-Danilo_Russo-Luciano_Bosso,Adult,NA
+Myotis_capaccinii,ForearmLength,41.67,0.88,2.1,mean of means,capture,mm,49,individual,Italy,Unpublished data,Unpublished data,Data_provider:_Leonardo_Anchillotto-Danilo_Russo-Luciano_Bosso,Adult,NA
+Myotis_daubentonii,ForearmLength,36.91,1.44,3.91,mean of means,capture,mm,220,individual,Italy,Unpublished data,Unpublished data,Data_provider:_Leonardo_Anchillotto-Danilo_Russo-Luciano_Bosso,Adult,NA
+Myotis_crypticus,ForearmLength,38.86,0.97,2.5,mean of means,capture,mm,34,individual,Italy,Unpublished data,Unpublished data,Data_provider:_Leonardo_Anchillotto-Danilo_Russo-Luciano_Bosso,Adult,NA
+Myotis_emarginatus,ForearmLength,39.07,0.88,2.26,mean of means,capture,mm,29,individual,Italy,Unpublished data,Unpublished data,Data_provider:_Leonardo_Anchillotto-Danilo_Russo-Luciano_Bosso,Adult,NA
+Myotis_myotis,ForearmLength,61.85,1.44,2.32,mean of means,capture,mm,19,individual,Italy,Unpublished data,Unpublished data,Data_provider:_Leonardo_Anchillotto-Danilo_Russo-Luciano_Bosso,Adult,NA
+Nyctalus_leisleri,ForearmLength,43.32,0.92,2.11,mean of means,capture,mm,56,individual,Italy,Unpublished data,Unpublished data,Data_provider:_Leonardo_Anchillotto-Danilo_Russo-Luciano_Bosso,Adult,NA
+Pipistrellus_kuhlii,ForearmLength,33.81,0.83,2.44,mean of means,capture,mm,56,individual,Italy,Unpublished data,Unpublished data,Data_provider:_Leonardo_Anchillotto-Danilo_Russo-Luciano_Bosso,Adult,NA
+Pipistrellus_pipistrellus,ForearmLength,31.22,0.79,2.52,mean of means,capture,mm,113,individual,Italy,Unpublished data,Unpublished data,Data_provider:_Leonardo_Anchillotto-Danilo_Russo-Luciano_Bosso,Adult,NA
+Pipistrellus_pygmaeus,ForearmLength,31.37,1.08,3.45,mean of means,capture,mm,16,individual,Italy,Unpublished data,Unpublished data,Data_provider:_Leonardo_Anchillotto-Danilo_Russo-Luciano_Bosso,Adult,NA
+Plecotus_auritus,ForearmLength,39.38,1.49,3.79,mean of means,capture,mm,150,individual,Italy,Unpublished data,Unpublished data,Data_provider:_Leonardo_Anchillotto-Danilo_Russo-Luciano_Bosso,Adult,NA
+Plecotus_austriacus,ForearmLength,40.57,0.43,1.07,mean of means,capture,mm,8,individual,Italy,Unpublished data,Unpublished data,Data_provider:_Leonardo_Anchillotto-Danilo_Russo-Luciano_Bosso,Adult,NA
+Rhinolophus_euryale,ForearmLength,47.64,0.86,1.8,mean of means,capture,mm,97,individual,Italy,Unpublished data,Unpublished data,Data_provider:_Leonardo_Anchillotto-Danilo_Russo-Luciano_Bosso,Adult,NA
+Eptesicus_serotinus,ForearmLength,54.4,0.1,0.18,mean of means,capture,mm,3,individual,Italy,Unpublished data,Unpublished data,Data_provider:_Leonardo_Anchillotto-Danilo_Russo-Luciano_Bosso,Adult,NA
+Rhinolophus_ferrumequinum,ForearmLength,56.9,0.2,0.35,mean of means,capture,mm,2,individual,Italy,Unpublished data,Unpublished data,Data_provider:_Leonardo_Anchillotto-Danilo_Russo-Luciano_Bosso,Adult,NA
+Tadarida_teniotis,ForearmLength,60.53,1.32,2.18,mean of means,capture,mm,16,individual,Italy,Unpublished data,Unpublished data,Data_provider:_Leonardo_Anchillotto-Danilo_Russo-Luciano_Bosso,Adult,NA
+Plecotus_gaisleri,ForearmLength,38.7,0.6,1.55,mean of means,capture,mm,2,individual,Italy,Unpublished data,Unpublished data,Data_provider:_Leonardo_Anchillotto-Danilo_Russo-Luciano_Bosso,Adult,NA
+Barbastella_barbastellus,BodyMass,8.26,1.3,15.74,mean of means,capture,g,237,individual,Italy,Unpublished data,Unpublished data,Data_provider:_Leonardo_Anchillotto-Danilo_Russo-Luciano_Bosso,Adult,NA
+Hypsugo_savii,BodyMass,6.62,0.86,12.95,mean of means,capture,g,213,individual,Italy,Unpublished data,Unpublished data,Data_provider:_Leonardo_Anchillotto-Danilo_Russo-Luciano_Bosso,Adult,NA
+Miniopterus_schreibersii,BodyMass,12.14,1.24,10.18,mean of means,capture,g,89,individual,Italy,Unpublished data,Unpublished data,Data_provider:_Leonardo_Anchillotto-Danilo_Russo-Luciano_Bosso,Adult,NA
+Myotis_bechsteinii,BodyMass,8.8,0.4,4.55,mean of means,capture,g,12,individual,Italy,Unpublished data,Unpublished data,Data_provider:_Leonardo_Anchillotto-Danilo_Russo-Luciano_Bosso,Adult,NA
+Myotis_blythii,BodyMass,25.18,2.41,9.57,mean of means,capture,g,29,individual,Italy,Unpublished data,Unpublished data,Data_provider:_Leonardo_Anchillotto-Danilo_Russo-Luciano_Bosso,Adult,NA
+Myotis_capaccinii,BodyMass,8.32,0.59,7.11,mean of means,capture,g,49,individual,Italy,Unpublished data,Unpublished data,Data_provider:_Leonardo_Anchillotto-Danilo_Russo-Luciano_Bosso,Adult,NA
+Myotis_daubentonii,BodyMass,6.95,0.67,9.62,mean of means,capture,g,194,individual,Italy,Unpublished data,Unpublished data,Data_provider:_Leonardo_Anchillotto-Danilo_Russo-Luciano_Bosso,Adult,NA
+Myotis_crypticus,BodyMass,6.03,0.1,1.59,mean of means,capture,g,30,individual,Italy,Unpublished data,Unpublished data,Data_provider:_Leonardo_Anchillotto-Danilo_Russo-Luciano_Bosso,Adult,NA
+Myotis_emarginatus,BodyMass,7.35,0.52,7.08,mean of means,capture,g,28,individual,Italy,Unpublished data,Unpublished data,Data_provider:_Leonardo_Anchillotto-Danilo_Russo-Luciano_Bosso,Adult,NA
+Myotis_myotis,BodyMass,25.83,1.04,4.04,mean of means,capture,g,19,individual,Italy,Unpublished data,Unpublished data,Data_provider:_Leonardo_Anchillotto-Danilo_Russo-Luciano_Bosso,Adult,NA
+Nyctalus_leisleri,BodyMass,15.53,0.96,6.21,mean of means,capture,g,46,individual,Italy,Unpublished data,Unpublished data,Data_provider:_Leonardo_Anchillotto-Danilo_Russo-Luciano_Bosso,Adult,NA
+Pipistrellus_kuhlii,BodyMass,6.04,0.39,6.4,mean of means,capture,g,56,individual,Italy,Unpublished data,Unpublished data,Data_provider:_Leonardo_Anchillotto-Danilo_Russo-Luciano_Bosso,Adult,NA
+Pipistrellus_pipistrellus,BodyMass,4.65,0.45,9.79,mean of means,capture,g,113,individual,Italy,Unpublished data,Unpublished data,Data_provider:_Leonardo_Anchillotto-Danilo_Russo-Luciano_Bosso,Adult,NA
+Pipistrellus_pygmaeus,BodyMass,4.97,0.65,13.1,mean of means,capture,g,16,individual,Italy,Unpublished data,Unpublished data,Data_provider:_Leonardo_Anchillotto-Danilo_Russo-Luciano_Bosso,Adult,NA
+Plecotus_auritus,BodyMass,7.55,0.64,8.47,mean of means,capture,g,148,individual,Italy,Unpublished data,Unpublished data,Data_provider:_Leonardo_Anchillotto-Danilo_Russo-Luciano_Bosso,Adult,NA
+Plecotus_austriacus,BodyMass,9.3,0.78,8.4,mean of means,capture,g,8,individual,Italy,Unpublished data,Unpublished data,Data_provider:_Leonardo_Anchillotto-Danilo_Russo-Luciano_Bosso,Adult,NA
+Rhinolophus_euryale,BodyMass,10.63,0.77,7.29,mean of means,capture,g,76,individual,Italy,Unpublished data,Unpublished data,Data_provider:_Leonardo_Anchillotto-Danilo_Russo-Luciano_Bosso,Adult,NA
+Eptesicus_serotinus,BodyMass,27.7,NA,NA,mean of means,capture,g,3,individual,Italy,Unpublished data,Unpublished data,Data_provider:_Leonardo_Anchillotto-Danilo_Russo-Luciano_Bosso,Adult,NA
+Rhinolophus_ferrumequinum,BodyMass,24.7,NA,NA,mean of means,capture,g,2,individual,Italy,Unpublished data,Unpublished data,Data_provider:_Leonardo_Anchillotto-Danilo_Russo-Luciano_Bosso,Adult,NA
+Tadarida_teniotis,BodyMass,26.93,0.75,2.79,mean of means,capture,g,16,individual,Italy,Unpublished data,Unpublished data,Data_provider:_Leonardo_Anchillotto-Danilo_Russo-Luciano_Bosso,Adult,NA
+Plecotus_gaisleri,BodyMass,7.8,NA,NA,mean of means,capture,g,2,individual,Italy,Unpublished data,Unpublished data,Data_provider:_Leonardo_Anchillotto-Danilo_Russo-Luciano_Bosso,Adult,NA
+Barbastella_barbastellus,ForearmLength,39.03,1.05,2.68,mean,capture,mm,16,individual,Luxembourg,Unpublished data,Unpublished data,Data_provider:_Lisette_Cantu-Salazar,Adult,NA
+Eptesicus_serotinus,ForearmLength,51.7,2.55,4.94,mean,capture,mm,59,individual,Luxembourg,Unpublished data,Unpublished data,Data_provider:_Lisette_Cantu-Salazar,Adult,NA
+Myotis_bechsteinii,ForearmLength,42.41,1.8,4.24,mean,capture,mm,284,individual,Luxembourg,Unpublished data,Unpublished data,Data_provider:_Lisette_Cantu-Salazar,Adult,NA
+Myotis_brandtii,ForearmLength,35.44,1.8,5.09,mean,capture,mm,45,individual,Luxembourg,Unpublished data,Unpublished data,Data_provider:_Lisette_Cantu-Salazar,Adult,NA
+Myotis_daubentonii,ForearmLength,37.46,1.82,4.87,mean,capture,mm,101,individual,Luxembourg,Unpublished data,Unpublished data,Data_provider:_Lisette_Cantu-Salazar,Adult,NA
+Myotis_emarginatus,ForearmLength,38.9,1.39,3.58,mean,capture,mm,132,individual,Luxembourg,Unpublished data,Unpublished data,Data_provider:_Lisette_Cantu-Salazar,Adult,NA
+Myotis_myotis,ForearmLength,60.51,2.47,4.08,mean,capture,mm,319,individual,Luxembourg,Unpublished data,Unpublished data,Data_provider:_Lisette_Cantu-Salazar,Adult,NA
+Myotis_mystacinus,ForearmLength,34.48,1.29,3.75,mean,capture,mm,116,individual,Luxembourg,Unpublished data,Unpublished data,Data_provider:_Lisette_Cantu-Salazar,Adult,NA
+Myotis_nattereri,ForearmLength,39.68,2.47,6.23,mean,capture,mm,118,individual,Luxembourg,Unpublished data,Unpublished data,Data_provider:_Lisette_Cantu-Salazar,Adult,NA
+Nyctalus_leisleri,ForearmLength,44.42,3.28,7.37,mean,capture,mm,15,individual,Luxembourg,Unpublished data,Unpublished data,Data_provider:_Lisette_Cantu-Salazar,Adult,NA
+Nyctalus_noctula,ForearmLength,55.15,1.3,2.36,mean,capture,mm,3,individual,Luxembourg,Unpublished data,Unpublished data,Data_provider:_Lisette_Cantu-Salazar,Adult,NA
+Pipistrellus_pipistrellus,ForearmLength,31.86,1.31,4.11,mean,capture,mm,177,individual,Luxembourg,Unpublished data,Unpublished data,Data_provider:_Lisette_Cantu-Salazar,Adult,NA
+Plecotus_auritus,ForearmLength,38.78,1.32,3.4,mean,capture,mm,231,individual,Luxembourg,Unpublished data,Unpublished data,Data_provider:_Lisette_Cantu-Salazar,Adult,NA
+Plecotus_austriacus,ForearmLength,40.48,1.27,3.13,mean,capture,mm,27,individual,Luxembourg,Unpublished data,Unpublished data,Data_provider:_Lisette_Cantu-Salazar,Adult,NA
+Rhinolophus_ferrumequinum,ForearmLength,56.12,1.51,2.69,mean,capture,mm,26,individual,Luxembourg,Unpublished data,Unpublished data,Data_provider:_Lisette_Cantu-Salazar,Adult,NA
+Vespertilio_murinus,ForearmLength,43.7,NA,NA,mean,capture,mm,1,individual,Luxembourg,Unpublished data,Unpublished data,Data_provider:_Lisette_Cantu-Salazar,Adult,NA
+Barbastella_barbastellus,BodyMass,9.27,1.3,14.04,mean,capture,g,15,individual,Luxembourg,Unpublished data,Unpublished data,Data_provider:_Lisette_Cantu-Salazar,Adult,NA
+Eptesicus_serotinus,BodyMass,23.37,3.2,13.68,mean,capture,g,58,individual,Luxembourg,Unpublished data,Unpublished data,Data_provider:_Lisette_Cantu-Salazar,Adult,NA
+Myotis_bechsteinii,BodyMass,9.64,1.57,16.31,mean,capture,g,268,individual,Luxembourg,Unpublished data,Unpublished data,Data_provider:_Lisette_Cantu-Salazar,Adult,NA
+Myotis_brandtii,BodyMass,6.5,1.44,22.22,mean,capture,g,43,individual,Luxembourg,Unpublished data,Unpublished data,Data_provider:_Lisette_Cantu-Salazar,Adult,NA
+Myotis_daubentonii,BodyMass,8.08,1.41,17.5,mean,capture,g,98,individual,Luxembourg,Unpublished data,Unpublished data,Data_provider:_Lisette_Cantu-Salazar,Adult,NA
+Myotis_emarginatus,BodyMass,8.19,1.37,16.7,mean,capture,g,118,individual,Luxembourg,Unpublished data,Unpublished data,Data_provider:_Lisette_Cantu-Salazar,Adult,NA
+Myotis_myotis,BodyMass,26.63,4.31,16.2,mean,capture,g,301,individual,Luxembourg,Unpublished data,Unpublished data,Data_provider:_Lisette_Cantu-Salazar,Adult,NA
+Myotis_mystacinus,BodyMass,5.58,2.86,51.3,mean,capture,g,115,individual,Luxembourg,Unpublished data,Unpublished data,Data_provider:_Lisette_Cantu-Salazar,Adult,NA
+Myotis_nattereri,BodyMass,7.55,0.96,12.77,mean,capture,g,114,individual,Luxembourg,Unpublished data,Unpublished data,Data_provider:_Lisette_Cantu-Salazar,Adult,NA
+Nyctalus_leisleri,BodyMass,16.97,4.31,25.4,mean,capture,g,13,individual,Luxembourg,Unpublished data,Unpublished data,Data_provider:_Lisette_Cantu-Salazar,Adult,NA
+Nyctalus_noctula,BodyMass,33.64,1.98,5.89,mean,capture,g,3,individual,Luxembourg,Unpublished data,Unpublished data,Data_provider:_Lisette_Cantu-Salazar,Adult,NA
+Pipistrellus_pipistrellus,BodyMass,5.27,0.67,12.66,mean,capture,g,166,individual,Luxembourg,Unpublished data,Unpublished data,Data_provider:_Lisette_Cantu-Salazar,Adult,NA
+Plecotus_auritus,BodyMass,7.77,1.07,13.8,mean,capture,g,217,individual,Luxembourg,Unpublished data,Unpublished data,Data_provider:_Lisette_Cantu-Salazar,Adult,NA
+Plecotus_austriacus,BodyMass,8.8,0.95,10.76,mean,capture,g,26,individual,Luxembourg,Unpublished data,Unpublished data,Data_provider:_Lisette_Cantu-Salazar,Adult,NA
+Rhinolophus_ferrumequinum,BodyMass,25.23,4.82,19.1,mean,capture,g,25,individual,Luxembourg,Unpublished data,Unpublished data,Data_provider:_Lisette_Cantu-Salazar,Adult,NA
+Nyctalus_noctula,ForearmLength,53.05,2.16,4.07,mean,capture,mm,1827,individual,Germany,Unpublished data,Unpublished data,Data_provider:_Christian_Voigt-Dina_Dechmann-Tobias_Teige-Uwe_Hoffmeister-Andreas_Zahn,Adult,NA
+Pipistrellus_nathusii,ForearmLength,33.36,2.3,6.91,mean,capture,mm,150,individual,Germany,Unpublished data,Unpublished data,Data_provider:_Christian_Voigt-Dina_Dechmann-Tobias_Teige-Uwe_Hoffmeister-Andreas_Zahn,Adult,NA
+Pipistrellus_pygmaeus,ForearmLength,31.11,1.69,5.44,mean,capture,mm,7,individual,Germany,Unpublished data,Unpublished data,Data_provider:_Christian_Voigt-Dina_Dechmann-Tobias_Teige-Uwe_Hoffmeister-Andreas_Zahn,Adult,NA
+Myotis_daubentonii,ForearmLength,38.3,1.75,4.56,mean,capture,mm,39,individual,Germany,Unpublished data,Unpublished data,Data_provider:_Christian_Voigt-Dina_Dechmann-Tobias_Teige-Uwe_Hoffmeister-Andreas_Zahn,Adult,NA
+Nyctalus_leisleri,ForearmLength,43.81,1.6,3.66,mean,capture,mm,54,individual,Germany,Unpublished data,Unpublished data,Data_provider:_Christian_Voigt-Dina_Dechmann-Tobias_Teige-Uwe_Hoffmeister-Andreas_Zahn,Adult,NA
+Vespertilio_murinus,ForearmLength,47.3,0.57,1.2,mean,capture,mm,2,individual,Germany,Unpublished data,Unpublished data,Data_provider:_Christian_Voigt-Dina_Dechmann-Tobias_Teige-Uwe_Hoffmeister-Andreas_Zahn,Adult,NA
+Barbastella_barbastellus,ForearmLength,37.48,1.65,4.4,mean,capture,mm,11,individual,Germany,Unpublished data,Unpublished data,Data_provider:_Christian_Voigt-Dina_Dechmann-Tobias_Teige-Uwe_Hoffmeister-Andreas_Zahn,Adult,NA
+Eptesicus_nilssonii,ForearmLength,40.52,1.37,3.38,mean,capture,mm,21,individual,Germany,Unpublished data,Unpublished data,Data_provider:_Christian_Voigt-Dina_Dechmann-Tobias_Teige-Uwe_Hoffmeister-Andreas_Zahn,Adult,NA
+Eptesicus_serotinus,ForearmLength,50.78,1.11,2.19,mean,capture,mm,6,individual,Germany,Unpublished data,Unpublished data,Data_provider:_Christian_Voigt-Dina_Dechmann-Tobias_Teige-Uwe_Hoffmeister-Andreas_Zahn,Adult,NA
+Myotis_bechsteinii,ForearmLength,42.48,1.39,3.28,mean,capture,mm,8,individual,Germany,Unpublished data,Unpublished data,Data_provider:_Christian_Voigt-Dina_Dechmann-Tobias_Teige-Uwe_Hoffmeister-Andreas_Zahn,Adult,NA
+Myotis_brandtii,ForearmLength,34.53,1.84,5.34,mean,capture,mm,14,individual,Germany,Unpublished data,Unpublished data,Data_provider:_Christian_Voigt-Dina_Dechmann-Tobias_Teige-Uwe_Hoffmeister-Andreas_Zahn,Adult,NA
+Myotis_myotis,ForearmLength,60.78,4.53,7.45,mean,capture,mm,65,individual,Germany,Unpublished data,Unpublished data,Data_provider:_Christian_Voigt-Dina_Dechmann-Tobias_Teige-Uwe_Hoffmeister-Andreas_Zahn,Adult,NA
+Myotis_mystacinus,ForearmLength,33.7,1.74,5.17,mean,capture,mm,7,individual,Germany,Unpublished data,Unpublished data,Data_provider:_Christian_Voigt-Dina_Dechmann-Tobias_Teige-Uwe_Hoffmeister-Andreas_Zahn,Adult,NA
+Myotis_nattereri,ForearmLength,40.52,1.16,2.85,mean,capture,mm,22,individual,Germany,Unpublished data,Unpublished data,Data_provider:_Christian_Voigt-Dina_Dechmann-Tobias_Teige-Uwe_Hoffmeister-Andreas_Zahn,Adult,NA
+Pipistrellus_pipistrellus,ForearmLength,29.87,2.42,8.1,mean,capture,mm,53,individual,Germany,Unpublished data,Unpublished data,Data_provider:_Christian_Voigt-Dina_Dechmann-Tobias_Teige-Uwe_Hoffmeister-Andreas_Zahn,Adult,NA
+Plecotus_auritus,ForearmLength,38.87,1.93,4.97,mean,capture,mm,25,individual,Germany,Unpublished data,Unpublished data,Data_provider:_Christian_Voigt-Dina_Dechmann-Tobias_Teige-Uwe_Hoffmeister-Andreas_Zahn,Adult,NA
+Nyctalus_noctula,BodyMass,27.79,4.37,15.74,mean,capture,g,1823,individual,Germany,Unpublished data,Unpublished data,Data_provider:_Christian_Voigt-Dina_Dechmann-Tobias_Teige-Uwe_Hoffmeister-Andreas_Zahn,Adult,NA
+Pipistrellus_nathusii,BodyMass,8.27,2.42,29.22,mean,capture,g,172,individual,Germany,Unpublished data,Unpublished data,Data_provider:_Christian_Voigt-Dina_Dechmann-Tobias_Teige-Uwe_Hoffmeister-Andreas_Zahn,Adult,NA
+Pipistrellus_pygmaeus,BodyMass,5.08,0.49,9.67,mean,capture,g,6,individual,Germany,Unpublished data,Unpublished data,Data_provider:_Christian_Voigt-Dina_Dechmann-Tobias_Teige-Uwe_Hoffmeister-Andreas_Zahn,Adult,NA
+Myotis_daubentonii,BodyMass,8.05,1.12,13.91,mean,capture,g,38,individual,Germany,Unpublished data,Unpublished data,Data_provider:_Christian_Voigt-Dina_Dechmann-Tobias_Teige-Uwe_Hoffmeister-Andreas_Zahn,Adult,NA
+Nyctalus_leisleri,BodyMass,15.1,1.76,11.66,mean,capture,g,68,individual,Germany,Unpublished data,Unpublished data,Data_provider:_Christian_Voigt-Dina_Dechmann-Tobias_Teige-Uwe_Hoffmeister-Andreas_Zahn,Adult,NA
+Vespertilio_murinus,BodyMass,18.5,3.54,19.11,mean,capture,g,2,individual,Germany,Unpublished data,Unpublished data,Data_provider:_Christian_Voigt-Dina_Dechmann-Tobias_Teige-Uwe_Hoffmeister-Andreas_Zahn,Adult,NA
+Barbastella_barbastellus,BodyMass,9.05,0.91,10.03,mean,capture,g,11,individual,Germany,Unpublished data,Unpublished data,Data_provider:_Christian_Voigt-Dina_Dechmann-Tobias_Teige-Uwe_Hoffmeister-Andreas_Zahn,Adult,NA
+Eptesicus_nilssonii,BodyMass,10.24,1.41,13.75,mean,capture,g,19,individual,Germany,Unpublished data,Unpublished data,Data_provider:_Christian_Voigt-Dina_Dechmann-Tobias_Teige-Uwe_Hoffmeister-Andreas_Zahn,Adult,NA
+Eptesicus_serotinus,BodyMass,22.66,2.96,13.07,mean,capture,g,6,individual,Germany,Unpublished data,Unpublished data,Data_provider:_Christian_Voigt-Dina_Dechmann-Tobias_Teige-Uwe_Hoffmeister-Andreas_Zahn,Adult,NA
+Myotis_bechsteinii,BodyMass,9.36,0.55,5.83,mean,capture,g,8,individual,Germany,Unpublished data,Unpublished data,Data_provider:_Christian_Voigt-Dina_Dechmann-Tobias_Teige-Uwe_Hoffmeister-Andreas_Zahn,Adult,NA
+Myotis_brandtii,BodyMass,5.78,0.98,16.9,mean,capture,g,13,individual,Germany,Unpublished data,Unpublished data,Data_provider:_Christian_Voigt-Dina_Dechmann-Tobias_Teige-Uwe_Hoffmeister-Andreas_Zahn,Adult,NA
+Myotis_myotis,BodyMass,25.9,2.37,9.15,mean,capture,g,61,individual,Germany,Unpublished data,Unpublished data,Data_provider:_Christian_Voigt-Dina_Dechmann-Tobias_Teige-Uwe_Hoffmeister-Andreas_Zahn,Adult,NA
+Myotis_mystacinus,BodyMass,5.41,0.71,13.2,mean,capture,g,6,individual,Germany,Unpublished data,Unpublished data,Data_provider:_Christian_Voigt-Dina_Dechmann-Tobias_Teige-Uwe_Hoffmeister-Andreas_Zahn,Adult,NA
+Myotis_nattereri,BodyMass,7.21,0.55,7.66,mean,capture,g,22,individual,Germany,Unpublished data,Unpublished data,Data_provider:_Christian_Voigt-Dina_Dechmann-Tobias_Teige-Uwe_Hoffmeister-Andreas_Zahn,Adult,NA
+Pipistrellus_pipistrellus,BodyMass,4.93,0.6,12.1,mean,capture,g,53,individual,Germany,Unpublished data,Unpublished data,Data_provider:_Christian_Voigt-Dina_Dechmann-Tobias_Teige-Uwe_Hoffmeister-Andreas_Zahn,Adult,NA
+Plecotus_auritus,BodyMass,7.65,0.83,10.86,mean,capture,mm,23,individual,Germany,Unpublished data,Unpublished data,Data_provider:_Christian_Voigt-Dina_Dechmann-Tobias_Teige-Uwe_Hoffmeister-Andreas_Zahn,Adult,NA
+Hypsugo_savii,ForearmLength,33.33,1.23,3.69,mean,capture,mm,6,individual,Malta,Mifsud & Vella (2018),"Mifsud, C. M. & A. Vella. (2018). Acoustic characterization of bats from Malta: setting a baseline for monitoring and conservation of bat populations. Bioacoustics, 28(5): 427 â€“ 442",Data_provider:_Clare_Mifsud-Adriana_Vella,Adult,NA
+Pipistrellus_kuhlii,ForearmLength,34.62,0.4,1.16,mean,capture,mm,5,individual,Malta,Mifsud & Vella (2018),"Mifsud, C. M. & A. Vella. (2018). Acoustic characterization of bats from Malta: setting a baseline for monitoring and conservation of bat populations. Bioacoustics, 28(5): 427 â€“ 442",Data_provider:_Clare_Mifsud-Adriana_Vella,Adult,NA
+Pipistrellus_pipistrellus,ForearmLength,30.56,1.28,4.19,mean,capture,mm,5,individual,Malta,Mifsud & Vella (2018),"Mifsud, C. M. & A. Vella. (2018). Acoustic characterization of bats from Malta: setting a baseline for monitoring and conservation of bat populations. Bioacoustics, 28(5): 427 â€“ 442",Data_provider:_Clare_Mifsud-Adriana_Vella,Adult,NA
+Plecotus_gaisleri,ForearmLength,38.84,3.43,8.83,mean,capture,mm,14,individual,Malta,Mifsud & Vella (2018),"Mifsud, C. M. & A. Vella. (2018). Acoustic characterization of bats from Malta: setting a baseline for monitoring and conservation of bat populations. Bioacoustics, 28(5): 427 â€“ 442",Data_provider:_Clare_Mifsud-Adriana_Vella,Adult,NA
+Myotis_punicus,ForearmLength,59.83,1.97,3.29,mean,capture,mm,9,individual,Malta,Mifsud & Vella (2018),"Mifsud, C. M. & A. Vella. (2018). Acoustic characterization of bats from Malta: setting a baseline for monitoring and conservation of bat populations. Bioacoustics, 28(5): 427 â€“ 442",Data_provider:_Clare_Mifsud-Adriana_Vella,Adult,NA
+Rhinolophus_hipposideros,ForearmLength,35.55,0.91,2.56,mean,capture,mm,20,individual,Malta,Mifsud & Vella (2018),"Mifsud, C. M. & A. Vella. (2018). Acoustic characterization of bats from Malta: setting a baseline for monitoring and conservation of bat populations. Bioacoustics, 28(5): 427 â€“ 442",Data_provider:_Clare_Mifsud-Adriana_Vella,Adult,NA
+Hypsugo_savii,BodyMass,7.58,0.66,8.71,mean,capture,g,6,individual,Malta,Mifsud & Vella (2018),"Mifsud, C. M. & A. Vella. (2018). Acoustic characterization of bats from Malta: setting a baseline for monitoring and conservation of bat populations. Bioacoustics, 28(5): 427 â€“ 442",Data_provider:_Clare_Mifsud-Adriana_Vella,Adult,NA
+Pipistrellus_kuhlii,BodyMass,7.14,1.27,17.79,mean,capture,g,5,individual,Malta,Mifsud & Vella (2018),"Mifsud, C. M. & A. Vella. (2018). Acoustic characterization of bats from Malta: setting a baseline for monitoring and conservation of bat populations. Bioacoustics, 28(5): 427 â€“ 442",Data_provider:_Clare_Mifsud-Adriana_Vella,Adult,NA
+Pipistrellus_pipistrellus,BodyMass,4.48,0.61,13.62,mean,capture,g,5,individual,Malta,Mifsud & Vella (2018),"Mifsud, C. M. & A. Vella. (2018). Acoustic characterization of bats from Malta: setting a baseline for monitoring and conservation of bat populations. Bioacoustics, 28(5): 427 â€“ 442",Data_provider:_Clare_Mifsud-Adriana_Vella,Adult,NA
+Plecotus_gaisleri,BodyMass,7.49,0.91,12.15,mean,capture,g,14,individual,Malta,Mifsud & Vella (2018),"Mifsud, C. M. & A. Vella. (2018). Acoustic characterization of bats from Malta: setting a baseline for monitoring and conservation of bat populations. Bioacoustics, 28(5): 427 â€“ 442",Data_provider:_Clare_Mifsud-Adriana_Vella,Adult,NA
+Myotis_punicus,BodyMass,23.11,2.1,9.09,mean,capture,g,9,individual,Malta,Mifsud & Vella (2018),"Mifsud, C. M. & A. Vella. (2018). Acoustic characterization of bats from Malta: setting a baseline for monitoring and conservation of bat populations. Bioacoustics, 28(5): 427 â€“ 442",Data_provider:_Clare_Mifsud-Adriana_Vella,Adult,NA
+Rhinolophus_hipposideros,BodyMass,3.98,0.3,7.54,mean,capture,g,20,individual,Malta,Mifsud & Vella (2018),"Mifsud, C. M. & A. Vella. (2018). Acoustic characterization of bats from Malta: setting a baseline for monitoring and conservation of bat populations. Bioacoustics, 28(5): 427 â€“ 442",Data_provider:_Clare_Mifsud-Adriana_Vella,Adult,NA
+Barbastella_barbastellus,ForearmLength,39.54,0.91,2.29,mean of means,capture,mm,1871,individual,Poland,Unpublished data,Unpublished data,Data_provider:_Ireneusz_RuczyÅ„ski-Grzegorz_LesiÅ„ski-Joanna_Furmankiewicz-Marcin_Zegarek-Marcin_PakuÅ‚a,Adult,NA
+Eptesicus_nilssonii,ForearmLength,40.09,0.62,1.54,mean of means,capture,mm,16,individual,Poland,Unpublished data,Unpublished data,Data_provider:_Ireneusz_RuczyÅ„ski-Grzegorz_LesiÅ„ski-Joanna_Furmankiewicz-Marcin_Zegarek-Marcin_PakuÅ‚a,Adult,NA
+Eptesicus_serotinus,ForearmLength,51.7,1.27,2.45,mean of means,capture,mm,259,individual,Poland,Unpublished data,Unpublished data,Data_provider:_Ireneusz_RuczyÅ„ski-Grzegorz_LesiÅ„ski-Joanna_Furmankiewicz-Marcin_Zegarek-Marcin_PakuÅ‚a,Adult,NA
+Myotis_alcathoe,ForearmLength,32.46,0.46,1.43,mean of means,capture,mm,28,individual,Poland,Unpublished data,Unpublished data,Data_provider:_Ireneusz_RuczyÅ„ski-Grzegorz_LesiÅ„ski-Joanna_Furmankiewicz-Marcin_Zegarek-Marcin_PakuÅ‚a,Adult,NA
+Myotis_bechsteinii,ForearmLength,43.25,1.14,2.63,mean of means,capture,mm,327,individual,Poland,Unpublished data,Unpublished data,Data_provider:_Ireneusz_RuczyÅ„ski-Grzegorz_LesiÅ„ski-Joanna_Furmankiewicz-Marcin_Zegarek-Marcin_PakuÅ‚a,Adult,NA
+Myotis_brandtii,ForearmLength,35.37,1.16,3.27,mean of means,capture,mm,491,individual,Poland,Unpublished data,Unpublished data,Data_provider:_Ireneusz_RuczyÅ„ski-Grzegorz_LesiÅ„ski-Joanna_Furmankiewicz-Marcin_Zegarek-Marcin_PakuÅ‚a,Adult,NA
+Myotis_dasycneme,ForearmLength,44.96,1.43,3.17,mean of means,capture,mm,14,individual,Poland,Unpublished data,Unpublished data,Data_provider:_Ireneusz_RuczyÅ„ski-Grzegorz_LesiÅ„ski-Joanna_Furmankiewicz-Marcin_Zegarek-Marcin_PakuÅ‚a,Adult,NA
+Myotis_daubentonii,ForearmLength,38.11,0.99,2.59,mean of means,capture,mm,1829,individual,Poland,Unpublished data,Unpublished data,Data_provider:_Ireneusz_RuczyÅ„ski-Grzegorz_LesiÅ„ski-Joanna_Furmankiewicz-Marcin_Zegarek-Marcin_PakuÅ‚a,Adult,NA
+Myotis_emarginatus,ForearmLength,38.29,1.1,2.86,mean of means,capture,mm,384,individual,Poland,Unpublished data,Unpublished data,Data_provider:_Ireneusz_RuczyÅ„ski-Grzegorz_LesiÅ„ski-Joanna_Furmankiewicz-Marcin_Zegarek-Marcin_PakuÅ‚a,Adult,NA
+Myotis_myotis,ForearmLength,60.9,1.3,2.13,mean of means,capture,mm,530,individual,Poland,Unpublished data,Unpublished data,Data_provider:_Ireneusz_RuczyÅ„ski-Grzegorz_LesiÅ„ski-Joanna_Furmankiewicz-Marcin_Zegarek-Marcin_PakuÅ‚a,Adult,NA
+Myotis_mystacinus,ForearmLength,33.46,1.24,3.69,mean of means,capture,mm,92,individual,Poland,Unpublished data,Unpublished data,Data_provider:_Ireneusz_RuczyÅ„ski-Grzegorz_LesiÅ„ski-Joanna_Furmankiewicz-Marcin_Zegarek-Marcin_PakuÅ‚a,Adult,NA
+Myotis_nattereri,ForearmLength,40.46,1.21,2.99,mean of means,capture,mm,1109,individual,Poland,Unpublished data,Unpublished data,Data_provider:_Ireneusz_RuczyÅ„ski-Grzegorz_LesiÅ„ski-Joanna_Furmankiewicz-Marcin_Zegarek-Marcin_PakuÅ‚a,Adult,NA
+Nyctalus_leisleri,ForearmLength,43.49,2.33,5.35,mean of means,capture,mm,39,individual,Poland,Unpublished data,Unpublished data,Data_provider:_Ireneusz_RuczyÅ„ski-Grzegorz_LesiÅ„ski-Joanna_Furmankiewicz-Marcin_Zegarek-Marcin_PakuÅ‚a,Adult,NA
+Nyctalus_noctula,ForearmLength,53.34,1.2,2.26,mean of means,capture,mm,1600,individual,Poland,Unpublished data,Unpublished data,Data_provider:_Ireneusz_RuczyÅ„ski-Grzegorz_LesiÅ„ski-Joanna_Furmankiewicz-Marcin_Zegarek-Marcin_PakuÅ‚a,Adult,NA
+Pipistrellus_nathusii,ForearmLength,33.83,1.24,3.67,mean of means,capture,mm,42,individual,Poland,Unpublished data,Unpublished data,Data_provider:_Ireneusz_RuczyÅ„ski-Grzegorz_LesiÅ„ski-Joanna_Furmankiewicz-Marcin_Zegarek-Marcin_PakuÅ‚a,Adult,NA
+Pipistrellus_pipistrellus,ForearmLength,31.63,0.76,2.42,mean of means,capture,mm,80,individual,Poland,Unpublished data,Unpublished data,Data_provider:_Ireneusz_RuczyÅ„ski-Grzegorz_LesiÅ„ski-Joanna_Furmankiewicz-Marcin_Zegarek-Marcin_PakuÅ‚a,Adult,NA
+Pipistrellus_pygmaeus,ForearmLength,30.23,0.76,2.51,mean of means,capture,mm,65,individual,Poland,Unpublished data,Unpublished data,Data_provider:_Ireneusz_RuczyÅ„ski-Grzegorz_LesiÅ„ski-Joanna_Furmankiewicz-Marcin_Zegarek-Marcin_PakuÅ‚a,Adult,NA
+Plecotus_auritus,ForearmLength,39.46,1.02,2.59,mean of means,capture,mm,2085,individual,Poland,Unpublished data,Unpublished data,Data_provider:_Ireneusz_RuczyÅ„ski-Grzegorz_LesiÅ„ski-Joanna_Furmankiewicz-Marcin_Zegarek-Marcin_PakuÅ‚a,Adult,NA
+Plecotus_austriacus,ForearmLength,40.36,0.88,2.18,mean of means,capture,mm,117,individual,Poland,Unpublished data,Unpublished data,Data_provider:_Ireneusz_RuczyÅ„ski-Grzegorz_LesiÅ„ski-Joanna_Furmankiewicz-Marcin_Zegarek-Marcin_PakuÅ‚a,Adult,NA
+Rhinolophus_hipposideros,ForearmLength,39.39,0.67,1.69,mean of means,capture,mm,55,individual,Poland,Unpublished data,Unpublished data,Data_provider:_Ireneusz_RuczyÅ„ski-Grzegorz_LesiÅ„ski-Joanna_Furmankiewicz-Marcin_Zegarek-Marcin_PakuÅ‚a,Adult,NA
+Vespertilio_murinus,ForearmLength,44.7,1.63,3.65,mean of means,capture,mm,366,individual,Poland,Unpublished data,Unpublished data,Data_provider:_Ireneusz_RuczyÅ„ski-Grzegorz_LesiÅ„ski-Joanna_Furmankiewicz-Marcin_Zegarek-Marcin_PakuÅ‚a,Adult,NA
+Barbastella_barbastellus,BodyMass,9.39,0.71,7.58,mean of means,capture,g,1217,individual,Poland,Unpublished data,Unpublished data,Data_provider:_Ireneusz_RuczyÅ„ski-Grzegorz_LesiÅ„ski-Joanna_Furmankiewicz-Marcin_Zegarek-Marcin_PakuÅ‚a,Adult,NA
+Eptesicus_nilssonii,BodyMass,11.77,1.49,12.67,mean of means,capture,g,11,individual,Poland,Unpublished data,Unpublished data,Data_provider:_Ireneusz_RuczyÅ„ski-Grzegorz_LesiÅ„ski-Joanna_Furmankiewicz-Marcin_Zegarek-Marcin_PakuÅ‚a,Adult,NA
+Eptesicus_serotinus,BodyMass,22.88,2.11,9.24,mean of means,capture,g,172,individual,Poland,Unpublished data,Unpublished data,Data_provider:_Ireneusz_RuczyÅ„ski-Grzegorz_LesiÅ„ski-Joanna_Furmankiewicz-Marcin_Zegarek-Marcin_PakuÅ‚a,Adult,NA
+Myotis_alcathoe,BodyMass,4.46,0.4,8.87,mean of means,capture,g,29,individual,Poland,Unpublished data,Unpublished data,Data_provider:_Ireneusz_RuczyÅ„ski-Grzegorz_LesiÅ„ski-Joanna_Furmankiewicz-Marcin_Zegarek-Marcin_PakuÅ‚a,Adult,NA
+Myotis_bechsteinii,BodyMass,10.26,1.15,11.2,mean of means,capture,g,186,individual,Poland,Unpublished data,Unpublished data,Data_provider:_Ireneusz_RuczyÅ„ski-Grzegorz_LesiÅ„ski-Joanna_Furmankiewicz-Marcin_Zegarek-Marcin_PakuÅ‚a,Adult,NA
+Myotis_brandtii,BodyMass,6.4,0.79,12.29,mean of means,capture,g,392,individual,Poland,Unpublished data,Unpublished data,Data_provider:_Ireneusz_RuczyÅ„ski-Grzegorz_LesiÅ„ski-Joanna_Furmankiewicz-Marcin_Zegarek-Marcin_PakuÅ‚a,Adult,NA
+Myotis_dasycneme,BodyMass,15.7,NA,0,mean of means,capture,g,2,individual,Poland,Unpublished data,Unpublished data,Data_provider:_Ireneusz_RuczyÅ„ski-Grzegorz_LesiÅ„ski-Joanna_Furmankiewicz-Marcin_Zegarek-Marcin_PakuÅ‚a,Adult,NA
+Myotis_daubentonii,BodyMass,8.8,0.94,10.66,mean of means,capture,g,964,individual,Poland,Unpublished data,Unpublished data,Data_provider:_Ireneusz_RuczyÅ„ski-Grzegorz_LesiÅ„ski-Joanna_Furmankiewicz-Marcin_Zegarek-Marcin_PakuÅ‚a,Adult,NA
+Myotis_emarginatus,BodyMass,7.82,0.67,8.6,mean of means,capture,g,295,individual,Poland,Unpublished data,Unpublished data,Data_provider:_Ireneusz_RuczyÅ„ski-Grzegorz_LesiÅ„ski-Joanna_Furmankiewicz-Marcin_Zegarek-Marcin_PakuÅ‚a,Adult,NA
+Myotis_myotis,BodyMass,27.28,2.15,7.87,mean of means,capture,g,231,individual,Poland,Unpublished data,Unpublished data,Data_provider:_Ireneusz_RuczyÅ„ski-Grzegorz_LesiÅ„ski-Joanna_Furmankiewicz-Marcin_Zegarek-Marcin_PakuÅ‚a,Adult,NA
+Myotis_mystacinus,BodyMass,4.89,0.53,10.86,mean of means,capture,g,64,individual,Poland,Unpublished data,Unpublished data,Data_provider:_Ireneusz_RuczyÅ„ski-Grzegorz_LesiÅ„ski-Joanna_Furmankiewicz-Marcin_Zegarek-Marcin_PakuÅ‚a,Adult,NA
+Myotis_nattereri,BodyMass,8.05,0.78,9.74,mean of means,capture,g,676,individual,Poland,Unpublished data,Unpublished data,Data_provider:_Ireneusz_RuczyÅ„ski-Grzegorz_LesiÅ„ski-Joanna_Furmankiewicz-Marcin_Zegarek-Marcin_PakuÅ‚a,Adult,NA
+Nyctalus_leisleri,BodyMass,15.98,3.87,24.21,mean of means,capture,g,24,individual,Poland,Unpublished data,Unpublished data,Data_provider:_Ireneusz_RuczyÅ„ski-Grzegorz_LesiÅ„ski-Joanna_Furmankiewicz-Marcin_Zegarek-Marcin_PakuÅ‚a,Adult,NA
+Nyctalus_noctula,BodyMass,25.71,1.93,7.51,mean of means,capture,g,1594,individual,Poland,Unpublished data,Unpublished data,Data_provider:_Ireneusz_RuczyÅ„ski-Grzegorz_LesiÅ„ski-Joanna_Furmankiewicz-Marcin_Zegarek-Marcin_PakuÅ‚a,Adult,NA
+Pipistrellus_nathusii,BodyMass,7.51,0.98,13.05,mean of means,capture,g,39,individual,Poland,Unpublished data,Unpublished data,Data_provider:_Ireneusz_RuczyÅ„ski-Grzegorz_LesiÅ„ski-Joanna_Furmankiewicz-Marcin_Zegarek-Marcin_PakuÅ‚a,Adult,NA
+Pipistrellus_pipistrellus,BodyMass,5.8,0.63,10.87,mean of means,capture,g,15,individual,Poland,Unpublished data,Unpublished data,Data_provider:_Ireneusz_RuczyÅ„ski-Grzegorz_LesiÅ„ski-Joanna_Furmankiewicz-Marcin_Zegarek-Marcin_PakuÅ‚a,Adult,NA
+Pipistrellus_pygmaeus,BodyMass,5.19,0.68,13.11,mean of means,capture,g,62,individual,Poland,Unpublished data,Unpublished data,Data_provider:_Ireneusz_RuczyÅ„ski-Grzegorz_LesiÅ„ski-Joanna_Furmankiewicz-Marcin_Zegarek-Marcin_PakuÅ‚a,Adult,NA
+Plecotus_auritus,BodyMass,7.91,0.65,8.18,mean of means,capture,g,1430,individual,Poland,Unpublished data,Unpublished data,Data_provider:_Ireneusz_RuczyÅ„ski-Grzegorz_LesiÅ„ski-Joanna_Furmankiewicz-Marcin_Zegarek-Marcin_PakuÅ‚a,Adult,NA
+Plecotus_austriacus,BodyMass,8.67,0.73,8.46,mean of means,capture,g,110,individual,Poland,Unpublished data,Unpublished data,Data_provider:_Ireneusz_RuczyÅ„ski-Grzegorz_LesiÅ„ski-Joanna_Furmankiewicz-Marcin_Zegarek-Marcin_PakuÅ‚a,Adult,NA
+Vespertilio_murinus,BodyMass,14.49,1.32,9.12,mean of means,capture,g,423,individual,Poland,Unpublished data,Unpublished data,Data_provider:_Ireneusz_RuczyÅ„ski-Grzegorz_LesiÅ„ski-Joanna_Furmankiewicz-Marcin_Zegarek-Marcin_PakuÅ‚a,Adult,NA
+Nyctalus_leisleri,ForearmLength,43,1.68,3.9,mean,capture,mm,22,individual,UnitedKingdom,Unpublished data,Unpublished data,Data_provider:_BatConservationTrust,Adult,NA
+Myotis_alcathoe,ForearmLength,32.51,0.64,1.96,mean,capture,mm,13,individual,UnitedKingdom,Unpublished data,Unpublished data,Data_provider:_BatConservationTrust,Adult,NA
+Myotis_bechsteinii,ForearmLength,41.45,1.18,2.85,mean,capture,mm,56,individual,UnitedKingdom,Unpublished data,Unpublished data,Data_provider:_BatConservationTrust,Adult,NA
+Myotis_brandtii,ForearmLength,34.53,1.15,3.33,mean,capture,mm,115,individual,UnitedKingdom,Unpublished data,Unpublished data,Data_provider:_BatConservationTrust,Adult,spurious_values_removed
+Myotis_daubentonii,ForearmLength,37.37,1.19,3.19,mean,capture,mm,1529,individual,UnitedKingdom,Unpublished data,Unpublished data,Data_provider:_BatConservationTrust,Adult,spurious_values_removed
+Myotis_mystacinus,ForearmLength,34.16,0.98,2.87,mean,capture,mm,555,individual,UnitedKingdom,Unpublished data,Unpublished data,Data_provider:_BatConservationTrust,Adult,spurious values removed
+Myotis_nattereri,ForearmLength,39.19,1.27,3.24,mean,capture,mm,260,individual,UnitedKingdom,Unpublished data,Unpublished data,Data_provider:_BatConservationTrust,Adult,NA
+Nyctalus_noctula,ForearmLength,53.02,1.53,2.89,mean,capture,mm,216,individual,UnitedKingdom,Unpublished data,Unpublished data,Data_provider:_BatConservationTrust,Adult,spurious_values_removed
+Pipistrellus_nathusii,ForearmLength,33.83,0.98,2.9,mean,capture,mm,2594,individual,UnitedKingdom,Unpublished data,Unpublished data,Data_provider:_BatConservationTrust,Adult,NA
+Pipistrellus_pipistrellus,ForearmLength,31.93,0.98,3.05,mean,capture,mm,1573,individual,UnitedKingdom,Unpublished data,Unpublished data,Data_provider:_BatConservationTrust,Adult,spurious_values_removed
+Pipistrellus_pygmaeus,ForearmLength,31.56,0.98,3.1,mean,capture,mm,5457,individual,UnitedKingdom,Unpublished data,Unpublished data,Data_provider:_BatConservationTrust,Adult,spurious_values_removed
+Plecotus_auritus,ForearmLength,38.38,1.25,3.27,mean,capture,mm,194,individual,UnitedKingdom,Unpublished data,Unpublished data,Data_provider:_BatConservationTrust,Adult,NA
+Rhinolophus_ferrumequinum,ForearmLength,52.6,0.28,0.54,mean,capture,mm,2,individual,UnitedKingdom,Unpublished data,Unpublished data,Data_provider:_BatConservationTrust,Adult,spurious_values_removed
+Rhinolophus_hipposideros,ForearmLength,36.8,0.99,2.69,mean,capture,mm,2,individual,UnitedKingdom,Unpublished data,Unpublished data,Data_provider:_BatConservationTrust,Adult,NA
+Eptesicus_serotinus,ForearmLength,52.15,1.45,2.79,mean,capture,mm,11,individual,UnitedKingdom,Unpublished data,Unpublished data,Data_provider:_BatConservationTrust,Adult,NA
+Plecotus_austriacus,ForearmLength,40.77,1.15,2.82,mean,capture,mm,42,individual,UnitedKingdom,Unpublished data,Unpublished data,Data_provider:_BatConservationTrust,Adult,NA
+Barbastella_barbastellus,ForearmLength,38.39,0.99,2.57,mean,capture,mm,49,individual,UnitedKingdom,Unpublished data,Unpublished data,Data_provider:_BatConservationTrust,Adult,NA
+Nyctalus_leisleri,BodyMass,13.41,1.48,11.02,mean,capture,g,13,individual,UnitedKingdom,Unpublished data,Unpublished data,Data_provider:_BatConservationTrust,Adult,NA
+Myotis_alcathoe,BodyMass,4.86,0.23,4.8,mean,capture,g,11,individual,UnitedKingdom,Unpublished data,Unpublished data,Data_provider:_BatConservationTrust,Adult,NA
+Myotis_bechsteinii,BodyMass,8.63,0.38,4.38,mean,capture,g,4,individual,UnitedKingdom,Unpublished data,Unpublished data,Data_provider:_BatConservationTrust,Adult,NA
+Myotis_brandtii,BodyMass,5.81,0.87,15.01,mean,capture,g,102,individual,UnitedKingdom,Unpublished data,Unpublished data,Data_provider:_BatConservationTrust,Adult,spurious_values_removed
+Myotis_daubentonii,BodyMass,8.6,1.26,14.63,mean,capture,g,1511,individual,UnitedKingdom,Unpublished data,Unpublished data,Data_provider:_BatConservationTrust,Adult,spurious_values_removed
+Myotis_mystacinus,BodyMass,5.22,0.63,12.09,mean,capture,g,486,individual,UnitedKingdom,Unpublished data,Unpublished data,Data_provider:_BatConservationTrust,Adult,spurious_values_removed
+Myotis_nattereri,BodyMass,7.72,0.96,12.38,mean,capture,g,232,individual,UnitedKingdom,Unpublished data,Unpublished data,Data_provider:_BatConservationTrust,Adult,NA
+Nyctalus_noctula,BodyMass,27.5,2.93,10.67,mean,capture,g,213,individual,UnitedKingdom,Unpublished data,Unpublished data,Data_provider:_BatConservationTrust,Adult,spurious_values_removed
+Pipistrellus_nathusii,BodyMass,7.7,1.03,13.4,mean,capture,g,2529,individual,UnitedKingdom,Unpublished data,Unpublished data,Data_provider:_BatConservationTrust,Adult,NA
+Pipistrellus_pipistrellus,BodyMass,5.08,0.75,14.69,mean,capture,g,1556,individual,UnitedKingdom,Unpublished data,Unpublished data,Data_provider:_BatConservationTrust,Adult,spurious_values_removed
+Pipistrellus_pygmaeus,BodyMass,5.32,0.78,14.63,mean,capture,g,5446,individual,UnitedKingdom,Unpublished data,Unpublished data,Data_provider:_BatConservationTrust,Adult,spurious_values_removed
+Plecotus_auritus,BodyMass,7.53,0.84,11.13,mean,capture,g,166,individual,UnitedKingdom,Unpublished data,Unpublished data,Data_provider:_BatConservationTrust,Adult,NA
+Rhinolophus_ferrumequinum,BodyMass,21,0.71,3.37,mean,capture,g,2,individual,UnitedKingdom,Unpublished data,Unpublished data,Data_provider:_BatConservationTrust,Adult,spurious_values_removed
+Rhinolophus_hipposideros,BodyMass,5.25,0.07,1.35,mean,capture,g,2,individual,UnitedKingdom,Unpublished data,Unpublished data,Data_provider:_BatConservationTrust,Adult,NA
+Eptesicus_serotinus,BodyMass,22.06,2.95,13.39,mean,capture,g,11,individual,UnitedKingdom,Unpublished data,Unpublished data,Data_provider:_BatConservationTrust,Adult,NA
+Plecotus_austriacus,BodyMass,9.28,0.93,10.05,mean,capture,g,39,individual,UnitedKingdom,Unpublished data,Unpublished data,Data_provider:_Orly_Razgour,Adult,NA
+Barbastella_barbastellus,BodyMass,8.89,0.87,9.75,mean,capture,g,49,individual,UnitedKingdom,Unpublished data,Unpublished data,Data_provider:_Orly_Razgour,Adult,NA
+Barbastella_barbastellus,ForearmLength,39.64,1.03,2.61,mean,capture,mm,102,individual,Spain,Unpublished data,Unpublished data,Data_provider:_Javier_Juste-Carlos_Ibanez-Ana_Benitez,Adult,NA
+Eptesicus_isabellinus,ForearmLength,50.82,2.03,4,mean,capture,mm,5256,individual,Spain,Unpublished data,Unpublished data,Data_provider:_Javier_Juste-Carlos_Ibanez-Ana_Benitez,Adult,spurious_values_removed
+Eptesicus_serotinus,ForearmLength,52.05,1.87,3.59,mean,capture,mm,268,individual,Spain,Unpublished data,Unpublished data,Data_provider:_Javier_Juste-Carlos_Ibanez-Ana_Benitez,Adult,NA
+Hypsugo_savii,ForearmLength,34.45,1.22,3.53,mean,capture,mm,389,individual,Spain,Unpublished data,Unpublished data,Data_provider:_Javier_Juste-Carlos_Ibanez-Ana_Benitez,Adult,spurious_values_removed
+Miniopterus_schreibersii,ForearmLength,45.38,0.9,1.99,mean,capture,mm,2944,individual,Spain,Unpublished data,Unpublished data,Data_provider:_Javier_Juste-Carlos_Ibanez-Ana_Benitez,Adult,NA
+Myotis_alcathoe,ForearmLength,32.36,0.8,2.47,mean,capture,mm,20,individual,Spain,Unpublished data,Unpublished data,Data_provider:_Javier_Juste-Carlos_Ibanez-Ana_Benitez,Adult,NA
+Myotis_bechsteinii,ForearmLength,42.08,1.18,2.81,mean,capture,mm,203,individual,Spain,Unpublished data,Unpublished data,Data_provider:_Javier_Juste-Carlos_Ibanez-Ana_Benitez,Adult,NA
+Myotis_blythii,ForearmLength,58.24,2.09,3.59,mean,capture,mm,312,individual,Spain,Unpublished data,Unpublished data,Data_provider:_Javier_Juste-Carlos_Ibanez-Ana_Benitez,Adult,NA
+Myotis_capaccinii,ForearmLength,40.53,0.8,1.96,mean,capture,mm,328,individual,Spain,Unpublished data,Unpublished data,Data_provider:_Javier_Juste-Carlos_Ibanez-Ana_Benitez,Adult,NA
+Myotis_crypticus,ForearmLength,39.76,1.15,2.9,mean,capture,mm,37,individual,Spain,Unpublished data,Unpublished data,Data_provider:_Javier_Juste-Carlos_Ibanez-Ana_Benitez,Adult,spurious_values_removed
+Myotis_daubentonii,ForearmLength,35.54,1.41,3.97,mean,capture,mm,895,individual,Spain,Unpublished data,Unpublished data,Data_provider:_Javier_Juste-Carlos_Ibanez-Ana_Benitez,Adult,spurious_values_removed
+Myotis_emarginatus,ForearmLength,39.74,1.97,4.96,mean,capture,mm,217,individual,Spain,Unpublished data,Unpublished data,Data_provider:_Javier_Juste-Carlos_Ibanez-Ana_Benitez,Adult,spurious_values_removed
+Myotis_escalerai,ForearmLength,39.39,1.2,3.04,mean,capture,mm,733,individual,Spain,Unpublished data,Unpublished data,Data_provider:_Javier_Juste-Carlos_Ibanez-Ana_Benitez,Adult,spurious_values_removed
+Myotis_myotis,ForearmLength,61.3,2.98,4.86,mean,capture,mm,1628,individual,Spain,Unpublished data,Unpublished data,Data_provider:_Javier_Juste-Carlos_Ibanez-Ana_Benitez,Adult,spurious_values_removed
+Myotis_mystacinus,ForearmLength,34.29,1.3,3.78,mean,capture,mm,63,individual,Spain,Unpublished data,Unpublished data,Data_provider:_Javier_Juste-Carlos_Ibanez-Ana_Benitez,Adult,spurious_values_removed
+Nyctalus_lasiopterus,ForearmLength,64.22,2.07,3.22,mean,capture,mm,2512,individual,Spain,Unpublished data,Unpublished data,Data_provider:_Javier_Juste-Carlos_Ibanez-Ana_Benitez,Adult,spurious_values_removed
+Nyctalus_leisleri,ForearmLength,43.37,1.38,3.19,mean,capture,mm,698,individual,Spain,Unpublished data,Unpublished data,Data_provider:_Javier_Juste-Carlos_Ibanez-Ana_Benitez,Adult,spurious_values_removed
+Nyctalus_noctula,ForearmLength,53.53,1.56,2.92,mean,capture,mm,20,individual,Spain,Unpublished data,Unpublished data,Data_provider:_Javier_Juste-Carlos_Ibanez-Ana_Benitez,Adult,NA
+Pipistrellus_kuhlii,ForearmLength,33.33,1.12,3.37,mean,capture,mm,682,individual,Spain,Unpublished data,Unpublished data,Data_provider:_Javier_Juste-Carlos_Ibanez-Ana_Benitez,Adult,NA
+Pipistrellus_pipistrellus,ForearmLength,30.36,0.89,2.93,mean,capture,mm,256,individual,Spain,Unpublished data,Unpublished data,Data_provider:_Javier_Juste-Carlos_Ibanez-Ana_Benitez,Adult,NA
+Pipistrellus_pygmaeus,ForearmLength,30.9,0.89,2.89,mean,capture,mm,733,individual,Spain,Unpublished data,Unpublished data,Data_provider:_Javier_Juste-Carlos_Ibanez-Ana_Benitez,Adult,spurious_values_removed
+Plecotus_auritus,ForearmLength,40.58,1.37,3.39,mean,capture,mm,156,individual,Spain,Unpublished data,Unpublished data,Data_provider:_Javier_Juste-Carlos_Ibanez-Ana_Benitez,Adult,NA
+Plecotus_austriacus,ForearmLength,40.78,1.21,2.97,mean,capture,mm,495,individual,Spain,Unpublished data,Unpublished data,Data_provider:_Javier_Juste-Carlos_Ibanez-Ana_Benitez,Adult,spurious_values_removed
+Rhinolophus_euryale,ForearmLength,47.44,1.72,3.62,mean,capture,mm,407,individual,Spain,Unpublished data,Unpublished data,Data_provider:_Javier_Juste-Carlos_Ibanez-Ana_Benitez,Adult,spurious_values_removed
+Rhinolophus_ferrumequinum,ForearmLength,54.21,2.83,5.21,mean,capture,mm,1075,individual,Spain,Unpublished data,Unpublished data,Data_provider:_Javier_Juste-Carlos_Ibanez-Ana_Benitez,Adult,spurious_values_removed
+Rhinolophus_hipposideros,ForearmLength,36.95,1.05,2.85,mean,capture,mm,1186,individual,Spain,Unpublished data,Unpublished data,Data_provider:_Javier_Juste-Carlos_Ibanez-Ana_Benitez,Adult,spurious_values_removed
+Rhinolophus_mehelyi,ForearmLength,50.16,1.31,2.61,mean,capture,mm,153,individual,Spain,Unpublished data,Unpublished data,Data_provider:_Javier_Juste-Carlos_Ibanez-Ana_Benitez,Adult,NA
+Tadarida_teniotis,ForearmLength,60.52,1.56,2.58,mean,capture,mm,350,individual,Spain,Unpublished data,Unpublished data,Data_provider:_Javier_Juste-Carlos_Ibanez-Ana_Benitez,Adult,NA
+Plecotus_macrobullaris,ForearmLength,41.53,1.21,2.93,mean,capture,mm,50,individual,Spain,Unpublished data,Unpublished data,Data_provider:_Javier_Juste-Carlos_Ibanez-Ana_Benitez,Adult,NA
+Barbastella_barbastellus,BodyMass,8.65,1.53,17.67,mean,capture,g,65,individual,Spain,Unpublished data,Unpublished data,Data_provider:_Javier_Juste-Carlos_Ibanez-Ana_Benitez,Adult,NA
+Eptesicus_isabellinus,BodyMass,22.94,4.66,20.31,mean,capture,g,4205,individual,Spain,Unpublished data,Unpublished data,Data_provider:_Javier_Juste-Carlos_Ibanez-Ana_Benitez,Adult,spurious_values_removed
+Eptesicus_serotinus,BodyMass,24.4,4.25,17.43,mean,capture,g,251,individual,Spain,Unpublished data,Unpublished data,Data_provider:_Javier_Juste-Carlos_Ibanez-Ana_Benitez,Adult,NA
+Hypsugo_savii,BodyMass,7.79,1.35,17.32,mean,capture,g,235,individual,Spain,Unpublished data,Unpublished data,Data_provider:_Javier_Juste-Carlos_Ibanez-Ana_Benitez,Adult,spurious_values_removed
+Miniopterus_schreibersii,BodyMass,12.55,1.33,10.58,mean,capture,g,1517,individual,Spain,Unpublished data,Unpublished data,Data_provider:_Javier_Juste-Carlos_Ibanez-Ana_Benitez,Adult,NA
+Myotis_alcathoe,BodyMass,4.5,0.44,9.87,mean,capture,g,19,individual,Spain,Unpublished data,Unpublished data,Data_provider:_Javier_Juste-Carlos_Ibanez-Ana_Benitez,Adult,NA
+Myotis_bechsteinii,BodyMass,9.5,1.49,15.63,mean,capture,g,146,individual,Spain,Unpublished data,Unpublished data,Data_provider:_Javier_Juste-Carlos_Ibanez-Ana_Benitez,Adult,NA
+Myotis_blythii,BodyMass,23.26,2.99,12.87,mean,capture,g,128,individual,Spain,Unpublished data,Unpublished data,Data_provider:_Javier_Juste-Carlos_Ibanez-Ana_Benitez,Adult,NA
+Myotis_capaccinii,BodyMass,9.55,0.6,6.29,mean,capture,g,54,individual,Spain,Unpublished data,Unpublished data,Data_provider:_Javier_Juste-Carlos_Ibanez-Ana_Benitez,Adult,NA
+Myotis_crypticus,BodyMass,7.43,0.81,10.9,mean,capture,g,16,individual,Spain,Unpublished data,Unpublished data,Data_provider:_Javier_Juste-Carlos_Ibanez-Ana_Benitez,Adult,spurious_values_removed
+Myotis_daubentonii,BodyMass,6.92,1.1,15.83,mean,capture,g,803,individual,Spain,Unpublished data,Unpublished data,Data_provider:_Javier_Juste-Carlos_Ibanez-Ana_Benitez,Adult,spurious_values_removed
+Myotis_emarginatus,BodyMass,7.78,1.21,15.57,mean,capture,g,125,individual,Spain,Unpublished data,Unpublished data,Data_provider:_Javier_Juste-Carlos_Ibanez-Ana_Benitez,Adult,spurious_values_removed
+Myotis_escalerai,BodyMass,6.75,0.93,13.78,mean,capture,g,508,individual,Spain,Unpublished data,Unpublished data,Data_provider:_Javier_Juste-Carlos_Ibanez-Ana_Benitez,Adult,spurious_values_removed
+Myotis_myotis,BodyMass,27.66,4.46,16.13,mean,capture,g,1152,individual,Spain,Unpublished data,Unpublished data,Data_provider:_Javier_Juste-Carlos_Ibanez-Ana_Benitez,Adult,spurious_values_removed
+Myotis_mystacinus,BodyMass,5.06,0.61,12,mean,capture,g,46,individual,Spain,Unpublished data,Unpublished data,Data_provider:_Javier_Juste-Carlos_Ibanez-Ana_Benitez,Adult,spurious_values_removed
+Nyctalus_lasiopterus,BodyMass,47.14,7.56,16.05,mean,capture,g,2436,individual,Spain,Unpublished data,Unpublished data,Data_provider:_Javier_Juste-Carlos_Ibanez-Ana_Benitez,Adult,spurious_values_removed
+Nyctalus_leisleri,BodyMass,14.62,2.15,14.69,mean,capture,g,639,individual,Spain,Unpublished data,Unpublished data,Data_provider:_Javier_Juste-Carlos_Ibanez-Ana_Benitez,Adult,spurious_values_removed
+Nyctalus_noctula,BodyMass,30.63,3.3,10.77,mean,capture,g,20,individual,Spain,Unpublished data,Unpublished data,Data_provider:_Javier_Juste-Carlos_Ibanez-Ana_Benitez,Adult,NA
+Pipistrellus_kuhlii,BodyMass,6.21,0.96,15.42,mean,capture,g,525,individual,Spain,Unpublished data,Unpublished data,Data_provider:_Javier_Juste-Carlos_Ibanez-Ana_Benitez,Adult,NA
+Pipistrellus_pipistrellus,BodyMass,4.3,0.84,19.49,mean,capture,g,218,individual,Spain,Unpublished data,Unpublished data,Data_provider:_Javier_Juste-Carlos_Ibanez-Ana_Benitez,Adult,NA
+Pipistrellus_pygmaeus,BodyMass,5.65,1.03,18.26,mean,capture,g,678,individual,Spain,Unpublished data,Unpublished data,Data_provider:_Javier_Juste-Carlos_Ibanez-Ana_Benitez,Adult,spurious_values_removed
+Plecotus_auritus,BodyMass,8.37,1.01,12.06,mean,capture,g,121,individual,Spain,Unpublished data,Unpublished data,Data_provider:_Javier_Juste-Carlos_Ibanez-Ana_Benitez,Adult,NA
+Plecotus_austriacus,BodyMass,9.27,1.2,12.93,mean,capture,g,237,individual,Spain,Unpublished data,Unpublished data,Data_provider:_Javier_Juste-Carlos_Ibanez-Ana_Benitez,Adult,spurious_values_removed
+Rhinolophus_euryale,BodyMass,10.42,1.45,13.87,mean,capture,g,278,individual,Spain,Unpublished data,Unpublished data,Data_provider:_Javier_Juste-Carlos_Ibanez-Ana_Benitez,Adult,spurious_values_removed
+Rhinolophus_ferrumequinum,BodyMass,16.3,2.89,17.73,mean,capture,g,974,individual,Spain,Unpublished data,Unpublished data,Data_provider:_Javier_Juste-Carlos_Ibanez-Ana_Benitez,Adult,spurious_values_removed
+Rhinolophus_hipposideros,BodyMass,4.59,0.47,10.32,mean,capture,g,1025,individual,Spain,Unpublished data,Unpublished data,Data_provider:_Javier_Juste-Carlos_Ibanez-Ana_Benitez,Adult,spurious_values_removed
+Rhinolophus_mehelyi,BodyMass,13.61,2.12,15.55,mean,capture,g,123,individual,Spain,Unpublished data,Unpublished data,Data_provider:_Javier_Juste-Carlos_Ibanez-Ana_Benitez,Adult,NA
+Tadarida_teniotis,BodyMass,31.35,4.97,15.86,mean,capture,g,322,individual,Spain,Unpublished data,Unpublished data,Data_provider:_Javier_Juste-Carlos_Ibanez-Ana_Benitez,Adult,NA
+Plecotus_macrobullaris,BodyMass,9.43,1.24,13.09,mean,capture,g,50,individual,Spain,Unpublished data,Unpublished data,Data_provider:_Javier_Juste-Carlos_Ibanez-Ana_Benitez,Adult,NA
+Rhinolophus_blasii,ForearmLength,47,1,2.13,mean,capture,mm,20,individual,Bulgaria,Unpublished data,Unpublished data,Data_provider:_Niya_Toshkova,Adult,NA
+Rhinolophus_euryale,ForearmLength,48,1,2.08,mean,capture,mm,177,individual,Bulgaria,Unpublished data,Unpublished data,Data_provider:_Niya_Toshkova,Adult,NA
+Rhinolophus_ferrumequinum,ForearmLength,58,4,6.9,mean,capture,mm,113,individual,Bulgaria,Unpublished data,Unpublished data,Data_provider:_Niya_Toshkova,Adult,NA
+Rhinolophus_hipposideros,ForearmLength,38,1,2.63,mean,capture,mm,61,individual,Bulgaria,Unpublished data,Unpublished data,Data_provider:_Niya_Toshkova,Adult,NA
+Barbastella_barbastellus,ForearmLength,39,1,2.56,mean,capture,mm,67,individual,Bulgaria,Unpublished data,Unpublished data,Data_provider:_Niya_Toshkova,Adult,NA
+Eptesicus_serotinus,ForearmLength,52,2,3.85,mean,capture,mm,52,individual,Bulgaria,Unpublished data,Unpublished data,Data_provider:_Niya_Toshkova,Adult,NA
+Myotis_alcathoe,ForearmLength,31,1,3.23,mean,capture,mm,13,individual,Bulgaria,Unpublished data,Unpublished data,Data_provider:_Niya_Toshkova,Adult,NA
+Myotis_bechsteinii,ForearmLength,43,1,2.33,mean,capture,mm,80,individual,Bulgaria,Unpublished data,Unpublished data,Data_provider:_Niya_Toshkova,Adult,NA
+Myotis_blythii,ForearmLength,57,2,3.51,mean,capture,mm,100,individual,Bulgaria,Unpublished data,Unpublished data,Data_provider:_Niya_Toshkova,Adult,NA
+Myotis_capaccinii,ForearmLength,42,1,2.38,mean,capture,mm,25,individual,Bulgaria,Unpublished data,Unpublished data,Data_provider:_Niya_Toshkova,Adult,NA
+Myotis_daubentonii,ForearmLength,37,2,5.41,mean,capture,mm,60,individual,Bulgaria,Unpublished data,Unpublished data,Data_provider:_Niya_Toshkova,Adult,NA
+Myotis_emarginatus,ForearmLength,39,2,5.13,mean,capture,mm,164,individual,Bulgaria,Unpublished data,Unpublished data,Data_provider:_Niya_Toshkova,Adult,NA
+Myotis_myotis,ForearmLength,63,2,3.17,mean,capture,mm,16,individual,Bulgaria,Unpublished data,Unpublished data,Data_provider:_Niya_Toshkova,Adult,NA
+Myotis_nattereri,ForearmLength,40,1,2.5,mean,capture,mm,18,individual,Bulgaria,Unpublished data,Unpublished data,Data_provider:_Niya_Toshkova,Adult,NA
+Nyctalus_noctula,ForearmLength,54,2,3.7,mean,capture,mm,19,individual,Bulgaria,Unpublished data,Unpublished data,Data_provider:_Niya_Toshkova,Adult,NA
+Pipistrellus_kuhlii,ForearmLength,35,1,2.86,mean,capture,mm,8,individual,Bulgaria,Unpublished data,Unpublished data,Data_provider:_Niya_Toshkova,Adult,NA
+Pipistrellus_pipistrellus,ForearmLength,31,1,3.23,mean,capture,mm,44,individual,Bulgaria,Unpublished data,Unpublished data,Data_provider:_Niya_Toshkova,Adult,NA
+Vespertilio_murinus,ForearmLength,45,2,4.44,mean,capture,mm,6,individual,Bulgaria,Unpublished data,Unpublished data,Data_provider:_Niya_Toshkova,Adult,NA
+Miniopterus_schreibersii,ForearmLength,45,2,4.44,mean,capture,mm,69,individual,Bulgaria,Unpublished data,Unpublished data,Data_provider:_Niya_Toshkova,Adult,NA
+Myotis_bechsteinii,BodyMass,11,NA,NA,mean,capture,g,1,individual,Bulgaria,Unpublished data,Unpublished data,Data_provider:_Niya_Toshkova,Adult,NA
+Myotis_blythii,BodyMass,23,NA,NA,mean,capture,g,1,individual,Bulgaria,Unpublished data,Unpublished data,Data_provider:_Niya_Toshkova,Adult,NA
+Myotis_dasycneme,BodyMass,15,NA,NA,mean,capture,g,1,individual,Bulgaria,Unpublished data,Unpublished data,Data_provider:_Niya_Toshkova,Adult,NA
+Myotis_daubentonii,BodyMass,9,NA,NA,mean,capture,g,1,individual,Bulgaria,Unpublished data,Unpublished data,Data_provider:_Niya_Toshkova,Adult,NA
+Myotis_emarginatus,BodyMass,11,2,18.18,mean,capture,g,13,individual,Bulgaria,Unpublished data,Unpublished data,Data_provider:_Niya_Toshkova,Adult,NA
+Myotis_myotis,BodyMass,28,2,7.14,mean,capture,g,16,individual,Bulgaria,Unpublished data,Unpublished data,Data_provider:_Niya_Toshkova,Adult,NA
+Myotis_nattereri,BodyMass,8,NA,NA,mean,capture,g,NA,individual,Bulgaria,Unpublished data,Unpublished data,Data_provider:_Niya_Toshkova,Adult,NA
+Nyctalus_leisleri,BodyMass,16,NA,NA,mean,capture,g,NA,individual,Bulgaria,Unpublished data,Unpublished data,Data_provider:_Niya_Toshkova,Adult,NA
+Nyctalus_noctula,BodyMass,28,NA,NA,mean,capture,g,NA,individual,Bulgaria,Unpublished data,Unpublished data,Data_provider:_Niya_Toshkova,Adult,NA
+Pipistrellus_kuhlii,BodyMass,7,1,14.29,mean,capture,g,NA,individual,Bulgaria,Unpublished data,Unpublished data,Data_provider:_Niya_Toshkova,Adult,NA
+Pipistrellus_pipistrellus,BodyMass,5,1,20,mean,capture,g,7,individual,Bulgaria,Unpublished data,Unpublished data,Data_provider:_Niya_Toshkova,Adult,NA
+Eptesicus_nilssonii,ForearmLength,38,0,0,mean,capture,mm,1,individual,Norway,Unpublished data,Unpublished data,Data_provider:_SÃ¸rÃ¥s-Fjelldal-Stawski,Adult,NA
+Myotis_brandtii,ForearmLength,35,1,2.86,mean,capture,mm,24,individual,Norway,Unpublished data,Unpublished data,Data_provider:_SÃ¸rÃ¥s-Fjelldal-Stawski,Adult,NA
+Myotis_crypticus,ForearmLength,39,1,2.56,mean,capture,mm,81,individual,Spain,Unpublished data,Unpublished data,Data_provider:_Roberto_Novella-Fernandez,Adult,NA
+Myotis_escalerai,ForearmLength,40,1,2.5,mean,capture,mm,82,individual,Spain,Unpublished data,Unpublished data,Data_provider:_Roberto_Novella-Fernandez,Adult,NA
+Myotis_mystacinus,ForearmLength,34,1,2.94,mean,capture,mm,52,individual,Norway,Unpublished data,Unpublished data,Data_provider:_SÃ¸rÃ¥s-Fjelldal-Stawski,Adult,NA
+Plecotus_kolombatovici,ForearmLength,37.25,1.19,3.19,mean,capture,mm,9,individual,Croatia/Greece/Turkey,Spitzenberger et al. (2006),"Spitzenberger, F., Strelkov, P.P., Winkler, H. & Haring, E. (2006) A preliminary revision of the genus Plecotus (Chiroptera, Vespertilionidae) based on genetic and morphological results. Zoologica Scripta, 35, 187-230.",NA,Adult,NA
+Plecotus_kolombatovici,CM3,5.35,0.11,2.06,mean,capture,mm,14,individual,Croatia/Greece/Turkey,Spitzenberger et al. (2006),"Spitzenberger, F., Strelkov, P.P., Winkler, H. & Haring, E. (2006) A preliminary revision of the genus Plecotus (Chiroptera, Vespertilionidae) based on genetic and morphological results. Zoologica Scripta, 35, 187-230.",NA,Adult,NA
+Plecotus_kolombatovici,CM3,5.27,0.12,2.28,mean,capture,mm,39,individual,Croatia,PavliniÄ‡ et al. (2016),"PavliniÄ‡, I. & ÄakoviÄ‡, M. (2016) Identification of four Plecotus species (Chiroptera, Vespertilionidae) in Croatia based on cranial characters. Mammalia, 80, 385-394.",NA,Adult,NA
+Plecotus_kolombatovici,ForearmLength,37.48,1.3,3.47,mean,capture,mm,11,individual,Greece-Crete,Benda et al. (2008),"Benda, P., Georgiakakis, P., Dietz, C., HanÃ¡k, V., Galanaki, K., Markantonatou, V., ChudÃ¡rkovÃ¡, A., Hulva, P. & HorÃ¡Äek, I. (2008) Bats (Mammalia: Chiroptera) of the Eastern Mediterranean and Middle East. Part 7. The bat fauna of Crete, Greece. Acta Societatis Zoologicae Bohemicae, 72, 105-190.",NA,Adult,NA
+Plecotus_kolombatovici,CM3,5.35,0.08,1.5,mean,capture,mm,9,individual,Greece-Crete,Benda et al. (2008),"Benda, P., Georgiakakis, P., Dietz, C., HanÃ¡k, V., Galanaki, K., Markantonatou, V., ChudÃ¡rkovÃ¡, A., Hulva, P. & HorÃ¡Äek, I. (2008) Bats (Mammalia: Chiroptera) of the Eastern Mediterranean and Middle East. Part 7. The bat fauna of Crete, Greece. Acta Societatis Zoologicae Bohemicae, 72, 105-190.",NA,Adult,NA
+Plecotus_kolombatovici,ForearmLength,38.37,1.01,2.63,mean,capture,mm,16,individual,Cyprus,Benda et al. (2007),"Benda, P., HanÃ¡k, V., HorÃ¡Äek, I., Hulva, P., LuÄan, R. & Ruedi, M. (2007) Bats (Mammalia: Chiroptera) of the Eastern Mediterranean. Part 5. Bat fauna of Cyprus: review of records with confirmation of six species new for the island and description of a new subspecies. Acta Societatis Zoologicae Bohemicae, 71, 71-130.",NA,Adult,NA
+Plecotus_kolombatovici,CM3,5.38,0.13,2.42,mean,capture,mm,13,individual,Cyprus,Benda et al. (2007),"Benda, P., HanÃ¡k, V., HorÃ¡Äek, I., Hulva, P., LuÄan, R. & Ruedi, M. (2007) Bats (Mammalia: Chiroptera) of the Eastern Mediterranean. Part 5. Bat fauna of Cyprus: review of records with confirmation of six species new for the island and description of a new subspecies. Acta Societatis Zoologicae Bohemicae, 71, 71-130.",NA,Adult,NA
+Plecotus_kolombatovici,ForearmLength,37.64,0.86,2.28,mean,capture,mm,21,individual,Balkans/Anatolia,Benda et al. (2004),"Benda, P., Kiefer, A., HanÃ¡k, V. & Veith, M. (2004) Systematic status of African populations of long-eared bats, genus Plecotus (Mammalia: Chiroptera). Folia Zoologica, 53, 47.",NA,Adult,NA
+Plecotus_kolombatovici,CM3,5.36,0.13,2.43,mean,capture,mm,22,individual,Balkans/Anatolia,Benda et al. (2004),"Benda, P., Kiefer, A., HanÃ¡k, V. & Veith, M. (2004) Systematic status of African populations of long-eared bats, genus Plecotus (Mammalia: Chiroptera). Folia Zoologica, 53, 47.",NA,Adult,NA
+Plecotus_kolombatovici,ForearmLength,38.24,0.7,1.83,mean,capture,mm,22,individual,Croatia,Tvrtkovic et al. (2005),"Tvrtkovic, N., Pavlinic, I. & Haring, E. (2005) Four species of long-eared bats (Plecotus, Geoffroy, 1818; Mammalia, Vespertilionidae) in Croatia: field identification and distribution. Folia Zoologica, 54, 75-88.",NA,Adult,NA
+Eptesicus_nilssonii,BodyMass,8,0,0,mean,capture,g,1,individual,Norway,Unpublished data,Unpublished data,Data_provider:_SÃ¸rÃ¥s-Fjelldal-Stawski,Adult,NA
+Hypsugo_savii,BodyMass,7,1,14.29,mean,capture,g,147,individual,Italy,Unpublished data,Unpublished data,Data_provider:_Leonardo_Ancillotto,Adult,NA
+Myotis_brandtii,BodyMass,6,1,16.67,mean,capture,g,24,individual,Norway,Unpublished data,Unpublished data,Data_provider:_SÃ¸rÃ¥s-Fjelldal-Stawski,Adult,NA
+Myotis_crypticus,BodyMass,7,1,14.29,mean,capture,g,52,individual,Spain,Unpublished data,Unpublished data,Data_provider:_Roberto_Novella-Fernandez,Adult,NA
+Myotis_escalerai,BodyMass,7,1,14.29,mean,capture,g,61,individual,Spain,Unpublished data,Unpublished data,Data_provider:_Roberto_Novella-Fernandez,Adult,NA
+Myotis_mystacinus,BodyMass,5,1,20,mean,capture,g,51,individual,Norway,Unpublished data,Unpublished data,Data_provider:_SÃ¸rÃ¥s-Fjelldal-Stawski,Adult,NA
+Barbastella_barbastellus,ForearmLength,40,NA,NA,mean of min and max,NA,mm,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Eptesicus_anatolicus,ForearmLength,47.7,NA,NA,mean of min and max,NA,mm,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Eptesicus_isabellinus,ForearmLength,47.5,NA,NA,mean of min and max,NA,mm,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Eptesicus_nilssonii,ForearmLength,40.65,NA,NA,mean of min and max,NA,mm,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Eptesicus_serotinus,ForearmLength,53,NA,NA,mean of min and max,NA,mm,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Hypsugo_savii,ForearmLength,34.65,NA,NA,mean of min and max,NA,mm,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Miniopterus_schreibersii,ForearmLength,45.2,NA,NA,mean of min and max,NA,mm,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Myotis_alcathoe,ForearmLength,32.7,NA,NA,mean of min and max,NA,mm,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Myotis_bechsteinii,ForearmLength,43.05,NA,NA,mean of min and max,NA,mm,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Myotis_blythii,ForearmLength,56.3,NA,NA,mean of min and max,NA,mm,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Myotis_brandtii,ForearmLength,35.6,NA,NA,mean of min and max,NA,mm,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Myotis_capaccinii,ForearmLength,41.2,NA,NA,mean of min and max,NA,mm,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Myotis_dasycneme,ForearmLength,46,NA,NA,mean of min and max,NA,mm,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Myotis_daubentonii,ForearmLength,37.55,NA,NA,mean of min and max,NA,mm,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Myotis_emarginatus,ForearmLength,40.4,NA,NA,mean of min and max,NA,mm,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Myotis_myotis,ForearmLength,60.95,NA,NA,mean of min and max,NA,mm,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Myotis_mystacinus,ForearmLength,34.25,NA,NA,mean of min and max,NA,mm,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Myotis_nattereri,ForearmLength,39.2,NA,NA,mean of min and max,NA,mm,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Myotis_punicus,ForearmLength,58.95,NA,NA,mean of min and max,NA,mm,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Nyctalus_azoreum,ForearmLength,39.25,NA,NA,mean of min and max,NA,mm,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Nyctalus_lasiopterus,ForearmLength,65.5,NA,NA,mean of min and max,NA,mm,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Nyctalus_leisleri,ForearmLength,42.55,NA,NA,mean of min and max,NA,mm,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Nyctalus_noctula,ForearmLength,53.1,NA,NA,mean of min and max,NA,mm,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Pipistrellus_kuhlii,ForearmLength,33.85,NA,NA,mean of min and max,NA,mm,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Pipistrellus_maderensis,ForearmLength,32.85,NA,NA,mean of min and max,NA,mm,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Pipistrellus_nathusii,ForearmLength,34.65,NA,NA,mean of min and max,NA,mm,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Pipistrellus_pipistrellus,ForearmLength,31.25,NA,NA,mean of min and max,NA,mm,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Pipistrellus_pygmaeus,ForearmLength,30,NA,NA,mean of min and max,NA,mm,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Plecotus_auritus,ForearmLength,39.15,NA,NA,mean of min and max,NA,mm,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Plecotus_austriacus,ForearmLength,40,NA,NA,mean of min and max,NA,mm,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Plecotus_gaisleri,ForearmLength,39.65,NA,NA,mean of min and max,NA,mm,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Plecotus_kolombatovici,ForearmLength,37.7,NA,NA,mean of min and max,NA,mm,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Plecotus_macrobullaris,ForearmLength,41.65,NA,NA,mean of min and max,NA,mm,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Plecotus_sardus,ForearmLength,41.6,NA,NA,mean of min and max,NA,mm,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Plecotus_teneriffae,ForearmLength,43.05,NA,NA,mean of min and max,NA,mm,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Rhinolophus_blasii,ForearmLength,46.35,NA,NA,mean of min and max,NA,mm,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Rhinolophus_euryale,ForearmLength,48,NA,NA,mean of min and max,NA,mm,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Rhinolophus_ferrumequinum,ForearmLength,57.7,NA,NA,mean of min and max,NA,mm,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Rhinolophus_hipposideros,ForearmLength,37.85,NA,NA,mean of min and max,NA,mm,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Rhinolophus_mehelyi,ForearmLength,51.55,NA,NA,mean of min and max,NA,mm,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Tadarida_teniotis,ForearmLength,62.3,NA,NA,mean of min and max,NA,mm,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Vespertilio_murinus,ForearmLength,45.55,NA,NA,mean of min and max,NA,mm,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Barbastella_barbastellus,FifthDigitLength,50.5,NA,NA,mean of min and max,NA,mm,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Eptesicus_anatolicus,FifthDigitLength,56,NA,NA,mean of min and max,NA,mm,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Eptesicus_isabellinus,FifthDigitLength,58,NA,NA,mean of min and max,NA,mm,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Eptesicus_nilssonii,FifthDigitLength,50.5,NA,NA,mean of min and max,NA,mm,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Eptesicus_serotinus,FifthDigitLength,64,NA,NA,mean of min and max,NA,mm,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Hypsugo_savii,FifthDigitLength,42.5,NA,NA,mean of min and max,NA,mm,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Miniopterus_schreibersii,FifthDigitLength,52,NA,NA,mean of min and max,NA,mm,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Myotis_alcathoe,FifthDigitLength,40.5,NA,NA,mean of min and max,NA,mm,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Myotis_bechsteinii,FifthDigitLength,53.5,NA,NA,mean of min and max,NA,mm,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Myotis_blythii,FifthDigitLength,72,NA,NA,mean of min and max,NA,mm,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Myotis_brandtii,FifthDigitLength,44.5,NA,NA,mean of min and max,NA,mm,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Myotis_capaccinii,FifthDigitLength,52,NA,NA,mean of min and max,NA,mm,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Myotis_dasycneme,FifthDigitLength,56,NA,NA,mean of min and max,NA,mm,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Myotis_daubentonii,FifthDigitLength,45.5,NA,NA,mean of min and max,NA,mm,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Myotis_emarginatus,FifthDigitLength,53.5,NA,NA,mean of min and max,NA,mm,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Myotis_myotis,FifthDigitLength,75.5,NA,NA,mean of min and max,NA,mm,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Myotis_mystacinus,FifthDigitLength,42,NA,NA,mean of min and max,NA,mm,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Myotis_nattereri,FifthDigitLength,53,NA,NA,mean of min and max,NA,mm,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Myotis_punicus,FifthDigitLength,75,NA,NA,mean of min and max,NA,mm,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Nyctalus_azoreum,FifthDigitLength,30.5,NA,NA,mean of min and max,NA,mm,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Nyctalus_lasiopterus,FifthDigitLength,71.5,NA,NA,mean of min and max,NA,mm,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Nyctalus_leisleri,FifthDigitLength,47,NA,NA,mean of min and max,NA,mm,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Nyctalus_noctula,FifthDigitLength,52.5,NA,NA,mean of min and max,NA,mm,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Pipistrellus_kuhlii,FifthDigitLength,42.5,NA,NA,mean of min and max,NA,mm,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Pipistrellus_maderensis,FifthDigitLength,40,NA,NA,mean of min and max,NA,mm,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Pipistrellus_nathusii,FifthDigitLength,44.5,NA,NA,mean of min and max,NA,mm,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Pipistrellus_pipistrellus,FifthDigitLength,39,NA,NA,mean of min and max,NA,mm,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Pipistrellus_pygmaeus,FifthDigitLength,36.5,NA,NA,mean of min and max,NA,mm,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Plecotus_auritus,FifthDigitLength,50.5,NA,NA,mean of min and max,NA,mm,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Plecotus_austriacus,FifthDigitLength,51.5,NA,NA,mean of min and max,NA,mm,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Plecotus_gaisleri,FifthDigitLength,51,NA,NA,mean of min and max,NA,mm,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Plecotus_kolombatovici,FifthDigitLength,48.5,NA,NA,mean of min and max,NA,mm,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Plecotus_macrobullaris,FifthDigitLength,52,NA,NA,mean of min and max,NA,mm,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Plecotus_sardus,FifthDigitLength,55,NA,NA,mean of min and max,NA,mm,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Rhinolophus_blasii,FifthDigitLength,57,NA,NA,mean of min and max,NA,mm,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Rhinolophus_euryale,FifthDigitLength,57.5,NA,NA,mean of min and max,NA,mm,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Rhinolophus_ferrumequinum,FifthDigitLength,70,NA,NA,mean of min and max,NA,mm,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Rhinolophus_hipposideros,FifthDigitLength,50,NA,NA,mean of min and max,NA,mm,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Rhinolophus_mehelyi,FifthDigitLength,62,NA,NA,mean of min and max,NA,mm,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Tadarida_teniotis,FifthDigitLength,57.5,NA,NA,mean of min and max,NA,mm,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Vespertilio_murinus,FifthDigitLength,51,NA,NA,mean of min and max,NA,mm,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Barbastella_barbastellus,ThirdDigitLength,67,NA,NA,mean of min and max,NA,mm,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Eptesicus_anatolicus,ThirdDigitLength,76,NA,NA,mean of min and max,NA,mm,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Eptesicus_isabellinus,ThirdDigitLength,82,NA,NA,mean of min and max,NA,mm,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Eptesicus_nilssonii,ThirdDigitLength,65,NA,NA,mean of min and max,NA,mm,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Eptesicus_serotinus,ThirdDigitLength,88,NA,NA,mean of min and max,NA,mm,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Hypsugo_savii,ThirdDigitLength,57.5,NA,NA,mean of min and max,NA,mm,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Miniopterus_schreibersii,ThirdDigitLength,83.5,NA,NA,mean of min and max,NA,mm,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Myotis_alcathoe,ThirdDigitLength,52.5,NA,NA,mean of min and max,NA,mm,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Myotis_bechsteinii,ThirdDigitLength,65,NA,NA,mean of min and max,NA,mm,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Myotis_blythii,ThirdDigitLength,94,NA,NA,mean of min and max,NA,mm,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Myotis_brandtii,ThirdDigitLength,54.5,NA,NA,mean of min and max,NA,mm,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Myotis_capaccinii,ThirdDigitLength,67.5,NA,NA,mean of min and max,NA,mm,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Myotis_dasycneme,ThirdDigitLength,74.5,NA,NA,mean of min and max,NA,mm,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Myotis_daubentonii,ThirdDigitLength,59,NA,NA,mean of min and max,NA,mm,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Myotis_emarginatus,ThirdDigitLength,65,NA,NA,mean of min and max,NA,mm,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Myotis_myotis,ThirdDigitLength,98,NA,NA,mean of min and max,NA,mm,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Myotis_mystacinus,ThirdDigitLength,53,NA,NA,mean of min and max,NA,mm,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Myotis_nattereri,ThirdDigitLength,69.5,NA,NA,mean of min and max,NA,mm,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Myotis_punicus,ThirdDigitLength,97,NA,NA,mean of min and max,NA,mm,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Nyctalus_lasiopterus,ThirdDigitLength,112,NA,NA,mean of min and max,NA,mm,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Nyctalus_leisleri,ThirdDigitLength,74,NA,NA,mean of min and max,NA,mm,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Nyctalus_noctula,ThirdDigitLength,91.5,NA,NA,mean of min and max,NA,mm,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Pipistrellus_kuhlii,ThirdDigitLength,57.5,NA,NA,mean of min and max,NA,mm,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Pipistrellus_maderensis,ThirdDigitLength,54.5,NA,NA,mean of min and max,NA,mm,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Pipistrellus_nathusii,ThirdDigitLength,59.5,NA,NA,mean of min and max,NA,mm,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Pipistrellus_pipistrellus,ThirdDigitLength,53,NA,NA,mean of min and max,NA,mm,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Pipistrellus_pygmaeus,ThirdDigitLength,50.5,NA,NA,mean of min and max,NA,mm,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Plecotus_auritus,ThirdDigitLength,65,NA,NA,mean of min and max,NA,mm,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Plecotus_austriacus,ThirdDigitLength,67.5,NA,NA,mean of min and max,NA,mm,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Plecotus_gaisleri,ThirdDigitLength,67,NA,NA,mean of min and max,NA,mm,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Plecotus_kolombatovici,ThirdDigitLength,63.5,NA,NA,mean of min and max,NA,mm,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Plecotus_macrobullaris,ThirdDigitLength,66,NA,NA,mean of min and max,NA,mm,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Plecotus_sardus,ThirdDigitLength,69.5,NA,NA,mean of min and max,NA,mm,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Rhinolophus_blasii,ThirdDigitLength,68.5,NA,NA,mean of min and max,NA,mm,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Rhinolophus_euryale,ThirdDigitLength,69.5,NA,NA,mean of min and max,NA,mm,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Rhinolophus_ferrumequinum,ThirdDigitLength,86.5,NA,NA,mean of min and max,NA,mm,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Rhinolophus_hipposideros,ThirdDigitLength,54,NA,NA,mean of min and max,NA,mm,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Rhinolophus_mehelyi,ThirdDigitLength,77,NA,NA,mean of min and max,NA,mm,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Tadarida_teniotis,ThirdDigitLength,108.5,NA,NA,mean of min and max,NA,mm,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Vespertilio_murinus,ThirdDigitLength,72.5,NA,NA,mean of min and max,NA,mm,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Barbastella_barbastellus,BodyMass,8.5,NA,NA,mean of min and max,NA,g,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Eptesicus_anatolicus,BodyMass,17.5,NA,NA,mean of min and max,NA,g,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Eptesicus_isabellinus,BodyMass,14.5,NA,NA,mean of min and max,NA,g,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Eptesicus_nilssonii,BodyMass,11,NA,NA,mean of min and max,NA,g,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Eptesicus_serotinus,BodyMass,21.5,NA,NA,mean of min and max,NA,g,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Hypsugo_savii,BodyMass,7,NA,NA,mean of min and max,NA,g,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Miniopterus_schreibersii,BodyMass,12,NA,NA,mean of min and max,NA,g,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Myotis_alcathoe,BodyMass,4.5,NA,NA,mean of min and max,NA,g,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Myotis_bechsteinii,BodyMass,8.5,NA,NA,mean of min and max,NA,g,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Myotis_blythii,BodyMass,22.5,NA,NA,mean of min and max,NA,g,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Myotis_brandtii,BodyMass,6,NA,NA,mean of min and max,NA,g,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Myotis_capaccinii,BodyMass,8.5,NA,NA,mean of min and max,NA,g,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Myotis_dasycneme,BodyMass,15.5,NA,NA,mean of min and max,NA,g,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Myotis_daubentonii,BodyMass,8,NA,NA,mean of min and max,NA,g,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Myotis_emarginatus,BodyMass,7.5,NA,NA,mean of min and max,NA,g,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Myotis_myotis,BodyMass,23.5,NA,NA,mean of min and max,NA,g,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Myotis_mystacinus,BodyMass,5.5,NA,NA,mean of min and max,NA,g,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Myotis_nattereri,BodyMass,8.5,NA,NA,mean of min and max,NA,g,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Myotis_punicus,BodyMass,22,NA,NA,mean of min and max,NA,g,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Nyctalus_azoreum,BodyMass,9.5,NA,NA,mean of min and max,NA,g,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Nyctalus_lasiopterus,BodyMass,44,NA,NA,mean of min and max,NA,g,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Nyctalus_leisleri,BodyMass,15.5,NA,NA,mean of min and max,NA,g,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Nyctalus_noctula,BodyMass,25.5,NA,NA,mean of min and max,NA,g,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Pipistrellus_kuhlii,BodyMass,6.5,NA,NA,mean of min and max,NA,g,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Pipistrellus_maderensis,BodyMass,5.5,NA,NA,mean of min and max,NA,g,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Pipistrellus_nathusii,BodyMass,8,NA,NA,mean of min and max,NA,g,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Pipistrellus_pipistrellus,BodyMass,5,NA,NA,mean of min and max,NA,g,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Pipistrellus_pygmaeus,BodyMass,5.5,NA,NA,mean of min and max,NA,g,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Plecotus_auritus,BodyMass,7.5,NA,NA,mean of min and max,NA,g,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Plecotus_austriacus,BodyMass,8,NA,NA,mean of min and max,NA,g,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Plecotus_gaisleri,BodyMass,5.5,NA,NA,mean of min and max,NA,g,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Plecotus_kolombatovici,BodyMass,7.5,NA,NA,mean of min and max,NA,g,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Plecotus_macrobullaris,BodyMass,8,NA,NA,mean of min and max,NA,g,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Plecotus_sardus,BodyMass,7.5,NA,NA,mean of min and max,NA,g,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Rhinolophus_blasii,BodyMass,12,NA,NA,mean of min and max,NA,g,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Rhinolophus_euryale,BodyMass,11.5,NA,NA,mean of min and max,NA,g,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Rhinolophus_ferrumequinum,BodyMass,21,NA,NA,mean of min and max,NA,g,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Rhinolophus_hipposideros,BodyMass,5.5,NA,NA,mean of min and max,NA,g,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Rhinolophus_mehelyi,BodyMass,14.5,NA,NA,mean of min and max,NA,g,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Tadarida_teniotis,BodyMass,25,NA,NA,mean of min and max,NA,g,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Vespertilio_murinus,BodyMass,12.5,NA,NA,mean of min and max,NA,g,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Barbastella_barbastellus,LCBLCCRatio,13.4,NA,NA,mean of min and max,NA,NA,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Eptesicus_anatolicus,LCBLCCRatio,17.65,NA,NA,mean of min and max,NA,NA,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Eptesicus_isabellinus,LCBLCCRatio,18.55,NA,NA,mean of min and max,NA,NA,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Eptesicus_nilssonii,LCBLCCRatio,14.95,NA,NA,mean of min and max,NA,NA,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Eptesicus_serotinus,LCBLCCRatio,20.1,NA,NA,mean of min and max,NA,NA,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Hypsugo_savii,LCBLCCRatio,12.9,NA,NA,mean of min and max,NA,NA,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Miniopterus_schreibersii,LCBLCCRatio,14.85,NA,NA,mean of min and max,NA,NA,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Myotis_alcathoe,LCBLCCRatio,12.15,NA,NA,mean of min and max,NA,NA,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Myotis_bechsteinii,LCBLCCRatio,16.2,NA,NA,mean of min and max,NA,NA,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Myotis_blythii,LCBLCCRatio,20.45,NA,NA,mean of min and max,NA,NA,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Myotis_brandtii,LCBLCCRatio,13.5,NA,NA,mean of min and max,NA,NA,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Myotis_capaccinii,LCBLCCRatio,14.6,NA,NA,mean of min and max,NA,NA,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Myotis_dasycneme,LCBLCCRatio,16.65,NA,NA,mean of min and max,NA,NA,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Myotis_daubentonii,LCBLCCRatio,13.65,NA,NA,mean of min and max,NA,NA,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Myotis_emarginatus,LCBLCCRatio,14.65,NA,NA,mean of min and max,NA,NA,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Myotis_myotis,LCBLCCRatio,22.4,NA,NA,mean of min and max,NA,NA,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Myotis_mystacinus,LCBLCCRatio,12.75,NA,NA,mean of min and max,NA,NA,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Myotis_nattereri,LCBLCCRatio,14.6,NA,NA,mean of min and max,NA,NA,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Myotis_punicus,LCBLCCRatio,21.3,NA,NA,mean of min and max,NA,NA,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Nyctalus_azoreum,LCBLCCRatio,13.8,NA,NA,mean of min and max,NA,NA,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Nyctalus_lasiopterus,LCBLCCRatio,22.35,NA,NA,mean of min and max,NA,NA,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Nyctalus_leisleri,LCBLCCRatio,15.3,NA,NA,mean of min and max,NA,NA,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Nyctalus_noctula,LCBLCCRatio,18.6,NA,NA,mean of min and max,NA,NA,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Pipistrellus_kuhlii,LCBLCCRatio,12.65,NA,NA,mean of min and max,NA,NA,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Pipistrellus_maderensis,LCBLCCRatio,11.8,NA,NA,mean of min and max,NA,NA,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Pipistrellus_nathusii,LCBLCCRatio,12.9,NA,NA,mean of min and max,NA,NA,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Pipistrellus_pipistrellus,LCBLCCRatio,11.15,NA,NA,mean of min and max,NA,NA,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Pipistrellus_pygmaeus,LCBLCCRatio,11.05,NA,NA,mean of min and max,NA,NA,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Plecotus_auritus,LCBLCCRatio,14.95,NA,NA,mean of min and max,NA,NA,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Plecotus_austriacus,LCBLCCRatio,16.15,NA,NA,mean of min and max,NA,NA,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Plecotus_gaisleri,LCBLCCRatio,15.85,NA,NA,mean of min and max,NA,NA,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Plecotus_kolombatovici,LCBLCCRatio,14.75,NA,NA,mean of min and max,NA,NA,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Plecotus_macrobullaris,LCBLCCRatio,16.05,NA,NA,mean of min and max,NA,NA,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Plecotus_sardus,LCBLCCRatio,15.9,NA,NA,mean of min and max,NA,NA,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Plecotus_teneriffae,LCBLCCRatio,16.45,NA,NA,mean of min and max,NA,NA,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Rhinolophus_blasii,LCBLCCRatio,16.9,NA,NA,mean of min and max,NA,NA,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Rhinolophus_euryale,LCBLCCRatio,16.55,NA,NA,mean of min and max,NA,NA,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Rhinolophus_ferrumequinum,LCBLCCRatio,20.65,NA,NA,mean of min and max,NA,NA,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Rhinolophus_hipposideros,LCBLCCRatio,13.65,NA,NA,mean of min and max,NA,NA,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Rhinolophus_mehelyi,LCBLCCRatio,17.25,NA,NA,mean of min and max,NA,NA,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Tadarida_teniotis,LCBLCCRatio,22.75,NA,NA,mean of min and max,NA,NA,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Vespertilio_murinus,LCBLCCRatio,14.85,NA,NA,mean of min and max,NA,NA,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Barbastella_barbastellus,CM3,4.65,NA,NA,mean of min and max,NA,mm,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Eptesicus_anatolicus,CM3,6.55,NA,NA,mean of min and max,NA,mm,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Eptesicus_isabellinus,CM3,7.25,NA,NA,mean of min and max,NA,mm,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Eptesicus_nilssonii,CM3,5.45,NA,NA,mean of min and max,NA,mm,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Eptesicus_serotinus,CM3,7.55,NA,NA,mean of min and max,NA,mm,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Hypsugo_savii,CM3,4.65,NA,NA,mean of min and max,NA,mm,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Miniopterus_schreibersii,CM3,5.75,NA,NA,mean of min and max,NA,mm,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Myotis_alcathoe,CM3,4.9,NA,NA,mean of min and max,NA,mm,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Myotis_bechsteinii,CM3,6.8,NA,NA,mean of min and max,NA,mm,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Myotis_blythii,CM3,8.8,NA,NA,mean of min and max,NA,mm,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Myotis_brandtii,CM3,5.35,NA,NA,mean of min and max,NA,mm,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Myotis_capaccinii,CM3,5.5,NA,NA,mean of min and max,NA,mm,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Myotis_dasycneme,CM3,6.2,NA,NA,mean of min and max,NA,mm,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Myotis_daubentonii,CM3,5.25,NA,NA,mean of min and max,NA,mm,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Myotis_emarginatus,CM3,6.4,NA,NA,mean of min and max,NA,mm,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Myotis_myotis,CM3,9.9,NA,NA,mean of min and max,NA,mm,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Myotis_mystacinus,CM3,5,NA,NA,mean of min and max,NA,mm,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Myotis_nattereri,CM3,5.95,NA,NA,mean of min and max,NA,mm,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Myotis_punicus,CM3,9.35,NA,NA,mean of min and max,NA,mm,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Nyctalus_azoreum,CM3,5.2,NA,NA,mean of min and max,NA,mm,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Nyctalus_lasiopterus,CM3,8.95,NA,NA,mean of min and max,NA,mm,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Nyctalus_leisleri,CM3,5.7,NA,NA,mean of min and max,NA,mm,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Nyctalus_noctula,CM3,7.65,NA,NA,mean of min and max,NA,mm,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Pipistrellus_kuhlii,CM3,4.9,NA,NA,mean of min and max,NA,mm,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Pipistrellus_maderensis,CM3,4.55,NA,NA,mean of min and max,NA,mm,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Pipistrellus_nathusii,CM3,4.65,NA,NA,mean of min and max,NA,mm,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Pipistrellus_pipistrellus,CM3,4.1,NA,NA,mean of min and max,NA,mm,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Pipistrellus_pygmaeus,CM3,4.05,NA,NA,mean of min and max,NA,mm,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Plecotus_auritus,CM3,5.4,NA,NA,mean of min and max,NA,mm,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Plecotus_austriacus,CM3,5.95,NA,NA,mean of min and max,NA,mm,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Plecotus_gaisleri,CM3,5.75,NA,NA,mean of min and max,NA,mm,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Plecotus_kolombatovici,CM3,5.35,NA,NA,mean of min and max,NA,mm,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Plecotus_macrobullaris,CM3,5.6,NA,NA,mean of min and max,NA,mm,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Plecotus_sardus,CM3,5.7,NA,NA,mean of min and max,NA,mm,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Plecotus_teneriffae,CM3,6,NA,NA,mean of min and max,NA,mm,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Rhinolophus_blasii,CM3,6.7,NA,NA,mean of min and max,NA,mm,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Rhinolophus_euryale,CM3,6.4,NA,NA,mean of min and max,NA,mm,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Rhinolophus_ferrumequinum,CM3,8.7,NA,NA,mean of min and max,NA,mm,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Rhinolophus_hipposideros,CM3,5.25,NA,NA,mean of min and max,NA,mm,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Rhinolophus_mehelyi,CM3,6.9,NA,NA,mean of min and max,NA,mm,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Tadarida_teniotis,CM3,8.55,NA,NA,mean of min and max,NA,mm,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Vespertilio_murinus,CM3,6.1,NA,NA,mean of min and max,NA,mm,NA,NA,full_range,Dietz et al. (2009),"Dietz, C., Nill, D. & von Helversen, O. (2009) Bats of Britain, Europe and Northwest Africa. A & C Black.
+",NA,Adult,NA
+Barbastella_barbastellus,AspectRatioIndex,2.12,NA,NA,NA,formula,NA,NA,NA,full_range,Experts,Experts,From_formula:_(ThirdDigitLength+ForarmLength)/FifthDigitLength,Values_from_Dietz_et_al_(2009),NA
+Eptesicus_anatolicus,AspectRatioIndex,2.21,NA,NA,NA,formula,NA,NA,NA,full_range,Experts,Experts,From_formula:_(ThirdDigitLength+ForarmLength)/FifthDigitLength,Values_from_Dietz_et_al_(2009),NA
+Eptesicus_isabellinus,AspectRatioIndex,2.23,NA,NA,NA,formula,NA,NA,NA,full_range,Experts,Experts,From_formula:_(ThirdDigitLength+ForarmLength)/FifthDigitLength,Values_from_Dietz_et_al_(2009),NA
+Eptesicus_nilssonii,AspectRatioIndex,2.09,NA,NA,NA,formula,NA,NA,NA,full_range,Experts,Experts,From_formula:_(ThirdDigitLength+ForarmLength)/FifthDigitLength,Values_from_Dietz_et_al_(2009),NA
+Eptesicus_serotinus,AspectRatioIndex,2.2,NA,NA,NA,formula,NA,NA,NA,full_range,Experts,Experts,From_formula:_(ThirdDigitLength+ForarmLength)/FifthDigitLength,Values_from_Dietz_et_al_(2009),NA
+Hypsugo_savii,AspectRatioIndex,2.17,NA,NA,NA,formula,NA,NA,NA,full_range,Experts,Experts,From_formula:_(ThirdDigitLength+ForarmLength)/FifthDigitLength,Values_from_Dietz_et_al_(2009),NA
+Miniopterus_schreibersii,AspectRatioIndex,2.48,NA,NA,NA,formula,NA,NA,NA,full_range,Experts,Experts,From_formula:_(ThirdDigitLength+ForarmLength)/FifthDigitLength,Values_from_Dietz_et_al_(2009),NA
+Myotis_alcathoe,AspectRatioIndex,2.1,NA,NA,NA,formula,NA,NA,NA,full_range,Experts,Experts,From_formula:_(ThirdDigitLength+ForarmLength)/FifthDigitLength,Values_from_Dietz_et_al_(2009),NA
+Myotis_bechsteinii,AspectRatioIndex,2.02,NA,NA,NA,formula,NA,NA,NA,full_range,Experts,Experts,From_formula:_(ThirdDigitLength+ForarmLength)/FifthDigitLength,Values_from_Dietz_et_al_(2009),NA
+Myotis_blythii,AspectRatioIndex,2.09,NA,NA,NA,formula,NA,NA,NA,full_range,Experts,Experts,From_formula:_(ThirdDigitLength+ForarmLength)/FifthDigitLength,Values_from_Dietz_et_al_(2009),NA
+Myotis_brandtii,AspectRatioIndex,2.02,NA,NA,NA,formula,NA,NA,NA,full_range,Experts,Experts,From_formula:_(ThirdDigitLength+ForarmLength)/FifthDigitLength,Values_from_Dietz_et_al_(2009),NA
+Myotis_capaccinii,AspectRatioIndex,2.09,NA,NA,NA,formula,NA,NA,NA,full_range,Experts,Experts,From_formula:_(ThirdDigitLength+ForarmLength)/FifthDigitLength,Values_from_Dietz_et_al_(2009),NA
+Myotis_crypticus,AspectRatioIndex,NA,NA,NA,NA,formula,NA,NA,NA,full_range,Experts,Experts,From_formula:_(ThirdDigitLength+ForarmLength)/FifthDigitLength,Values_from_Dietz_et_al_(2009),NA
+Myotis_dasycneme,AspectRatioIndex,2.15,NA,NA,NA,formula,NA,NA,NA,full_range,Experts,Experts,From_formula:_(ThirdDigitLength+ForarmLength)/FifthDigitLength,Values_from_Dietz_et_al_(2009),NA
+Myotis_daubentonii,AspectRatioIndex,2.12,NA,NA,NA,formula,NA,NA,NA,full_range,Experts,Experts,From_formula:_(ThirdDigitLength+ForarmLength)/FifthDigitLength,Values_from_Dietz_et_al_(2009),NA
+Myotis_emarginatus,AspectRatioIndex,1.97,NA,NA,NA,formula,NA,NA,NA,full_range,Experts,Experts,From_formula:_(ThirdDigitLength+ForarmLength)/FifthDigitLength,Values_from_Dietz_et_al_(2009),NA
+Myotis_escalerai,AspectRatioIndex,NA,NA,NA,NA,formula,NA,NA,NA,full_range,Experts,Experts,From_formula:_(ThirdDigitLength+ForarmLength)/FifthDigitLength,Values_from_Dietz_et_al_(2009),NA
+Myotis_myotis,AspectRatioIndex,2.11,NA,NA,NA,formula,NA,NA,NA,full_range,Experts,Experts,From_formula:_(ThirdDigitLength+ForarmLength)/FifthDigitLength,Values_from_Dietz_et_al_(2009),NA
+Myotis_mystacinus,AspectRatioIndex,2.08,NA,NA,NA,formula,NA,NA,NA,full_range,Experts,Experts,From_formula:_(ThirdDigitLength+ForarmLength)/FifthDigitLength,Values_from_Dietz_et_al_(2009),NA
+Myotis_nattereri,AspectRatioIndex,2.05,NA,NA,NA,formula,NA,NA,NA,full_range,Experts,Experts,From_formula:_(ThirdDigitLength+ForarmLength)/FifthDigitLength,Values_from_Dietz_et_al_(2009),NA
+Myotis_punicus,AspectRatioIndex,2.08,NA,NA,NA,formula,NA,NA,NA,full_range,Experts,Experts,From_formula:_(ThirdDigitLength+ForarmLength)/FifthDigitLength,Values_from_Dietz_et_al_(2009),NA
+Nyctalus_azoreum,AspectRatioIndex,NA,NA,NA,NA,formula,NA,NA,NA,full_range,Experts,Experts,From_formula:_(ThirdDigitLength+ForarmLength)/FifthDigitLength,Values_from_Dietz_et_al_(2009),NA
+Nyctalus_lasiopterus,AspectRatioIndex,2.48,NA,NA,NA,formula,NA,NA,NA,full_range,Experts,Experts,From_formula:_(ThirdDigitLength+ForarmLength)/FifthDigitLength,Values_from_Dietz_et_al_(2009),NA
+Nyctalus_leisleri,AspectRatioIndex,2.48,NA,NA,NA,formula,NA,NA,NA,full_range,Experts,Experts,From_formula:_(ThirdDigitLength+ForarmLength)/FifthDigitLength,Values_from_Dietz_et_al_(2009),NA
+Nyctalus_noctula,AspectRatioIndex,2.75,NA,NA,NA,formula,NA,NA,NA,full_range,Experts,Experts,From_formula:_(ThirdDigitLength+ForarmLength)/FifthDigitLength,Values_from_Dietz_et_al_(2009),NA
+Pipistrellus_kuhlii,AspectRatioIndex,2.15,NA,NA,NA,formula,NA,NA,NA,full_range,Experts,Experts,From_formula:_(ThirdDigitLength+ForarmLength)/FifthDigitLength,Values_from_Dietz_et_al_(2009),NA
+Pipistrellus_maderensis,AspectRatioIndex,2.18,NA,NA,NA,formula,NA,NA,NA,full_range,Experts,Experts,From_formula:_(ThirdDigitLength+ForarmLength)/FifthDigitLength,Values_from_Dietz_et_al_(2009),NA
+Pipistrellus_nathusii,AspectRatioIndex,2.12,NA,NA,NA,formula,NA,NA,NA,full_range,Experts,Experts,From_formula:_(ThirdDigitLength+ForarmLength)/FifthDigitLength,Values_from_Dietz_et_al_(2009),NA
+Pipistrellus_pipistrellus,AspectRatioIndex,2.16,NA,NA,NA,formula,NA,NA,NA,full_range,Experts,Experts,From_formula:_(ThirdDigitLength+ForarmLength)/FifthDigitLength,Values_from_Dietz_et_al_(2009),NA
+Pipistrellus_pygmaeus,AspectRatioIndex,2.21,NA,NA,NA,formula,NA,NA,NA,full_range,Experts,Experts,From_formula:_(ThirdDigitLength+ForarmLength)/FifthDigitLength,Values_from_Dietz_et_al_(2009),NA
+Plecotus_auritus,AspectRatioIndex,2.06,NA,NA,NA,formula,NA,NA,NA,full_range,Experts,Experts,From_formula:_(ThirdDigitLength+ForarmLength)/FifthDigitLength,Values_from_Dietz_et_al_(2009),NA
+Plecotus_austriacus,AspectRatioIndex,2.09,NA,NA,NA,formula,NA,NA,NA,full_range,Experts,Experts,From_formula:_(ThirdDigitLength+ForarmLength)/FifthDigitLength,Values_from_Dietz_et_al_(2009),NA
+Plecotus_gaisleri,AspectRatioIndex,2.09,NA,NA,NA,formula,NA,NA,NA,full_range,Experts,Experts,From_formula:_(ThirdDigitLength+ForarmLength)/FifthDigitLength,Values_from_Dietz_et_al_(2009),NA
+Plecotus_kolombatovici,AspectRatioIndex,2.09,NA,NA,NA,formula,NA,NA,NA,full_range,Experts,Experts,From_formula:_(ThirdDigitLength+ForarmLength)/FifthDigitLength,Values_from_Dietz_et_al_(2009),NA
+Plecotus_macrobullaris,AspectRatioIndex,2.07,NA,NA,NA,formula,NA,NA,NA,full_range,Experts,Experts,From_formula:_(ThirdDigitLength+ForarmLength)/FifthDigitLength,Values_from_Dietz_et_al_(2009),NA
+Plecotus_sardus,AspectRatioIndex,2.02,NA,NA,NA,formula,NA,NA,NA,full_range,Experts,Experts,From_formula:_(ThirdDigitLength+ForarmLength)/FifthDigitLength,Values_from_Dietz_et_al_(2009),NA
+Plecotus_teneriffae,AspectRatioIndex,NA,NA,NA,NA,formula,NA,NA,NA,full_range,Experts,Experts,From_formula:_(ThirdDigitLength+ForarmLength)/FifthDigitLength,Values_from_Dietz_et_al_(2009),NA
+Rhinolophus_blasii,AspectRatioIndex,2.01,NA,NA,NA,formula,NA,NA,NA,full_range,Experts,Experts,From_formula:_(ThirdDigitLength+ForarmLength)/FifthDigitLength,Values_from_Dietz_et_al_(2009),NA
+Rhinolophus_euryale,AspectRatioIndex,2.04,NA,NA,NA,formula,NA,NA,NA,full_range,Experts,Experts,From_formula:_(ThirdDigitLength+ForarmLength)/FifthDigitLength,Values_from_Dietz_et_al_(2009),NA
+Rhinolophus_ferrumequinum,AspectRatioIndex,2.06,NA,NA,NA,formula,NA,NA,NA,full_range,Experts,Experts,From_formula:_(ThirdDigitLength+ForarmLength)/FifthDigitLength,Values_from_Dietz_et_al_(2009),NA
+Rhinolophus_hipposideros,AspectRatioIndex,1.84,NA,NA,NA,formula,NA,NA,NA,full_range,Experts,Experts,From_formula:_(ThirdDigitLength+ForarmLength)/FifthDigitLength,Values_from_Dietz_et_al_(2009),NA
+Rhinolophus_mehelyi,AspectRatioIndex,2.07,NA,NA,NA,formula,NA,NA,NA,full_range,Experts,Experts,From_formula:_(ThirdDigitLength+ForarmLength)/FifthDigitLength,Values_from_Dietz_et_al_(2009),NA
+Tadarida_teniotis,AspectRatioIndex,2.97,NA,NA,NA,formula,NA,NA,NA,full_range,Experts,Experts,From_formula:_(ThirdDigitLength+ForarmLength)/FifthDigitLength,Values_from_Dietz_et_al_(2009),NA
+Vespertilio_murinus,AspectRatioIndex,2.31,NA,NA,NA,formula,NA,NA,NA,full_range,Experts,Experts,From_formula:_(ThirdDigitLength+ForarmLength)/FifthDigitLength,Values_from_Dietz_et_al_(2009),NA
+Barbastella_barbastellus,WingLoadingIndex,7.87,NA,NA,NA,formula,g/dm2,NA,NA,full_range,Experts,Experts,From_formula:_BodyMass/((ForearmLength+ThirdDigitLength)*FifthDigitLength*2)*1000,Values_from_Dietz_et_al_(2009),NA
+Eptesicus_anatolicus,WingLoadingIndex,12.63,NA,NA,NA,formula,g/dm2,NA,NA,full_range,Experts,Experts,From_formula:_BodyMass/((ForearmLength+ThirdDigitLength)*FifthDigitLength*2)*1000,Values_from_Dietz_et_al_(2009),NA
+Eptesicus_isabellinus,WingLoadingIndex,9.65,NA,NA,NA,formula,g/dm2,NA,NA,full_range,Experts,Experts,From_formula:_BodyMass/((ForearmLength+ThirdDigitLength)*FifthDigitLength*2)*1000,Values_from_Dietz_et_al_(2009),NA
+Eptesicus_nilssonii,WingLoadingIndex,10.31,NA,NA,NA,formula,g/dm2,NA,NA,full_range,Experts,Experts,From_formula:_BodyMass/((ForearmLength+ThirdDigitLength)*FifthDigitLength*2)*1000,Values_from_Dietz_et_al_(2009),NA
+Eptesicus_serotinus,WingLoadingIndex,11.91,NA,NA,NA,formula,g/dm2,NA,NA,full_range,Experts,Experts,From_formula:_BodyMass/((ForearmLength+ThirdDigitLength)*FifthDigitLength*2)*1000,Values_from_Dietz_et_al_(2009),NA
+Hypsugo_savii,WingLoadingIndex,8.94,NA,NA,NA,formula,g/dm2,NA,NA,full_range,Experts,Experts,From_formula:_BodyMass/((ForearmLength+ThirdDigitLength)*FifthDigitLength*2)*1000,Values_from_Dietz_et_al_(2009),NA
+Miniopterus_schreibersii,WingLoadingIndex,8.97,NA,NA,NA,formula,g/dm2,NA,NA,full_range,Experts,Experts,From_formula:_BodyMass/((ForearmLength+ThirdDigitLength)*FifthDigitLength*2)*1000,Values_from_Dietz_et_al_(2009),NA
+Myotis_alcathoe,WingLoadingIndex,6.52,NA,NA,NA,formula,g/dm2,NA,NA,full_range,Experts,Experts,From_formula:_BodyMass/((ForearmLength+ThirdDigitLength)*FifthDigitLength*2)*1000,Values_from_Dietz_et_al_(2009),NA
+Myotis_bechsteinii,WingLoadingIndex,7.35,NA,NA,NA,formula,g/dm2,NA,NA,full_range,Experts,Experts,From_formula:_BodyMass/((ForearmLength+ThirdDigitLength)*FifthDigitLength*2)*1000,Values_from_Dietz_et_al_(2009),NA
+Myotis_blythii,WingLoadingIndex,10.4,NA,NA,NA,formula,g/dm2,NA,NA,full_range,Experts,Experts,From_formula:_BodyMass/((ForearmLength+ThirdDigitLength)*FifthDigitLength*2)*1000,Values_from_Dietz_et_al_(2009),NA
+Myotis_brandtii,WingLoadingIndex,7.48,NA,NA,NA,formula,g/dm2,NA,NA,full_range,Experts,Experts,From_formula:_BodyMass/((ForearmLength+ThirdDigitLength)*FifthDigitLength*2)*1000,Values_from_Dietz_et_al_(2009),NA
+Myotis_capaccinii,WingLoadingIndex,7.52,NA,NA,NA,formula,g/dm2,NA,NA,full_range,Experts,Experts,From_formula:_BodyMass/((ForearmLength+ThirdDigitLength)*FifthDigitLength*2)*1000,Values_from_Dietz_et_al_(2009),NA
+Myotis_crypticus,WingLoadingIndex,NA,NA,NA,NA,formula,g/dm2,NA,NA,full_range,Experts,Experts,From_formula:_BodyMass/((ForearmLength+ThirdDigitLength)*FifthDigitLength*2)*1000,Values_from_Dietz_et_al_(2009),NA
+Myotis_dasycneme,WingLoadingIndex,11.48,NA,NA,NA,formula,g/dm2,NA,NA,full_range,Experts,Experts,From_formula:_BodyMass/((ForearmLength+ThirdDigitLength)*FifthDigitLength*2)*1000,Values_from_Dietz_et_al_(2009),NA
+Myotis_daubentonii,WingLoadingIndex,9.11,NA,NA,NA,formula,g/dm2,NA,NA,full_range,Experts,Experts,From_formula:_BodyMass/((ForearmLength+ThirdDigitLength)*FifthDigitLength*2)*1000,Values_from_Dietz_et_al_(2009),NA
+Myotis_emarginatus,WingLoadingIndex,6.65,NA,NA,NA,formula,g/dm2,NA,NA,full_range,Experts,Experts,From_formula:_BodyMass/((ForearmLength+ThirdDigitLength)*FifthDigitLength*2)*1000,Values_from_Dietz_et_al_(2009),NA
+Myotis_escalerai,WingLoadingIndex,NA,NA,NA,NA,formula,g/dm2,NA,NA,full_range,Experts,Experts,From_formula:_BodyMass/((ForearmLength+ThirdDigitLength)*FifthDigitLength*2)*1000,Values_from_Dietz_et_al_(2009),NA
+Myotis_myotis,WingLoadingIndex,9.79,NA,NA,NA,formula,g/dm2,NA,NA,full_range,Experts,Experts,From_formula:_BodyMass/((ForearmLength+ThirdDigitLength)*FifthDigitLength*2)*1000,Values_from_Dietz_et_al_(2009),NA
+Myotis_mystacinus,WingLoadingIndex,7.5,NA,NA,NA,formula,g/dm2,NA,NA,full_range,Experts,Experts,From_formula:_BodyMass/((ForearmLength+ThirdDigitLength)*FifthDigitLength*2)*1000,Values_from_Dietz_et_al_(2009),NA
+Myotis_nattereri,WingLoadingIndex,7.38,NA,NA,NA,formula,g/dm2,NA,NA,full_range,Experts,Experts,From_formula:_BodyMass/((ForearmLength+ThirdDigitLength)*FifthDigitLength*2)*1000,Values_from_Dietz_et_al_(2009),NA
+Myotis_punicus,WingLoadingIndex,9.4,NA,NA,NA,formula,g/dm2,NA,NA,full_range,Experts,Experts,From_formula:_BodyMass/((ForearmLength+ThirdDigitLength)*FifthDigitLength*2)*1000,Values_from_Dietz_et_al_(2009),NA
+Nyctalus_azoreum,WingLoadingIndex,NA,NA,NA,NA,formula,g/dm2,NA,NA,full_range,Experts,Experts,From_formula:_BodyMass/((ForearmLength+ThirdDigitLength)*FifthDigitLength*2)*1000,Values_from_Dietz_et_al_(2009),NA
+Nyctalus_lasiopterus,WingLoadingIndex,17.33,NA,NA,NA,formula,g/dm2,NA,NA,full_range,Experts,Experts,From_formula:_BodyMass/((ForearmLength+ThirdDigitLength)*FifthDigitLength*2)*1000,Values_from_Dietz_et_al_(2009),NA
+Nyctalus_leisleri,WingLoadingIndex,14.15,NA,NA,NA,formula,g/dm2,NA,NA,full_range,Experts,Experts,From_formula:_BodyMass/((ForearmLength+ThirdDigitLength)*FifthDigitLength*2)*1000,Values_from_Dietz_et_al_(2009),NA
+Nyctalus_noctula,WingLoadingIndex,16.8,NA,NA,NA,formula,g/dm2,NA,NA,full_range,Experts,Experts,From_formula:_BodyMass/((ForearmLength+ThirdDigitLength)*FifthDigitLength*2)*1000,Values_from_Dietz_et_al_(2009),NA
+Pipistrellus_kuhlii,WingLoadingIndex,8.37,NA,NA,NA,formula,g/dm2,NA,NA,full_range,Experts,Experts,From_formula:_BodyMass/((ForearmLength+ThirdDigitLength)*FifthDigitLength*2)*1000,Values_from_Dietz_et_al_(2009),NA
+Pipistrellus_maderensis,WingLoadingIndex,7.87,NA,NA,NA,formula,g/dm2,NA,NA,full_range,Experts,Experts,From_formula:_BodyMass/((ForearmLength+ThirdDigitLength)*FifthDigitLength*2)*1000,Values_from_Dietz_et_al_(2009),NA
+Pipistrellus_nathusii,WingLoadingIndex,9.55,NA,NA,NA,formula,g/dm2,NA,NA,full_range,Experts,Experts,From_formula:_BodyMass/((ForearmLength+ThirdDigitLength)*FifthDigitLength*2)*1000,Values_from_Dietz_et_al_(2009),NA
+Pipistrellus_pipistrellus,WingLoadingIndex,7.61,NA,NA,NA,formula,g/dm2,NA,NA,full_range,Experts,Experts,From_formula:_BodyMass/((ForearmLength+ThirdDigitLength)*FifthDigitLength*2)*1000,Values_from_Dietz_et_al_(2009),NA
+Pipistrellus_pygmaeus,WingLoadingIndex,9.36,NA,NA,NA,formula,g/dm2,NA,NA,full_range,Experts,Experts,From_formula:_BodyMass/((ForearmLength+ThirdDigitLength)*FifthDigitLength*2)*1000,Values_from_Dietz_et_al_(2009),NA
+Plecotus_auritus,WingLoadingIndex,7.13,NA,NA,NA,formula,g/dm2,NA,NA,full_range,Experts,Experts,From_formula:_BodyMass/((ForearmLength+ThirdDigitLength)*FifthDigitLength*2)*1000,Values_from_Dietz_et_al_(2009),NA
+Plecotus_austriacus,WingLoadingIndex,7.23,NA,NA,NA,formula,g/dm2,NA,NA,full_range,Experts,Experts,From_formula:_BodyMass/((ForearmLength+ThirdDigitLength)*FifthDigitLength*2)*1000,Values_from_Dietz_et_al_(2009),NA
+Plecotus_gaisleri,WingLoadingIndex,5.06,NA,NA,NA,formula,g/dm2,NA,NA,full_range,Experts,Experts,From_formula:_BodyMass/((ForearmLength+ThirdDigitLength)*FifthDigitLength*2)*1000,Values_from_Dietz_et_al_(2009),NA
+Plecotus_kolombatovici,WingLoadingIndex,7.64,NA,NA,NA,formula,g/dm2,NA,NA,full_range,Experts,Experts,From_formula:_BodyMass/((ForearmLength+ThirdDigitLength)*FifthDigitLength*2)*1000,Values_from_Dietz_et_al_(2009),NA
+Plecotus_macrobullaris,WingLoadingIndex,7.15,NA,NA,NA,formula,g/dm2,NA,NA,full_range,Experts,Experts,From_formula:_BodyMass/((ForearmLength+ThirdDigitLength)*FifthDigitLength*2)*1000,Values_from_Dietz_et_al_(2009),NA
+Plecotus_sardus,WingLoadingIndex,6.14,NA,NA,NA,formula,g/dm2,NA,NA,full_range,Experts,Experts,From_formula:_BodyMass/((ForearmLength+ThirdDigitLength)*FifthDigitLength*2)*1000,Values_from_Dietz_et_al_(2009),NA
+Plecotus_teneriffae,WingLoadingIndex,NA,NA,NA,NA,formula,g/dm2,NA,NA,full_range,Experts,Experts,From_formula:_BodyMass/((ForearmLength+ThirdDigitLength)*FifthDigitLength*2)*1000,Values_from_Dietz_et_al_(2009),NA
+Rhinolophus_blasii,WingLoadingIndex,9.17,NA,NA,NA,formula,g/dm2,NA,NA,full_range,Experts,Experts,From_formula:_BodyMass/((ForearmLength+ThirdDigitLength)*FifthDigitLength*2)*1000,Values_from_Dietz_et_al_(2009),NA
+Rhinolophus_euryale,WingLoadingIndex,8.51,NA,NA,NA,formula,g/dm2,NA,NA,full_range,Experts,Experts,From_formula:_BodyMass/((ForearmLength+ThirdDigitLength)*FifthDigitLength*2)*1000,Values_from_Dietz_et_al_(2009),NA
+Rhinolophus_ferrumequinum,WingLoadingIndex,10.4,NA,NA,NA,formula,g/dm2,NA,NA,full_range,Experts,Experts,From_formula:_BodyMass/((ForearmLength+ThirdDigitLength)*FifthDigitLength*2)*1000,Values_from_Dietz_et_al_(2009),NA
+Rhinolophus_hipposideros,WingLoadingIndex,5.99,NA,NA,NA,formula,g/dm2,NA,NA,full_range,Experts,Experts,From_formula:_BodyMass/((ForearmLength+ThirdDigitLength)*FifthDigitLength*2)*1000,Values_from_Dietz_et_al_(2009),NA
+Rhinolophus_mehelyi,WingLoadingIndex,9.1,NA,NA,NA,formula,g/dm2,NA,NA,full_range,Experts,Experts,From_formula:_BodyMass/((ForearmLength+ThirdDigitLength)*FifthDigitLength*2)*1000,Values_from_Dietz_et_al_(2009),NA
+Tadarida_teniotis,WingLoadingIndex,12.73,NA,NA,NA,formula,g/dm2,NA,NA,full_range,Experts,Experts,From_formula:_BodyMass/((ForearmLength+ThirdDigitLength)*FifthDigitLength*2)*1000,Values_from_Dietz_et_al_(2009),NA
+Vespertilio_murinus,WingLoadingIndex,10.38,NA,NA,NA,formula,g/dm2,NA,NA,full_range,Experts,Experts,From_formula:_BodyMass/((ForearmLength+ThirdDigitLength)*FifthDigitLength*2)*1000,Values_from_Dietz_et_al_(2009),NA
+Eptesicus_bottae,BodyMass,8.9,1.3,15,mean,NA,g,NA,NA,full_range,Korine (2020),"Korine, C. (2020) Bottaâ€™s Serotine Eptesicus bottae (Peters, 1869). Handbook of the Mammals of Europe, 1-9.",NA,Adult,NA
+Eptesicus_bottae,ForearmLength,41.6,1.6,4,mean,NA,mm,NA,NA,full_range,Korine (2020),"Korine, C. (2020) Bottaâ€™s Serotine Eptesicus bottae (Peters, 1869). Handbook of the Mammals of Europe, 1-9.",NA,Adult,NA
+Barbastella_barbastellus,ForearmLength,39.5955,0.792,2,mean,capture,mm,22,individual,Slovakia,Unpublished data,Unpublished data,"Data_provider:_Marcel_Uhrin,&Peter_Kanuch  ",Adult,NA
+Eptesicus_nilssonii,ForearmLength,40.412,1.312,3,mean,capture,mm,25,individual,Slovakia,Unpublished data,Unpublished data,"Data_provider:_Marcel_Uhrin,&Peter_Kanuch  ",Adult,NA
+Eptesicus_serotinus,ForearmLength,52.073,1.6708,3,mean,capture,mm,27,individual,Slovakia,Unpublished data,Unpublished data,"Data_provider:_Marcel_Uhrin,&Peter_Kanuch  ",Adult,NA
+Miniopterus_schreibersii,ForearmLength,45.746,0.9426,2,mean,capture,mm,124,individual,Slovakia,Unpublished data,Unpublished data,"Data_provider:_Marcel_Uhrin,&Peter_Kanuch  ",Adult,NA
+Myotis_alcathoe,ForearmLength,32.056,0.807,3,mean,capture,mm,25,individual,Slovakia,Unpublished data,Unpublished data,"Data_provider:_Marcel_Uhrin,&Peter_Kanuch  ",Adult,NA
+Myotis_bechsteinii,ForearmLength,43.6846,1.022,2,mean,capture,mm,65,individual,Slovakia,Unpublished data,Unpublished data,"Data_provider:_Marcel_Uhrin,&Peter_Kanuch  ",Adult,NA
+Myotis_blythii,ForearmLength,60,NA,NA,mean,capture,mm,1,individual,Slovakia,Unpublished data,Unpublished data,"Data_provider:_Marcel_Uhrin,&Peter_Kanuch  ",Adult,NA
+Myotis_brandtii,ForearmLength,35.875,1.5088,4,mean,capture,mm,8,individual,Slovakia,Unpublished data,Unpublished data,"Data_provider:_Marcel_Uhrin,&Peter_Kanuch  ",Adult,NA
+Myotis_dasycneme,ForearmLength,47.82,1.1454,2,mean,capture,mm,5,individual,Slovakia,Unpublished data,Unpublished data,"Data_provider:_Marcel_Uhrin,&Peter_Kanuch  ",Adult,NA
+Myotis_daubentonii,ForearmLength,38.0097,1.244,3,mean,capture,mm,113,individual,Slovakia,Unpublished data,Unpublished data,"Data_provider:_Marcel_Uhrin,&Peter_Kanuch  ",Adult,NA
+Myotis_emarginatus,ForearmLength,38.795,1.274,3,mean,capture,mm,61,individual,Slovakia,Unpublished data,Unpublished data,"Data_provider:_Marcel_Uhrin,&Peter_Kanuch  ",Adult,NA
+Myotis_myotis,ForearmLength,61.8909,1.9004,3,mean,capture,mm,88,individual,Slovakia,Unpublished data,Unpublished data,"Data_provider:_Marcel_Uhrin,&Peter_Kanuch  ",Adult,NA
+Myotis_mystacinus,ForearmLength,34.506,1.6775,5,mean,capture,mm,50,individual,Slovakia,Unpublished data,Unpublished data,"Data_provider:_Marcel_Uhrin,&Peter_Kanuch  ",Adult,NA
+Myotis_nattereri,ForearmLength,40.8938,1.0864,3,mean,capture,mm,65,individual,Slovakia,Unpublished data,Unpublished data,"Data_provider:_Marcel_Uhrin,&Peter_Kanuch  ",Adult,NA
+Nyctalus_lasiopterus,ForearmLength,63.7,1.5133,2,mean,capture,mm,3,individual,Slovakia,Unpublished data,Unpublished data,"Data_provider:_Marcel_Uhrin,&Peter_Kanuch  ",Adult,NA
+Nyctalus_leisleri,ForearmLength,43.9484,2.8697,7,mean,capture,mm,253,individual,Slovakia,Unpublished data,Unpublished data,"Data_provider:_Marcel_Uhrin,&Peter_Kanuch  ",Adult,NA
+Nyctalus_noctula,ForearmLength,53.8616,1.3984,3,mean,capture,mm,93,individual,Slovakia,Unpublished data,Unpublished data,"Data_provider:_Marcel_Uhrin,&Peter_Kanuch  ",Adult,NA
+Pipistrellus_nathusii,ForearmLength,34.85,0.3536,1,mean,capture,mm,2,individual,Slovakia,Unpublished data,Unpublished data,"Data_provider:_Marcel_Uhrin,&Peter_Kanuch  ",Adult,NA
+Pipistrellus_pipistrellus,ForearmLength,31.3095,1.1264,4,mean,capture,mm,42,individual,Slovakia,Unpublished data,Unpublished data,"Data_provider:_Marcel_Uhrin,&Peter_Kanuch  ",Adult,NA
+Plecotus_auritus,ForearmLength,39.2484,1.3692,3,mean,capture,mm,31,individual,Slovakia,Unpublished data,Unpublished data,"Data_provider:_Marcel_Uhrin,&Peter_Kanuch  ",Adult,NA
+Plecotus_austriacus,ForearmLength,40.62,1.4653,3.61,mean,capture,mm,5,individual,Slovakia,Unpublished data,Unpublished data,"Data_provider:_Marcel_Uhrin,&Peter_Kanuch  ",Adult,NA
+Rhinolophus_euryale,ForearmLength,48.7926,1.4509,3,mean,capture,mm,244,individual,Slovakia,Unpublished data,Unpublished data,"Data_provider:_Marcel_Uhrin,&Peter_Kanuch  ",Adult,NA
+Rhinolophus_ferrumequinum,ForearmLength,56.7086,1.1708,2,mean,capture,mm,35,individual,Slovakia,Unpublished data,Unpublished data,"Data_provider:_Marcel_Uhrin,&Peter_Kanuch  ",Adult,NA
+Rhinolophus_hipposideros,ForearmLength,39.7605,0.8648,2,mean,capture,mm,38,individual,Slovakia,Unpublished data,Unpublished data,"Data_provider:_Marcel_Uhrin,&Peter_Kanuch  ",Adult,NA
+Vespertilio_murinus,ForearmLength,43.92,3.4227,8,mean,capture,mm,10,individual,Slovakia,Unpublished data,Unpublished data,"Data_provider:_Marcel_Uhrin,&Peter_Kanuch  ",Adult,NA
+Myotis_bechsteinii,ForearmLength,42.4,NA,NA,mean,capture,mm,1,individual,Moldova,Unpublished data,Unpublished data,Data_provider:_Victoria_Nistreanu ,Adult,NA
+Nyctalus_noctula,ForearmLength,53.44,1.21,2,mean,capture,mm,44,individual,Moldova,Unpublished data,Unpublished data,Data_provider:_Victoria_Nistreanu ,Adult,NA
+Pipistrellus_pipistrellus,ForearmLength,31.26,NA,NA,mean,capture,mm,44,individual,Ireland,Roche et al. (2014),"Roche N., Aughney T., Marnell F. & Lundy M. (2014) Irish Bats in the 21st Century. Bat Conservation Ireland, Cavan, Ireland. 173 pp",Data_provider:_Niamh_Roche,Adult,NA
+Pipistrellus_pygmaeus,ForearmLength,31.02,NA,NA,mean,capture,mm,210,individual,Ireland,Roche et al. (2014),"Roche N., Aughney T., Marnell F. & Lundy M. (2014) Irish Bats in the 21st Century. Bat Conservation Ireland, Cavan, Ireland. 173 pp",,Adult,NA
+Plecotus_auritus,ForearmLength,37.99,NA,NA,mean,capture,mm,103,individual,Ireland,Roche et al. (2014),"Roche N., Aughney T., Marnell F. & Lundy M. (2014) Irish Bats in the 21st Century. Bat Conservation Ireland, Cavan, Ireland. 173 pp",,Adult,NA
+Nyctalus_leisleri,ForearmLength,42.83,NA,NA,mean,capture,mm,194,individual,Ireland,Roche et al. (2014),"Roche N., Aughney T., Marnell F. & Lundy M. (2014) Irish Bats in the 21st Century. Bat Conservation Ireland, Cavan, Ireland. 173 pp",,Adult,NA
+Myotis_daubentonii,ForearmLength,37.22,NA,NA,mean,capture,mm,116,individual,Ireland,Roche et al. (2014),"Roche N., Aughney T., Marnell F. & Lundy M. (2014) Irish Bats in the 21st Century. Bat Conservation Ireland, Cavan, Ireland. 173 pp",,Adult,NA
+Myotis_nattereri,ForearmLength,38.95,NA,NA,mean,capture,mm,234,individual,Ireland,Roche et al. (2014),"Roche N., Aughney T., Marnell F. & Lundy M. (2014) Irish Bats in the 21st Century. Bat Conservation Ireland, Cavan, Ireland. 173 pp",,Adult,NA
+Myotis_mystacinus,ForearmLength,33.3,NA,NA,mean,capture,mm,104,individual,Ireland,Roche et al. (2014),"Roche N., Aughney T., Marnell F. & Lundy M. (2014) Irish Bats in the 21st Century. Bat Conservation Ireland, Cavan, Ireland. 173 pp",,Adult,NA
+Rhinolophus_hipposideros,ForearmLength,37.06,NA,NA,mean,capture,mm,221,individual,Ireland,Roche et al. (2014),"Roche N., Aughney T., Marnell F. & Lundy M. (2014) Irish Bats in the 21st Century. Bat Conservation Ireland, Cavan, Ireland. 173 pp",,Adult,NA
+Barbastella_barbastellus,BodyMass,9.2,1.015,11,mean,capture,g,22,individual,Slovakia,Unpublished data,Unpublished data,"Data_provider:_Marcel_Uhrin,&Peter_Kanuch  ",Adult,NA
+Eptesicus_nilssonii,BodyMass,12.5667,1.984,16,mean,capture,g,25,individual,Slovakia,Unpublished data,Unpublished data,"Data_provider:_Marcel_Uhrin,&Peter_Kanuch  ",Adult,NA
+Eptesicus_serotinus,BodyMass,25.2778,4.1563,16,mean,capture,g,27,individual,Slovakia,Unpublished data,Unpublished data,"Data_provider:_Marcel_Uhrin,&Peter_Kanuch  ",Adult,removed_1_very_low_body_mass
+Miniopterus_schreibersii,BodyMass,13.0967,1.8997,15,mean,capture,g,123,individual,Slovakia,Unpublished data,Unpublished data,"Data_provider:_Marcel_Uhrin,&Peter_Kanuch  ",Adult,NA
+Myotis_alcathoe,BodyMass,4.3625,0.425,10,mean,capture,g,24,individual,Slovakia,Unpublished data,Unpublished data,"Data_provider:_Marcel_Uhrin,&Peter_Kanuch  ",Adult,NA
+Myotis_bechsteinii,BodyMass,9.478,0.9026,10,mean,capture,g,64,individual,Slovakia,Unpublished data,Unpublished data,"Data_provider:_Marcel_Uhrin,&Peter_Kanuch  ",Adult,NA
+Myotis_blythii,BodyMass,24,NA,NA,mean,capture,g,1,individual,Slovakia,Unpublished data,Unpublished data,"Data_provider:_Marcel_Uhrin,&Peter_Kanuch  ",Adult,1_individual
+Myotis_brandtii,BodyMass,6.857,0.9126,13,mean,capture,g,7,individual,Slovakia,Unpublished data,Unpublished data,"Data_provider:_Marcel_Uhrin,&Peter_Kanuch  ",Adult,NA
+Myotis_dasycneme,BodyMass,17.45,1.1358,7,mean,capture,g,4,individual,Slovakia,Unpublished data,Unpublished data,"Data_provider:_Marcel_Uhrin,&Peter_Kanuch  ",Adult,"removed_1_high_body_mass_felame,_likely_pregnant"
+Myotis_daubentonii,BodyMass,8.6413,1.1418,13,mean,capture,g,112,individual,Slovakia,Unpublished data,Unpublished data,"Data_provider:_Marcel_Uhrin,&Peter_Kanuch  ",Adult,NA
+Myotis_emarginatus,BodyMass,7.563,1.447,19,mean,capture,g,60,individual,Slovakia,Unpublished data,Unpublished data,"Data_provider:_Marcel_Uhrin,&Peter_Kanuch  ",Adult,NA
+Myotis_myotis,BodyMass,27.4786,3.4401,13,mean,capture,g,84,individual,Slovakia,Unpublished data,Unpublished data,"Data_provider:_Marcel_Uhrin,&Peter_Kanuch  ",Adult,"removed_3_heavy_females,_likely_pregnant"
+Myotis_mystacinus,BodyMass,5.9021,1.273,22,mean,capture,g,47,individual,Slovakia,Unpublished data,Unpublished data,"Data_provider:_Marcel_Uhrin,&Peter_Kanuch  ",Adult,NA
+Myotis_nattereri,BodyMass,8.1563,1.3005,16,mean,capture,g,64,individual,Slovakia,Unpublished data,Unpublished data,"Data_provider:_Marcel_Uhrin,&Peter_Kanuch  ",Adult,NA
+Nyctalus_lasiopterus,BodyMass,42.8,7.408,17,mean,capture,g,3,individual,Slovakia,Unpublished data,Unpublished data,"Data_provider:_Marcel_Uhrin,&Peter_Kanuch  ",Adult,NA
+Nyctalus_leisleri,BodyMass,15.626,3.0196,19,mean,capture,g,253,individual,Slovakia,Unpublished data,Unpublished data,"Data_provider:_Marcel_Uhrin,&Peter_Kanuch  ",Adult,NA
+Nyctalus_noctula,BodyMass,31.0915,4.58,15,mean,capture,g,91,individual,Slovakia,Unpublished data,Unpublished data,"Data_provider:_Marcel_Uhrin,&Peter_Kanuch  ",Adult,NA
+Pipistrellus_nathusii,BodyMass,8.6,0.5657,7,mean,capture,g,2,individual,Slovakia,Unpublished data,Unpublished data,"Data_provider:_Marcel_Uhrin,&Peter_Kanuch  ",Adult,NA
+Pipistrellus_pipistrellus,BodyMass,4.4184,0.6998,16,mean,capture,g,38,individual,Slovakia,Unpublished data,Unpublished data,"Data_provider:_Marcel_Uhrin,&Peter_Kanuch  ",Adult,NA
+Plecotus_auritus,BodyMass,7.1586,1.7622,25,mean,capture,g,29,individual,Slovakia,Unpublished data,Unpublished data,"Data_provider:_Marcel_Uhrin,&Peter_Kanuch  ",Adult,NA
+Plecotus_austriacus,BodyMass,9.85,1.2124,12,mean,capture,g,4,individual,Slovakia,Unpublished data,Unpublished data,"Data_provider:_Marcel_Uhrin,&Peter_Kanuch  ",Adult,NA
+Rhinolophus_euryale,BodyMass,12.441,1.542,12,mean,capture,g,229,individual,Slovakia,Unpublished data,Unpublished data,"Data_provider:_Marcel_Uhrin,&Peter_Kanuch  ",Adult,removed_1_very_low_body_mass
+Rhinolophus_ferrumequinum,BodyMass,23.2429,4.9909,21,mean,capture,g,35,individual,Slovakia,Unpublished data,Unpublished data,"Data_provider:_Marcel_Uhrin,&Peter_Kanuch  ",Adult,NA
+Rhinolophus_hipposideros,BodyMass,6.144,0.4556,7,mean,capture,g,25,individual,Slovakia,Unpublished data,Unpublished data,"Data_provider:_Marcel_Uhrin,&Peter_Kanuch  ",Adult,NA
+Vespertilio_murinus,BodyMass,15.16,4.1535,27,mean,capture,g,10,individual,Slovakia,Unpublished data,Unpublished data,"Data_provider:_Marcel_Uhrin,&Peter_Kanuch  ",Adult,NA
+Pipistrellus_pipistrellus,BodyMass,5.069,NA,NA,mean,capture,g,43,individual,Ireland,Roche et al. (2014),"Roche N., Aughney T., Marnell F. & Lundy M. (2014) Irish Bats in the 21st Century. Bat Conservation Ireland, Cavan, Ireland. 173 pp",Data_provider:_Niamh_Roche,Adult,NA
+Pipistrellus_pygmaeus,BodyMass,5.547,NA,NA,mean,capture,g,220,individual,Ireland,Roche et al. (2014),"Roche N., Aughney T., Marnell F. & Lundy M. (2014) Irish Bats in the 21st Century. Bat Conservation Ireland, Cavan, Ireland. 173 pp",,Adult,NA
+Plecotus_auritus,BodyMass,7.811,NA,NA,mean,capture,g,97,individual,Ireland,Roche et al. (2014),"Roche N., Aughney T., Marnell F. & Lundy M. (2014) Irish Bats in the 21st Century. Bat Conservation Ireland, Cavan, Ireland. 173 pp",,Adult,NA
+Nyctalus_leisleri,BodyMass,16.506,NA,NA,mean,capture,g,194,individual,Ireland,Roche et al. (2014),"Roche N., Aughney T., Marnell F. & Lundy M. (2014) Irish Bats in the 21st Century. Bat Conservation Ireland, Cavan, Ireland. 173 pp",,Adult,NA
+Myotis_daubentonii,BodyMass,9.01,NA,NA,mean,capture,g,71,individual,Ireland,Roche et al. (2014),"Roche N., Aughney T., Marnell F. & Lundy M. (2014) Irish Bats in the 21st Century. Bat Conservation Ireland, Cavan, Ireland. 173 pp",,Adult,NA
+Myotis_nattereri,BodyMass,8.755,NA,NA,mean,capture,g,205,individual,Ireland,Roche et al. (2014),"Roche N., Aughney T., Marnell F. & Lundy M. (2014) Irish Bats in the 21st Century. Bat Conservation Ireland, Cavan, Ireland. 173 pp",,Adult,NA
+Myotis_mystacinus,BodyMass,5.313,NA,NA,mean,capture,g,100,individual,Ireland,Roche et al. (2014),"Roche N., Aughney T., Marnell F. & Lundy M. (2014) Irish Bats in the 21st Century. Bat Conservation Ireland, Cavan, Ireland. 173 pp",,Adult,NA
+Rhinolophus_hipposideros,BodyMass,5.877,NA,NA,mean,capture,g,222,individual,Ireland,Roche et al. (2014),"Roche N., Aughney T., Marnell F. & Lundy M. (2014) Irish Bats in the 21st Century. Bat Conservation Ireland, Cavan, Ireland. 173 pp",,Adult,NA
+Rhinolophus_hipposideros,BodyMass,7.7,NA,NA,mean,capture,g,1,individual,Moldova,Unpublished data,Unpublished data,Data_provider:_Victoria_Nistreanu ,Adult,NA
+Eptesicus_serotinus,BodyMass,20.1333,1.504,7,mean,capture,g,3,individual,Moldova,Unpublished data,Unpublished data,Data_provider:_Victoria_Nistreanu ,Adult,NA
+Myotis_bechsteinii,BodyMass,9.14,1.057,12,mean,capture,g,5,individual,Moldova,Unpublished data,Unpublished data,Data_provider:_Victoria_Nistreanu ,Adult,NA
+Myotis_blythii,BodyMass,23.2337,2.013,9,mean,capture,g,10,individual,Moldova,Unpublished data,Unpublished data,Data_provider:_Victoria_Nistreanu ,Adult,NA
+Myotis_dasycneme,BodyMass,15,0.8718,6,mean,capture,g,3,individual,Moldova,Unpublished data,Unpublished data,Data_provider:_Victoria_Nistreanu ,Adult,NA
+Myotis_daubentonii,BodyMass,8.4,0.5567,7,mean,capture,g,3,individual,Moldova,Unpublished data,Unpublished data,Data_provider:_Victoria_Nistreanu ,Adult,NA
+Myotis_mystacinus,BodyMass,6.4,0.283,4,mean,capture,g,2,individual,Moldova,Unpublished data,Unpublished data,Data_provider:_Victoria_Nistreanu ,Adult,NA
+Nyctalus_noctula,BodyMass,25,2.1226,8,mean,capture,g,79,individual,Moldova,Unpublished data,Unpublished data,Data_provider:_Victoria_Nistreanu ,Adult,NA
+Pipistrellus_kuhlii,BodyMass,7.1,NA,NA,mean,capture,g,1,individual,Moldova,Unpublished data,Unpublished data,Data_provider:_Victoria_Nistreanu ,Adult,NA
+Plecotus_auritus,BodyMass,9,0.1414,2,mean,capture,g,2,individual,Moldova,Unpublished data,Unpublished data,Data_provider:_Victoria_Nistreanu ,Adult,NA
+Plecotus_austriacus,BodyMass,10.1,NA,NA,mean,capture,g,1,individual,Moldova,Unpublished data,Unpublished data,Data_provider:_Victoria_Nistreanu ,Adult,NA
+Barbastella_barbastellus,BodyMass,9.135714286,0.79817787,9,mean,capture,g,17,individual,Portugal,Unpublished data,Unpublished data,Data_provider:_Francisco_Amorim,Adult,NA
+Eptesicus_isabellinus,BodyMass,22.30645161,7.389847788,33,mean,capture,g,31,individual,Portugal,Unpublished data,Unpublished data,Data_provider:_Francisco_Amorim,Adult,NA
+Eptesicus_serotinus,BodyMass,24.093,2.263635473,9,mean,capture,g,10,individual,Portugal,Unpublished data,Unpublished data,Data_provider:_Francisco_Amorim,Adult,NA
+Hypsugo_savii,BodyMass,7.728571429,0.697529655,9,mean,capture,g,7,individual,Portugal,Unpublished data,Unpublished data,Data_provider:_Francisco_Amorim,Adult,NA
+Myotis_bechsteinii,BodyMass,8.1875,1.247914928,15,mean,capture,g,8,individual,Portugal,Unpublished data,Unpublished data,Data_provider:_Francisco_Amorim,Adult,NA
+Myotis_blythii,BodyMass,24.062,2.350436366,10,mean,capture,g,10,individual,Portugal,Unpublished data,Unpublished data,Data_provider:_Francisco_Amorim,Adult,NA
+Myotis_daubentonii,BodyMass,7.072173913,1.022012082,14,mean,capture,g,29,individual,Portugal,Unpublished data,Unpublished data,Data_provider:_Francisco_Amorim,Adult,NA
+Myotis_emarginatus,BodyMass,7.85,1.858931145,24,mean,capture,g,9,individual,Portugal,Unpublished data,Unpublished data,Data_provider:_Francisco_Amorim,Adult,NA
+Myotis_escalerai,BodyMass,6.745185185,0.747330434,11,mean,capture,g,81,individual,Portugal,Unpublished data,Unpublished data,Data_provider:_Francisco_Amorim,Adult,NA
+Myotis_myotis,BodyMass,27.25058824,2.616291548,10,mean,capture,g,35,individual,Portugal,Unpublished data,Unpublished data,Data_provider:_Francisco_Amorim,Adult,NA
+Miniopterus_schreibersii,BodyMass,12.88543478,1.246603753,10,mean,capture,g,46,individual,Portugal,Unpublished data,Unpublished data,Data_provider:_Francisco_Amorim,Adult,NA
+Nyctalus_lasiopterus,BodyMass,52.5,0.707106781,1,mean,capture,g,2,individual,Portugal,Unpublished data,Unpublished data,Data_provider:_Francisco_Amorim,Adult,NA
+Nyctalus_leisleri,BodyMass,14.70588235,1.222303455,8,mean,capture,g,17,individual,Portugal,Unpublished data,Unpublished data,Data_provider:_Francisco_Amorim,Adult,NA
+Nyctalus_noctula,BodyMass,27.88,1.482936276,5,mean,capture,g,3,individual,Portugal,Unpublished data,Unpublished data,Data_provider:_Francisco_Amorim,Adult,NA
+Plecotus_auritus,BodyMass,9.074285714,4.12468013,45,mean,capture,g,63,individual,Portugal,Unpublished data,Unpublished data,Data_provider:_Francisco_Amorim,Adult,NA
+Plecotus_austriacus,BodyMass,8.70025974,1.131875451,13,mean,capture,g,81,individual,Portugal,Unpublished data,Unpublished data,Data_provider:_Francisco_Amorim,Adult,NA
+Pipistrellus_kuhlii,BodyMass,6.571836735,0.829554784,13,mean,capture,g,50,individual,Portugal,Unpublished data,Unpublished data,Data_provider:_Francisco_Amorim,Adult,NA
+Pipistrellus_pipistrellus,BodyMass,4.587846154,0.723255428,16,mean,capture,g,66,individual,Portugal,Unpublished data,Unpublished data,Data_provider:_Francisco_Amorim,Adult,NA
+Pipistrellus_pygmaeus,BodyMass,4.983333333,1.31370976,26,mean,capture,g,3,individual,Portugal,Unpublished data,Unpublished data,Data_provider:_Francisco_Amorim,Adult,NA
+Rhinolophus_euryale,BodyMass,12.28382353,1.209460222,10,mean,capture,g,34,individual,Portugal,Unpublished data,Unpublished data,Data_provider:_Francisco_Amorim,Adult,NA
+Rhinolophus_ferrumequinum,BodyMass,18.48644444,1.620586532,9,mean,capture,g,46,individual,Portugal,Unpublished data,Unpublished data,Data_provider:_Francisco_Amorim,Adult,NA
+Rhinolophus_hipposideros,BodyMass,5.425454545,1.124218516,21,mean,capture,g,11,individual,Portugal,Unpublished data,Unpublished data,Data_provider:_Francisco_Amorim,Adult,NA
+Tadarida_teniotis,BodyMass,31.77,3.69,12,mean,capture,g,2727,individual,Portugal,Unpublished data,Unpublished data,Data_provider:_Francisco_Amorim,Adult,NA
+Barbastella_barbastellus,ForearmLength,38.83470588,2.912106449,7,mean,capture,mm,17,individual,Portugal,Unpublished data,Unpublished data,Data_provider:_Francisco_Amorim,Adult,NA
+Eptesicus_isabellinus,ForearmLength,51.43193548,1.552839162,3,mean,capture,mm,31,individual,Portugal,Unpublished data,Unpublished data,Data_provider:_Francisco_Amorim,Adult,NA
+Eptesicus_serotinus,ForearmLength,51.673,1.456907303,3,mean,capture,mm,10,individual,Portugal,Unpublished data,Unpublished data,Data_provider:_Francisco_Amorim,Adult,NA
+Hypsugo_savii,ForearmLength,34.79571429,1.35688193,4,mean,capture,mm,7,individual,Portugal,Unpublished data,Unpublished data,Data_provider:_Francisco_Amorim,Adult,NA
+Myotis_bechsteinii,ForearmLength,40.84875,0.895631262,2,mean,capture,mm,8,individual,Portugal,Unpublished data,Unpublished data,Data_provider:_Francisco_Amorim,Adult,NA
+Myotis_blythii,ForearmLength,58.071,1.859614357,3,mean,capture,mm,10,individual,Portugal,Unpublished data,Unpublished data,Data_provider:_Francisco_Amorim,Adult,NA
+Myotis_daubentonii,ForearmLength,35.76689655,1.269319569,4,mean,capture,mm,29,individual,Portugal,Unpublished data,Unpublished data,Data_provider:_Francisco_Amorim,Adult,NA
+Myotis_emarginatus,ForearmLength,38.71222222,2.835259149,7,mean,capture,mm,9,individual,Portugal,Unpublished data,Unpublished data,Data_provider:_Francisco_Amorim,Adult,NA
+Myotis_escalerai,ForearmLength,38.62641975,1.175190738,3,mean,capture,mm,81,individual,Portugal,Unpublished data,Unpublished data,Data_provider:_Francisco_Amorim,Adult,NA
+Myotis_myotis,ForearmLength,59.51117647,5.284632245,9,mean,capture,mm,35,individual,Portugal,Unpublished data,Unpublished data,Data_provider:_Francisco_Amorim,Adult,NA
+Miniopterus_schreibersii,ForearmLength,44.72282609,1.012918036,2,mean,capture,mm,46,individual,Portugal,Unpublished data,Unpublished data,Data_provider:_Francisco_Amorim,Adult,NA
+Nyctalus_lasiopterus,ForearmLength,63.1,0.565685425,1,mean,capture,mm,2,individual,Portugal,Unpublished data,Unpublished data,Data_provider:_Francisco_Amorim,Adult,NA
+Nyctalus_leisleri,ForearmLength,42.84117647,1.272821091,3,mean,capture,mm,17,individual,Portugal,Unpublished data,Unpublished data,Data_provider:_Francisco_Amorim,Adult,NA
+Nyctalus_noctula,ForearmLength,54.04333333,0.76002193,1,mean,capture,mm,3,individual,Portugal,Unpublished data,Unpublished data,Data_provider:_Francisco_Amorim,Adult,NA
+Plecotus_auritus,ForearmLength,40.03587302,1.128232467,3,mean,capture,mm,63,individual,Portugal,Unpublished data,Unpublished data,Data_provider:_Francisco_Amorim,Adult,NA
+Plecotus_austriacus,ForearmLength,40.03,1.13,2.82,mean,capture,mm,81,individual,Portugal,Unpublished data,Unpublished data,Data_provider:_Francisco_Amorim,Adult,NA
+Pipistrellus_kuhlii,ForearmLength,33.9822,1.089302885,3,mean,capture,mm,50,individual,Portugal,Unpublished data,Unpublished data,Data_provider:_Francisco_Amorim,Adult,NA
+Pipistrellus_pipistrellus,ForearmLength,30.49707692,1.461456597,5,mean,capture,mm,66,individual,Portugal,Unpublished data,Unpublished data,Data_provider:_Francisco_Amorim,Adult,NA
+Pipistrellus_pygmaeus,ForearmLength,30.59333333,0.317700068,1,mean,capture,mm,3,individual,Portugal,Unpublished data,Unpublished data,Data_provider:_Francisco_Amorim,Adult,NA
+Rhinolophus_euryale,ForearmLength,46.86529412,2.192107379,5,mean,capture,mm,34,individual,Portugal,Unpublished data,Unpublished data,Data_provider:_Francisco_Amorim,Adult,NA
+Rhinolophus_ferrumequinum,ForearmLength,54.69543478,1.526411487,3,mean,capture,mm,46,individual,Portugal,Unpublished data,Unpublished data,Data_provider:_Francisco_Amorim,Adult,NA
+Rhinolophus_hipposideros,ForearmLength,37.08909091,1.155529788,3,mean,capture,mm,11,individual,Portugal,Unpublished data,Unpublished data,Data_provider:_Francisco_Amorim,Adult,NA
+Tadarida_teniotis,ForearmLength,60.74,1.34,2,mean,capture,mm,2685,individual,Portugal,Unpublished data,Unpublished data,Data_provider:_Francisco_Amorim,Adult,NA

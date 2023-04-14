@@ -6,7 +6,7 @@ One of the tasks in the project is to define, predict and quantify the effects o
 The code for the app and the underlaying data is placed in this repository.
 
 ## Reference
-The data was published as paper Froidevaux et al, in press. A species-level trait dataset of bats in Europe and beyond. 
+The data is described in Froidevaux et al, in press. A species-level trait dataset of bats in Europe and beyond. 
 
 ## Acknowledgements
 COST (European Cooperation in Science and Technology) is a funding agency for research and innovation networks. Our Actions help connect research initiatives across Europe and enable scientists to grow their ideas by sharing them with their peers. This boosts their research, career and innovation.
